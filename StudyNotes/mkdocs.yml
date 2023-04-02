@@ -1,0 +1,105 @@
+# 站点名称
+site_name: komori的学习笔记
+# 站点网址
+site_url: https://www.komoriwork.com
+# 作者名
+site_author: komori
+# 存储库的链接
+repo_url: https://github.com/komori-flag/notes-md
+# 存储库的链接的名称
+repo_name: notes-md
+
+extra: 
+  # 链接主页
+  homepage: https://www.komoriwork.com
+
+  # 是否隐藏页脚显示“使用 MkDocs 制造”
+  generator: true
+  # 版本选择器
+  version: mike
+
+theme:
+  # 文档风格
+  name: material
+
+  # 文档语言类型
+  language: zh
+
+  # logo
+  # logo: {图片地址}
+
+  # 网站图标
+  # favicon: {icon文件地址}
+
+
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  
+  features: 
+    # 返回顶部按钮
+    - navigation.top
+
+    # 锚点跟随
+    - toc.follow
+    
+    # 导航集成
+    # - toc.integrate
+
+# 目录结构
+nav:
+  - 主页: index.md
+  - 外国语: 
+    - 英语: 
+      - 新概念英语: 
+        - 主页: LanguageStudy\English\NewConceptEnglish\index.md
+        - 第一册:
+          - 主页: LanguageStudy\English\NewConceptEnglish\Frist\index.md
+          - 目录: LanguageStudy\English\NewConceptEnglish\Frist\Contents.md
+          - Lesson 1: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-1.md
+          - Lesson 2: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-2.md
+          - Lesson 3: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-3.md
+        # - 第二册:
+        # - 第三册:
+        # - 第四册:
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+
+
+# 版权信息
+copyright:
+  <div>提示信息显示</div>
