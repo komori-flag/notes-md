@@ -6,12 +6,12 @@
 <font size=5>**excuse me**</font><br>
 ①：打扰一下（引起注意）；<br>
 >例：<br>
-> Excuse me, I think this is yours?（抱歉打扰一下，这个是你的吧？）<br>
-> Excuse me, everyone?（打扰各位一下）
+> Excuse me, I think this is yours?（抱歉打扰一下，这个是你的吧？ | すみませんが、これはあなたのですか。）<br>
+> Excuse me, everyone?（打扰各位一下 | あのう、すみませんが）
 
 ②：借过；让一下
 >例：<br>
-Excuse me, Let me through.（借过，借过一下）<br>
+Excuse me, Let me through.（借过，借过一下 | ちょっと通してくださ～い！）<br>
 
 
 ----
@@ -24,9 +24,9 @@ Excuse me, Let me through.（借过，借过一下）<br>
 
 
 在表达“让对方再讲一遍”的时候，除了可以使用“pardon（请谅）”以外，还可以使用以下的短句或词：
->①：sorry?（抱歉）；<br>
->②：come again?（再说一次？）；<br>
->③：what?（什么？）。
+>①：sorry?（抱歉 | すみませんが）；<br>
+>②：come again?（再说一次？ | もう一度言ってください）；<br>
+>③：what?（什么？ | 何？）。
 
 
 <font size=5>**Thank you very(so) much**</font>
@@ -101,11 +101,11 @@ Is this your <font color="orange">handbag</font>?（这个是你的手提包吗�
 ---
 ### 四：如何询问某件物品是某人的？
 
-![](../img/Frist/Lesson-1/Lesson-1_1.png)<br><font size=4>Excuse me!（打扰一下）</font>
+![](../img/Frist/Lesson-1/Lesson-1_1.png)<br><font size=4>Excuse me!（打扰一下！ | あのう、すみません！）</font>
 <br><br>
-![](../img/Frist/Lesson-1/Lesson-1_2.png)<br><font size=4>Yes?（怎么了？）</font>
+![](../img/Frist/Lesson-1/Lesson-1_2.png)<br><font size=4>Yes?（怎么了？ | どうしたですか。）</font>
 <br><br>
-![](../img/Frist/Lesson-1/Lesson-1_3.png)<br><font size=4>Is this your handbag?（这是你的手提包吗？）</font>
+![](../img/Frist/Lesson-1/Lesson-1_3.png)<br><font size=4>Is this your handbag?（这是你的手提包吗？ | これはあなたのハンドバッグですか？）</font>
 <br>
 
 
