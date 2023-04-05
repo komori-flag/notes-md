@@ -6,7 +6,7 @@
 <font size=5>**please**</font>&nbsp;&nbsp;<font size=4>`int.(用于客气地请求或吩咐)请，请问；拜托`</font><br>
 补充：please please please!!! （拜托了）<br>
 
-> 例：Can we keep him? Please, please, please.（我能留着它吗？可以吗？拜托了）<br>
+> 例：Can we keep him? Please, please, please.（我能留着它吗？可以吗？拜托了 | 私に預かってもらっていいですか。いいの？お願い…）<br>
 
 
 ---
@@ -15,8 +15,8 @@
 one ticket to xxx（某地）. （买一张去往某地的票）
 
 > 例：<br>
-> one ticket to Beijing.（买一张票去北京）<br>
-> one return ticket to Beijing.（买一张往返北京的票）<br>
+> one ticket to Beijing.（买一张去北京的票 | 北京まで一人分のチケットをお願いします。）<br>
+> one return ticket to Beijing.（买一张往返北京的票 | 北京まで一人分の往復チケットをお願いします。）<br>
 
 
 ---
@@ -27,6 +27,54 @@ one ticket to xxx（某地）. （买一张去往某地的票）
 > 81192 --> eight one one nine two<br>
 > 514 --> five one four<br>
 > 等等.....
+
+
+---
+### 四：如何表达“这不是我的”？
+
+This is <font color=red>**not**</font> my ...（这不是我的... | これは私の(物、荷物など)ではありません。）
+
+
+#### <font color=red>语法：否定句</font>
+肯定句式：<br>
+This is my ...（这是我的... | これは私の(物、荷物など)です。
+）<br>
+> 例：
+> This is my umbrella.（这是我的雨伞 | これは私の傘です。）<br>
+> This is my coat.（这是我的外套 | これは私のコートです。）<br>
+
+
+否定句式：<br>
+This is not my ...（这不是我的... | これは私の(物、荷物など)ではありません。）<br>
+> 例：<br>
+> This is not my umbrella.（这不是我的雨伞 | これは私の傘ではありません。）<br>
+> This is not my coat.（这不是我的外套 | これは私のコートではありません。）<br>
+
+
+---
+### 五：如何表达“给你我的外套”？
+
+Here is my ...（给你我的... | ）<br>
+> 例：<br>
+> Here is my coat.（给你我的外套 | これ（私のコート）を着て。）<br>
+> Here is my money.（给你我的钱 | はい、これ（お金）。）<br>
+
+
+常见用法：<br>
+Here is my number.（给你我的电话号码 | はい、これ、私の電話番号。）<br>
+
+
+---
+### 六：英文的缩写？
+
+“**缩写**”就是在英语句子表达中，为了更方便，把事物称谓中的成分进行有规律的节缩。即缩略。<br>
+
+缩写形式和非缩写形式在英文的书面和口语中均有，非缩写形式一般用于比较正式的场合。<br>
+
+到目前的学习为止，仅学到以下的英文缩写：<br>
+> Here's = Here is<br>
+> isn't = is not<br>
+> It is = It's<br>
 
 
 ---
@@ -90,5 +138,27 @@ one ticket to xxx（某地）. （买一张去往某地的票）
     ```
 
 
-??? note "练习"
+??? note "语法"
+    **否定句**<br>
+    肯定句：This is my ...（这是我的... | これは私の(物、荷物など)です。）<br>
+    否定句：This is <font color=red>not</font> my ...（这不是我的... | これは私の(物、荷物など)ではありません。）<br>
+    <font color=yellow style="background-color: #8B4513	">提示：到目前的学习为止，肯定句变为否定句仅需要知道这样（is + not）的变换方式即可。</font><br>
+    <br>
+    例子：<br>
+    > 肯定句式：<br>
+    > This is my umbrella.（这是我的雨伞 | これは私の傘です。）<br>
+    > This is my coat.（这是我的外套 | これは私のコートです。）<br>
+    > 否定句式：<br>
+    > This is not my umbrella.（这不是我的雨伞 | これは私の傘ではありません。）<br>
+    > This is not my coat.（这不是我的外套 | これは私のコートではありません。）<br>
 
+
+
+!!! note "练习"
+    ```text
+    # 否定句
+    This is my coat.
+    ① 一般疑问句：Is this my coat?（这是我的外套吗？ | これは私のコートですか。）
+    ② 肯定/否定回答：Yes, it is. / No, it isn't(is not).（是的，这是 / 不是，这不是 | はい、そうです。 / いいえ、違います。）
+    ③ 否定句：This is not my coat.（这不是我的外套。 | これは私のコートではありません。）
+    ```
