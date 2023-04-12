@@ -30,7 +30,7 @@ Wakling among three people, I find my <font color=orange>teacher</font> among th
     **/su:t/**<br>
     <font size=5>**suit**</font>&nbsp;&nbsp;<font size=4>`n.一套衣服（一般指正装相关的衣服）`</font><br>
     <br>
-    **/sk(g)uːl/**<br>
+    **/skuːl/**<br>
     <font size=5>**suit**</font>&nbsp;&nbsp;<font size=4>`n.学校`</font><br>
     补充：k（清辅音） --> g（浊辅音）<br>
     <br>

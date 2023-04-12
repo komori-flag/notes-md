@@ -19,6 +19,31 @@
 
 ---
 ### 三：如何表达“我也是”？
+**/tuː/**<br>
+<font size=5>**too**</font>&nbsp;&nbsp;<font size=4>`adj.过于，而且，也`</font><br>
+例：A：I like this shirt. B：Me too.（A：我很喜欢这件短袖。B：我也是。）
+
+
+---
+### 四：如何使用 a/an？
+
+#### 1.a/an 的含义
+在目前所学习到的知识当中，并不能完全概括为是“一个”的意思。<br>
+> 例：<br>
+> Sophie is <font color=orange>a</font> new student.（苏菲是<font color=orange>一位</font>新学生）<br>
+> This is not <font color=orange>an</font> umbrella.（这不是<font color=orange>一把</font>雨伞）<br>
+
+
+#### 2.a/an 的位置
+目前仅需要知道，a/an 用于单个的可数名词前，表示数量“一个”。<br>
+> 例：<br>
+> a pen.（一支钢笔）<br>
+> an apple.（一个苹果）<br>
+
+
+#### 3.a/an 的区别
+二者区别在于，a用于辅音音素前，一般读作e，而an则用于元音音素前，一般读做an。<br>
+
 
 
 
@@ -63,8 +88,22 @@
     <font size=5>**German**</font>&nbsp;&nbsp;<font size=4>`adj.德国的；n.德国人，德国`</font><br>
     <br>
     **/ˌdʒæpəˈniːz/**<br>
-    <font size=5>**Japanese**</font>&nbsp;&nbsp;<font size=4>`adj.日本的; 日本人的；n.日本人; 日语；`</font><br>
-    补充（chitchat）：夸赞他们国家的特色食品也是一个很好的搭讪方式（例：I love sushi.(我喜欢你们那边的寿司)）
+    <font size=5>**Japanese**</font>&nbsp;&nbsp;<font size=4>`adj.日本的、日本人的；n.日本人、日语；`</font><br>
+    补充（chitchat）：夸赞他们国家的特色食品也是一个很好的搭讪方式（例：I love sushi.(我喜欢你们那边的寿司)）<br>
+    <br>
+    **/kəˈriən/**<br>
+    <font size=5>**Korean**</font>&nbsp;&nbsp;<font size=4>`adj.朝鲜(或韩国)的、朝鲜(或韩国)人的；n.韩国人、 韩国语`</font><br>
+    补充（chitchat）：夸赞他们国家的特色食品也是一个很好的搭讪方式（例：I love kimchi.(我喜欢你们那边的韩国泡菜)）<br>
+    <br>
+    **/tʃaɪˈniːz/**<br>
+    <font size=5>**Chinese**</font>&nbsp;&nbsp;<font size=4>`adj.中国的、中华民族的、中文的；n.中国人、华人、汉语;`</font><br>
+    补充：<br>
+    ①：既可以代表国籍的“中国；中国人”，也可以代表血统的“华籍”等。<br>
+    ②：Mandarin（普通话） 与 Cantonese（粤语）<br>
+    <br>
+    **/tuː/**<br>
+    <font size=5>**too**</font>&nbsp;&nbsp;<font size=4>`adj.过于，而且，也`</font><br>
+    例：A：I like this shirt. B：Me too.（A：我很喜欢这件短袖。B：我也是。）<br>
     <br>
 
 

@@ -91,6 +91,9 @@ nav:
         # - 第二册:
         # - 第三册:
         # - 第四册:
+      - 音标:
+        - 主页: LanguageStudy\English\phonetic-symbol\index.md
+        - 元音音标: LanguageStudy\English\phonetic-symbol\Vowels.md
 
 markdown_extensions:
   - pymdownx.highlight:
