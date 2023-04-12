@@ -77,7 +77,7 @@
     <font size=5>**new**</font>&nbsp;&nbsp;<font size=4>`adj.刚出现的; 新的`</font><br>
     <br>
     **/ˈstjuːdənt/**<br>
-    <font size=5>**new**</font>&nbsp;&nbsp;<font size=4>`n.学生`</font><br>
+    <font size=5>**student**</font>&nbsp;&nbsp;<font size=4>`n.学生`</font><br>
     补充：一个单词如果最前面为 /s/ 随后跟着一个清辅音的话，后面的清辅音需要变为相对应的浊辅音。<br>
     例：/ˈs<font color=orange>t</font>juːdənt/ --> /ˈs<font color=orange>d</font>juːdənt/<br>
     <br>
