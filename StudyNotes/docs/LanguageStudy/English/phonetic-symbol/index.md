@@ -1,6 +1,7 @@
 # 英语音标
 
-跟学视频：<a href="https://www.bilibili.com/video/BV1u84y1c7JE" target="_blank">英语 英式音标 国际音标 元音音标 Leo老师讲解</a>
+跟学视频1：<a href="https://www.bilibili.com/video/BV1u84y1c7JE" target="_blank">英语 英式音标 国际音标 元音音标 Leo老师讲解</a><br>
+跟学视频2：<a href="https://www.bilibili.com/video/BV1zZ4y1F7F9" target="_blank">英语 英式音标 国际音标 辅音音标 Leo老师讲解</a>
 
 
 ---

@@ -78,6 +78,11 @@ nav:
   - 主页: index.md
   - 外国语: 
     - 英语: 
+      - 音标:
+        - 主页: LanguageStudy\English\phonetic-symbol\index.md
+        - 元音音标: LanguageStudy\English\phonetic-symbol\Vowels.md
+        - 辅音音标: LanguageStudy\English\phonetic-symbol\Consonants.md
+
       - 新概念英语: 
         - 主页: LanguageStudy\English\NewConceptEnglish\index.md
         - 第一册:
@@ -88,12 +93,13 @@ nav:
           - Lesson 3: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-3.md
           - Lesson 4: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-4.md
           - Lesson 5: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-5.md
+        
         # - 第二册:
+        
         # - 第三册:
+        
         # - 第四册:
-      - 音标:
-        - 主页: LanguageStudy\English\phonetic-symbol\index.md
-        - 元音音标: LanguageStudy\English\phonetic-symbol\Vowels.md
+        
 
 markdown_extensions:
   - pymdownx.highlight:

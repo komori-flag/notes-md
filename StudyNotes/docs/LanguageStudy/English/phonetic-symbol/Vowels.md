@@ -12,7 +12,7 @@
 
 ### 1./i/ 与 /iː/
 
-#### /i/ = /ɪ/（短元音）
+/i/ = /ɪ/（短元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/ɪ/** 的单词"
     <font size=4>**miss**</font>&nbsp;&nbsp;<font size=3>`/mɪs/`</font><br>
@@ -22,7 +22,7 @@
     <font size=4>**this**</font>&nbsp;&nbsp;<font size=3>`/ðɪs/`</font><br>
 
 
-#### /iː/（长元音）
+/iː/（长元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/iː/** 的单词"
     <font size=4>**me**</font>&nbsp;&nbsp;<font size=3>`/miː/`</font><br>
@@ -35,7 +35,7 @@
 ---
 ### 2./ə/ 与 /əː/
 
-#### /ə/（短元音）
+/ə/（短元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/ə/** 的单词"
     <font size=4>**umbrella**</font>&nbsp;&nbsp;<font size=3>`/ʌmˈbrel.ə/`</font><br>
@@ -45,7 +45,7 @@
     <font size=4>**perhaps**</font>&nbsp;&nbsp;<font size=3>`/pə(r)ˈhæps/`</font><br>
 
 
-#### /əː/ = /ɜː/（长元音）
+/əː/ = /ɜː/（长元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/əː/** 的单词"
     <font size=4>**sir**</font>&nbsp;&nbsp;<font size=3>`/sɜːr/`</font><br>
@@ -58,7 +58,7 @@
 ---
 ### 3./ɔ/ 与 /ɔː/
 
-#### /ɒ/ = /ɔ/（短元音）
+/ɒ/ = /ɔ/（短元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/ɔ/** 的单词"
     <font size=4>**watch**</font>&nbsp;&nbsp;<font size=3>`/wɒtʃ/`</font><br>
@@ -68,7 +68,7 @@
     <font size=4>**orange**</font>&nbsp;&nbsp;<font size=3>`/ˈɒr.ɪndʒ/`</font><br>
 
 
-#### /ɔː/（长元音）
+/ɔː/（长元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/ɔː/** 的单词"
     <font size=4>**your**</font>&nbsp;&nbsp;<font size=3>`/jɔː(r)/`</font><br>
@@ -80,7 +80,7 @@
 ---
 ### 4./u/ 与 /uː/
 
-#### /ʊ/ = /u/（短元音）
+/ʊ/ = /u/（短元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/u/** 的单词"
     <font size=4>**book**</font>&nbsp;&nbsp;<font size=3>`/bʊk/`</font><br>
@@ -88,7 +88,7 @@
     <font size=4>**look**</font>&nbsp;&nbsp;<font size=3>`/lʊk/`</font><br>
 
 
-#### /uː/（长元音）
+/uː/（长元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/uː/** 的单词"
     <font size=4>**food**</font>&nbsp;&nbsp;<font size=3>`/fuːd/`</font><br>
@@ -101,7 +101,7 @@
 ---
 ### 5./ʌ/ 与 /ɑː/
 
-#### /ʌ/（短元音）
+/ʌ/（短元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/ʌ/** 的单词"
     <font size=4>**son**</font>&nbsp;&nbsp;<font size=3>`/sʌn/`</font><br>
@@ -111,7 +111,7 @@
     <font size=4>**color**</font>&nbsp;&nbsp;<font size=3>`/ˈkʌl.ə(r)/`</font><br>
 
 
-#### /ɑː/（长元音）
+/ɑː/（长元音）
 
 ??? note "《新概念英语》第一册中涉及到读 **/ɑː/** 的单词"
     <font size=4>**father**</font>&nbsp;&nbsp;<font size=3>`/ˈfɑː.ðə(r)/`</font><br>
@@ -122,7 +122,7 @@
 
 
 ---
-### 6./e/（短元音）
+### 6./e/
 
 ??? note "《新概念英语》第一册中涉及到读 **/e/** 的单词"
     <font size=4>**yes**</font>&nbsp;&nbsp;<font size=3>`/jes/`</font><br>
@@ -133,7 +133,7 @@
 
 
 ---
-### 7./æ/（短元音）
+### 7./æ/
 
 ??? note "《新概念英语》第一册中涉及到读 **/æ/** 的单词"
     <font size=4>**hand**</font>&nbsp;&nbsp;<font size=3>`/hænd/`</font><br>
