@@ -82,6 +82,7 @@ nav:
         - 主页: LanguageStudy\English\phonetic-symbol\index.md
         - 元音音标: LanguageStudy\English\phonetic-symbol\Vowels.md
         - 辅音音标: LanguageStudy\English\phonetic-symbol\Consonants.md
+        - 重音、音节、变音: LanguageStudy\English\phonetic-symbol\AccentMetaphoneSyllable.md
 
       - 新概念英语: 
         - 主页: LanguageStudy\English\NewConceptEnglish\index.md
@@ -99,7 +100,7 @@ nav:
         # - 第三册:
         
         # - 第四册:
-        
+
 
 markdown_extensions:
   - pymdownx.highlight:
