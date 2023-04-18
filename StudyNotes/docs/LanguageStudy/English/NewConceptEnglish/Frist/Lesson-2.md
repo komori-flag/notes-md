@@ -78,7 +78,7 @@ I'll bring you a drink on the house.
     **/dres/**<br>
     <font size=5>**dress**</font>&nbsp;&nbsp;<font size=4>`n.连衣裙，长裙`</font><br>
     <br>
-    **/s k(g) ɜːt/**，/k/（清音）--> /g/（浊音）<br>
+    **/skɜːt/**，/k/（清音）--> /g/（浊音）<br>
     <font size=5>**dress**</font>&nbsp;&nbsp;<font size=4>`n.短裙`</font><br>
     补充（chitchat）：I love your ...（我好中意你的...）[ I love your + 想夸赞他人的点，一种夸张的表现手法 ]<br>
     <br>
