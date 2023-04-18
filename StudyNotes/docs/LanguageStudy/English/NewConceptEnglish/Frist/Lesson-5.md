@@ -25,26 +25,36 @@
 
 
 ---
-### 四：如何使用 a/an？
+### 四：不定冠词（a/an）的用法？
 
 #### 1.a/an 的含义
-在目前所学习到的知识当中，并不能完全概括为是“一个”的意思。<br>
+以目前所学到的知识，可以将其简单地认为是“一个”的意思。<br>
 > 例：<br>
 > Sophie is <font color=orange>a</font> new student.（苏菲是<font color=orange>一位</font>新学生）<br>
 > This is not <font color=orange>an</font> umbrella.（这不是<font color=orange>一把</font>雨伞）<br>
 
 
 #### 2.a/an 的位置
-目前仅需要知道，a/an 用于单个的可数名词前，表示数量“一个”。<br>
+a/an 用于单个的可数名词前，表示数量“一个”。<br>
 > 例：<br>
 > a pen.（一支钢笔）<br>
 > an apple.（一个苹果）<br>
 
 
 #### 3.a/an 的区别
-二者区别在于，a用于辅音音素前，一般读作e，而an则用于元音音素前，一般读做an。<br>
+二者区别在于，“a”用于辅音音标前，一般读作e，而“an”则用于元音音标前，一般读做an。<br>
+
+> 例：<br>
+> a pen（“p”为辅音音标，加“a”）<br>
+> an apple（“a”为元音音标，加“an”）<br>
+> an egg（“e”为元音音标，加“an”）<br>
 
 
+如果当一个单词的首字母不发音的情况下，则需要看单词第一个发音的音标为辅音音标/元音音标，再来判断加“a/an”。<br>
+
+> 例：<br>
+> an <font color=orange>h</font>our（“o”为元音音标，加“an”）<br>
+> a <font color=orange>u</font>niversity（/ˌ<font>j</font>uːnɪˈvɜːsəti/，/j/为辅音音标，加“a”）<br>
 
 
 ---
@@ -114,20 +124,7 @@
     How are you.（你好吗）<br>
     Hi.（氦(bushi)，嗨！）<br>
     <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <font size=5>**This is everybody**</font>&nbsp;&nbsp;<font size=4>`这是大家`</font><br>
+    例：<br>
+    Hi Alan, this is everybody.（嗨，艾伦，这是大家）<br>
 
