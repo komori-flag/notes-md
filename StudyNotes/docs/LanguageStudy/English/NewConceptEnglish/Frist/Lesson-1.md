@@ -218,3 +218,37 @@ yes? ↑（干什么？/怎么了？）
     This <font style="background-color: yellow; color: #000;" >is</font> my handbag.（这是我的手提包）<br>
     **一般疑问句**<br>
     <font style="background-color: yellow; color: #000;">Is</font> this my handbag?（这是我的手提包吗？）
+
+??? note "课后练习（语法练习）"
+    ```text
+    1.
+    例：
+    A: What's your name?（Ken Baker）
+    B: My name is Ken Baker.
+
+    A：What's your name?（Ann Scott）
+    B：My name is Ann Scott.
+
+    A：What's your name?（Kathy Backer）
+    B：My name is Kathy Backer.
+
+    ----
+    2.
+    例：
+    A：Excause me. Is this your pen? B：Yes, it is.
+
+    A：Excause me. Is this your pencil? B：Yes, it is.
+
+    A：Excause me. Is this your watch? B：Yes, it is.
+
+    A：Excause me. Is this your dress? B：Yes, it is.
+
+    ----
+    3.
+    例：
+    This is your book. --> Is this your book?
+
+    This is your car. --> Is this your car?
+    This is your handbag. --> Is this your handbag?
+    This is your pencil. --> Is this your pencil.
+    ```

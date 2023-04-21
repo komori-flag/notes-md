@@ -197,3 +197,23 @@ I'll bring you a drink on the house.
     这是你的房子吗？
     これはあなたの家ですか。
     ```
+
+??? note "课后练习（语法练习）"
+    ```text
+    1.
+    例：
+    this/your/is/classroom --> Is this your classroom?
+
+    your/book/is/this --> Is this your book?
+    is/this/shirt/your --> Is this your shirt?
+
+
+    ----
+    2.
+    例：
+    car：Is this your car? Yes, it is.
+
+    house：Is this your house? Yes, it is.
+    skirt：Is this your skirt? Yes, it is.
+
+    ```
