@@ -12,7 +12,7 @@
 
 
 ---
-### 二：入境登记卡（Arrival card）
+### 二：入境登记卡（Arrival card）[姓与名]
 
 ![](../img/Frist/Lesson-5/Lesson-5_01.png)
 

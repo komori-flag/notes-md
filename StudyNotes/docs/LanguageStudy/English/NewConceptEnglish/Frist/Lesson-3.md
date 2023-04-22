@@ -142,7 +142,7 @@ Here is my number.（给你我的电话号码 | はい、これ、私の電話�
     **否定句**<br>
     肯定句：This is my ...（这是我的... | これは私の(物、荷物など)です。）<br>
     否定句：This is <font color=red>not</font> my ...（这不是我的... | これは私の(物、荷物など)ではありません。）<br>
-    <font color=yellow style="background-color: #8B4513	">提示：到目前的学习为止，肯定句变为否定句仅需要知道这样（is + not）的变换方式即可。</font><br>
+    <font color=yellow style="background-color: #8B4513">提示：到目前的学习为止，肯定句变为否定句仅需要知道这样（is + not）的变换方式即可。</font><br>
     <br>
     例子：<br>
     > 肯定句式：<br>
