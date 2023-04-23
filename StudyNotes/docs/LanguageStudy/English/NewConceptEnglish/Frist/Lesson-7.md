@@ -14,8 +14,8 @@ Where are you from?[（平常说法）你来自于哪里的？ | あなたの出
 <font size=5>**What's your job?**</font>&nbsp;&nbsp;<font size=4>`你是干什么工作的？（一般情况下不要轻易询问）`</font><br>
 补充：<br>
 在一般情况下我们并不能直接询问对方的职业，我们可以使用以下的句子来替换：<br>
-What do you do?（你是干什么的？）
-What do you do for a living?（你是靠什么营生的？）
+What do you do?（你是干什么的？）<br>
+What do you do for a living?（你是靠什么营生的？）<br>
 例：<br>
 What's your job?（你是干什么工作的？）<br>
 I'm an English teacher.（我是一位英语教师。）<br>
@@ -25,6 +25,38 @@ I'm an English teacher.（我是一位英语教师。）<br>
 ## 三：入境登记卡（Arrival card）[国籍与职业]
 
 ![](../img/Frist/Lesson-7/Lesson-7_01.png)
+
+
+---
+## 四：特殊疑问句 与 一般疑问句
+
+<font size=4 color=red>**特殊疑问句 = 特殊疑问词（如：what、where等） + 一般疑问句（去掉答案）**</font>
+
+> 例：<br>
+> My name is Marisa.<br>
+> <font color=orange>Is</font> your name Marisa?（一般疑问句）<br>
+> She is from Italy.<br>
+> <font color=orange>Is</font> she from Italy?（一般疑问句）<br>
+
+```text
+一般疑问句 --> 特殊疑问句
+
+ ┌-----------------------------┐
+ ↓                             |
+     Is your name (Marisa --> what)? 
+
+What is your name?
+
+
+ ┌----------------------------┐
+ ↓                            |
+     Is she from (Italy --> where)? 
+
+Where is she from?
+```
+
+### 如何区分一段话为特殊疑问句，还是一般疑问句呢？
+能用yes / no回答的问句为一般疑问句，不能够使用yes / no回答的问句便是特殊疑问句。
 
 
 ---
@@ -60,6 +92,32 @@ I'm an English teacher.（我是一位英语教师。）<br>
     <br>
 
 
+??? note "语法"
+    <font size=4 color=red>**特殊疑问句 = 特殊疑问词（如：what、where等） + 一般疑问句（去掉答案）**</font>
+
+    > 例：<br>
+    > My name is Marisa.<br>
+    > <font color=orange>Is</font> your name Marisa?（一般疑问句）<br>
+    > She is from Italy.<br>
+    > <font color=orange>Is</font> she from Italy?（一般疑问句）<br>
+
+    ```text
+    一般疑问句 --> 特殊疑问句
+
+     ┌-----------------------------┐
+     ↓                             |
+         Is your name (Marisa --> what)? 
+
+    What is your name?
+
+
+     ┌----------------------------┐
+     ↓                            |
+         Is she from (Italy --> where)? 
+
+    Where is she from?
+    ```
+
 
 ??? note "短语"
     <font size=5>**I am ...**</font>&nbsp;&nbsp;<font size=4>`我是...`</font><br>
@@ -83,8 +141,8 @@ I'm an English teacher.（我是一位英语教师。）<br>
     <font size=5>**What's your job?**</font>&nbsp;&nbsp;<font size=4>`你是干什么工作的？（一般情况下不要轻易询问）`</font><br>
     补充：<br>
     在一般情况下我们并不能直接询问对方的职业，我们可以使用以下的句子来替换：<br>
-    What do you do?（你是干什么的？）
-    What do you do for a living?（你是靠什么营生的？）
+    What do you do?（你是干什么的？）<br>
+    What do you do for a living?（你是靠什么营生的？）<br>
     例：<br>
     What's your job?（你是干什么工作的？）<br>
     I'm an English teacher.（我是一位英语教师。）<br>
