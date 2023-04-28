@@ -1,6 +1,7 @@
 # Contents（目录）
 
 ## 1-10
+
 [Lesson 1: Excuse me!（对不起！）](./Lesson-1.md)
 
 [Lesson 2: Is this your ...?（这是你的...吗？）](./Lesson-2.md)
@@ -24,3 +25,8 @@
 
 ---
 ## 11-20
+
+[Lesson 11: Is this your shirt?（这是你的衬衫吗？）](./Lesson-11.md)
+
+[Lesson 12: Whois is this ...? This is my/your/his/her ...（这...是谁的？这是 我的/你的/他的/她的 ...） Whois is that ...? That is my/your/his/her ...（那...是谁的？那是 我的/你的/他的/她的）](./Lesson-12.md)
+
