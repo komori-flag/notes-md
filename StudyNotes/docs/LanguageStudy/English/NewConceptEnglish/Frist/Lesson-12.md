@@ -75,14 +75,20 @@
 ??? note "单词"
     **/ˈfɑːðə(r)/**<br>
     <font size=5>**father**</font>&nbsp;&nbsp;<font size=4>`n.父亲`</font><br>
+    <br>
     **/ˈmʌðə(r)/**<br>
     <font size=5>**mother**</font>&nbsp;&nbsp;<font size=4>`n.母亲`</font><br>
+    <br>
     **/blaʊz/**<br>
     <font size=5>**blouse**</font>&nbsp;&nbsp;<font size=4>`n.女式衬衫`</font><br>
+    <br>
     **/ˈsɪstə(r)/**<br>
     <font size=5>**sister**</font>&nbsp;&nbsp;<font size=4>`n.姐妹; 姐; 妹`</font><br>
+    <br>
     **/ˈbrʌðə(r)/**<br>
     <font size=5>**brother**</font>&nbsp;&nbsp;<font size=4>`n.兄弟;兄，弟;`</font><br>
+    <br>
     **/taɪ/**<br>
     <font size=5>**tie**</font>&nbsp;&nbsp;<font size=4>`n.领带`</font><br>
+    <br>
 
