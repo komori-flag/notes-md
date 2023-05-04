@@ -60,3 +60,6 @@
     <font size=5>**lazybones**</font>&nbsp;&nbsp;<font size=4>`adj.懒汉; 懒虫; 懒骨头`</font><br>
     <br>
 
+
+??? note "语法练习"
+

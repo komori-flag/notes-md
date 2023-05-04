@@ -33,6 +33,26 @@ different（/ˈdɪfrənt/，adj.不同的）<br>
 
 
 ---
+## 三：如何强调“我是一位老师”？
+
+在英语当中，可以通过将一个词的读音变重来表达强调。
+
+> 例：<br>
+> I am a teacher.（我是一位老师）<br>
+> I <u>am</u> a teacher（我真的是一位老师）<br>
+
+
+---
+## 四：A and B
+
+以目前所学到的知识来理解，“A and B”常指的是“A 和/与 B”；它同时也有接续的成分在里面“在做完 A 的动作之后，B 的动作便开始执行”。<br>
+
+> 例：<br>
+> book and pen（书与笔）<br>
+> upstairs and see（来楼上瞧瞧[来到了楼上之后就来看看]）<br>
+
+
+---
 ??? note "单词"
     **/ˈkʌlə(r)/**<br>
     <font size=5>**colour(color)**</font>&nbsp;&nbsp;<font size=4>`n.颜色`</font><br>
@@ -57,7 +77,7 @@ different（/ˈdɪfrənt/，adj.不同的）<br>
     补充：<br>
     多数情况下此词表“`聪明的`”意思。<br>
     例：<br>
-    He is smart? --He's very smart.（他聪明吗？ --他非常聪明。）
+    He is smart? --He's very smart.（他聪明吗？ --他非常聪明。）<br>
     <br>
     **/hæt/**<br>
     <font size=5>**hat**</font>&nbsp;&nbsp;<font size=4>`n.帽子`</font><br>

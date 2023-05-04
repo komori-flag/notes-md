@@ -148,3 +148,35 @@ Where is she from?
     I'm an English teacher.（我是一位英语教师。）<br>
     <br>
 
+
+??? note "语法练习"
+    ```text
+    1.用 am/is/are 填空
+    ①：I *am* a new student. My name *is* Alice.
+    ②：*Are* you a new student, too?  -- Yes, I *am*.
+    ③：What *is* you job?  -- I *am* a keyboard operator.
+    ④：I *am* a English teacher. My sister *is* an English teacher, too.
+
+
+    2.仿照例句回答问题
+    例：
+    Are you a boy?  -- *Yes, I am./No, I'm not. I'm a girl.*
+    Are you Mary?(Jane)  -- *No, I'm not. I am Jane.*
+
+    ①：Are you a giri?  -- *Yes, I am./No, I'm not. I'm a boy.*
+    ②：Are you an engineer? -- *Yes, I am./No, I'm not. I'm a keyboard operator.*
+    ③：Are you Chinese?(Korean)  -- *No, I'm not. I'm Korean.*
+    ④：Are you a mechanic?(policeman)  -- *No, I'm not. I'm a policeman.*
+
+
+    3.仿照例句回答问题
+    例：
+    Are you a teacher?(yes)  -- *Yes, I am.*
+    What nationality are you?(English)  -- *I'm English.*
+    What's your job?(nurse)  -- *I'm a nurse.*
+
+    ①：Are you an engineer?(no/mechanic)  -- *No, I am not. I'm an mechanic.*
+    ②：What nationality is he?(Swedish)  -- *I'm Swedish.*
+    ③：Is she Korean or Japanese?(Japanese)  -- *She's Japanese.*
+    ```
+

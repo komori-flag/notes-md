@@ -48,3 +48,23 @@
 ??? note "短语"
     <font size=5>**What brand is this?**</font>&nbsp;&nbsp;<font size=4>`这是什么品牌的？`</font><br>
 
+
+??? note  "语法练习"
+    1.仿照例句用 he/she/it 改写下列句子
+    例：That book is French.  -- It's a French book.
+
+    ①：That teather is English.  -- He's/She's an English teacher.
+    ②：That car is Swedish.  -- It's a Swedish car.
+    ③：Our teacher is good.  -- He's/She's is a good teacher.
+
+
+    2.仿照例句用所给的词回答问题
+    例：
+    Is it a Swedish car or an American car?(American)  -- It's an American car.
+    Is Linda American or English?(American)  -- She is American.
+
+    ①：Is Hans a German student or a French student?(German)  -- Hans is a German student.
+    ②：Is Fiat a French car or an Italian car?(Italian)  -- Fiat is an Italian car.
+    ③：Is he French or Italian?(French)  -- He is French.
+    ④：Is Naoko Korean or Japanese?(Japanese)  -- Naoko is Japanese.
+

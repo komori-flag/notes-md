@@ -92,3 +92,6 @@
     <font size=5>**tie**</font>&nbsp;&nbsp;<font size=4>`n.领带`</font><br>
     <br>
 
+
+??? note "语法练习"
+

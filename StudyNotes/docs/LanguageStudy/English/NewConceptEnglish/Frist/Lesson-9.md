@@ -94,3 +94,27 @@ nice to <font color=orange>see</font> you（认识的两个人见面时使用，
     <font size=5>**Nice to see you**</font>&nbsp;&nbsp;<font size=4>`很高兴看到你[认识的两个人见面时使用，说话的双方互相认识]`</font><br>
     <br>
 
+
+??? note "语法练习"
+    ```text
+    1.使用 I'm/He's/She's/It's 进行填空
+    ①：How are you today? *I'm* very well, thank you.
+    ②：Jane is American. *She's* my friend.
+    ③：Is this your house? *It's* very nice.
+    ④：This is Mr. Rankin. *He's* a policeman.
+
+
+    2.仿照例句。根据答案用 How is/are ... 来提问
+    例：*How are you?*  -- (you) I'm very well, thank you.
+
+    ①：*How is Emma?*  -- (Emma) She's fine. thanks.
+    ②：*How is your mother?*  -- (your mother) She's fine, thank you.
+    ③：*How are you?*  -- (you) I'm very fine, thanks.
+
+
+    3.从 B 栏中找出与 A 栏的问题相对应的答案
+    （c）①：Is she young?                          a：Yes, it is.
+    （b）②：Are you well today?                    b：I'm very well, thank you.
+    （a）③：Is it cold today?                      c：No, she isn't. She's old.
+    ```
+

@@ -120,3 +120,33 @@
     <font size=5>**hairdresser**</font>&nbsp;&nbsp;<font size=4>`n.理发师; 美发师`</font><br>
     <br>
 
+
+??? note "语法练习"
+    ```text
+    1.使用 a/an 来填写句子
+    ①：My name is Thomas. I am *an* Italian student.
+    ②：This is *an* umberlla. It's *an* old umberlla.
+    ③：This is *an* English car. It's *a* Mini.
+    ④：What make is it?  -- It's a ford.
+
+
+    2.仿照例句用所给的词提问并回答
+    例：
+    your/milkman
+    What's your job?  -- I'm a milkman.
+
+    ①：your/engineer
+    What's your job?  -- I'm an engineer.
+    ②：her/keyboard operator
+    What's your job?  -- I'm a keyboard operator.
+    ③：he/housewife
+    What's your job?  -- I'm a housewife.
+
+
+    3.仿照例句回答问题
+    例：Is he an enngineer or a mechanic?(engineer)  -- *He isn't a mechanic. He's an engineer.*
+
+    ①：Are you a taxi driver or a mechanic?(taxi driver)  -- I'm not a mechanic. I'm a taxi driver.
+    ②：Is she a nurse or doctor?(doctor)  -- She isn't a nurse. She's a doctor.
+    ②：Is your sister a nurse or an air hostess?(air hostess)  -- She isn't a nurse. She's an air hostess.
+    ```

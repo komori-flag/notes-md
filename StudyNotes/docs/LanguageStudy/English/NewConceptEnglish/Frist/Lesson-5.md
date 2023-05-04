@@ -128,3 +128,39 @@ a/an 用于单个的可数名词前，表示数量“一个”。<br>
     例：<br>
     Hi Alan, this is everybody.（嗨，艾伦，这是大家）<br>
 
+
+??? note "语法练习"
+    ```text
+    1.在单词前加上 a/an
+    例： a car；an umbrella。
+    
+    a teacher；a school；a suit；a pencil；a shirt；a student；a watch；a morning；a house；a university。
+    an American car；an Italian house；an English teacher。
+
+    
+    2.模仿例句回答问题
+    Is Alice a new student?(yes)  -- Yes, she is.
+    Is she Japanese?(American)  -- No, she isn't. She is American.
+
+    ①：Is Anna a new teacher?(yes)  -- Yes, she is.
+       Is she Italian?(English)  -- No, she isn't. She is English.
+    ②：Is Hans an old teacher?(yes)  -- Yes, he is.
+       Is he French?(German)  -- No, he isn't. He is German.
+    ③：Is Kawabata a nice man?(yes)  -- Yes, he is.
+       Is he Korean?(Japanese)  -- No, he isn't. He is Japanese.
+
+
+    3.模仿例句回答问题并写出相应的疑问句
+    例句：
+    What nationality is  ...?
+    What's his/her name?
+    What make is your car?
+
+    例：
+    What nationality is Sophie?  -- Sophie is French.
+    What his name?  -- His name is Michael.
+
+    ①：What make is your car?  -- It's a Toyota.
+    ②：What nationality is William?  -- William is English.
+    ③：What's her name?  -- Her name is Naoko.
+    ```

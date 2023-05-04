@@ -45,11 +45,31 @@ Wakling among three people, I find my <font color=orange>teacher</font> among th
     <br>
 
 
+??? note "语法练习"
+   ```text
+   1.仿照例句回答下列问题
+   例：
+   Is this your book?  -- Yes, it is.
+   Is this my book?  -- No, it isn't.
+
+   ①：Is this your pencil?  -- Yes, it is.
+      Is this my pencil?  -- No, it isn't.
+   ②：Is this your ticket?  -- No, it isn't.
+      Is this my ticket?  -- Yes, it is.
+   ③：Is this your suit?  -- Yes, it is.
+      Is this my suit?  -- No it isn't.
 
 
+   2.仿照例句所给的词回答问题
+   例：
+   Is this my umbrella or your umbrella?(your umbrella)
+   -- It isn't my umbrella. It's your umbrella.
 
-
-
-
-
-
+   ①：Is this my suit or your suit?(my shuit)
+   -- It isn't your suit. It's my suit.
+   ②：Is this my watch or your watch?(your watch)
+   -- It isn't my watch. It's your watch.
+   ③：Is this my handbag or your handbag?(my handbag)
+   -- It isn't your handbag. It's my handbag.
+   ```
+   
