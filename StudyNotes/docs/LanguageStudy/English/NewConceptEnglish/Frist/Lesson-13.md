@@ -100,3 +100,7 @@ different（/ˈdɪfrənt/，adj.不同的）<br>
     so cute/lovely.（好可爱啊）<br>
     <br>
 
+
+??? note "语法练习"
+
+

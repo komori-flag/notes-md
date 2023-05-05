@@ -30,3 +30,9 @@
 
 [Lesson 12: Whois is this ...? This is my/your/his/her ...（这...是谁的？这是 我的/你的/他的/她的 ...） Whois is that ...? That is my/your/his/her ...（那...是谁的？那是 我的/你的/他的/她的）](./Lesson-12.md)
 
+[Lesson 13：A new dress.（一件新的连衣裙）](./Lesson-13.md)
+
+[Lesson 14：What colour's your ...?（你的...是什么颜色的？）](./Lesson-14.md)
+
+[Lesson 15：Your passports, please.（请出示你们的护照）](./Lesson-15.md)
+
