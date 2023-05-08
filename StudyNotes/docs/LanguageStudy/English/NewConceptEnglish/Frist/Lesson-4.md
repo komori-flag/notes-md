@@ -4,8 +4,8 @@
 
 it suit me.（它很适合我）<br>
 > 例：<br>
-> The coat suit you.（这件外套挺适合你的）
-> The pencil suit you.（这支铅笔挺适合你的）
+> The coat suit you.（这件外套挺适合你的 | このコートは君によく似合う）
+> The pencil suit you.（这支铅笔挺适合你的 | この鉛筆は君にとても適ます）
 
 
 ---
@@ -13,16 +13,17 @@ it suit me.（它很适合我）<br>
 
 A <font color=red>or</font> B（A 或者/应该是 B）<br>
 > 例：<br>
-> Is this my pen or your pen?（这是我的钢笔还是你的钢笔？）<br>
-> Is this my pencil or your pencil?（这是我的铅笔还是你的铅笔？）<br>
+> Is this my pen or your pen?（这是我的钢笔还是你的钢笔？ | これは私のペンですか、それともあなたのですか。）<br>
+> Is this my pencil or your pencil?（这是我的铅笔还是你的铅笔？ | これは私の鉛筆ですか、それともあなたのですか?）<br>
 
 
 
 ---
-### 三：如何表达“三人行必有我师”？
+### 三：如何表达“三人行，必有我师”？
 
 Wakling among three people, I find my <font color=orange>teacher</font> among themm.（Confucius）<br>
-三人行必有我师（孔子）<br>
+三人行，必有我师（孔子）<br>
+「三人行けば、必ずわが師有り」と先生が言われた。<br>
 
 
 ---

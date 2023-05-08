@@ -14,11 +14,11 @@ Where are you from?[（平常说法）你来自于哪里的？ | あなたの出
 <font size=5>**What's your job?**</font>&nbsp;&nbsp;<font size=4>`你是干什么工作的？（一般情况下不要轻易询问）`</font><br>
 补充：<br>
 在一般情况下我们并不能直接询问对方的职业，我们可以使用以下的句子来替换：<br>
-What do you do?（你是干什么的？）<br>
-What do you do for a living?（你是靠什么营生的？）<br>
+What do you do?（你是干什么的？ | 仕事は何ですか？）<br>
+What do you do for a living?（你是靠什么营生的？ | 何をして生計を立てていますか。）<br>
 例：<br>
-What's your job?（你是干什么工作的？）<br>
-I'm an English teacher.（我是一位英语教师。）<br>
+What's your job?（你是干什么工作的？ | 君の職業はなんですか。）<br>
+I'm an English teacher.（我是一位英语教师。 | 英語の教師です。）<br>
 
 
 ---
@@ -141,12 +141,11 @@ Where is she from?
     <font size=5>**What's your job?**</font>&nbsp;&nbsp;<font size=4>`你是干什么工作的？（一般情况下不要轻易询问）`</font><br>
     补充：<br>
     在一般情况下我们并不能直接询问对方的职业，我们可以使用以下的句子来替换：<br>
-    What do you do?（你是干什么的？）<br>
-    What do you do for a living?（你是靠什么营生的？）<br>
+    What do you do?（你是干什么的？ | 仕事は何ですか？）<br>
+    What do you do for a living?（你是靠什么营生的？ | 何をして生計を立てていますか。）<br>
     例：<br>
-    What's your job?（你是干什么工作的？）<br>
-    I'm an English teacher.（我是一位英语教师。）<br>
-    <br>
+    What's your job?（你是干什么工作的？ | 君の職業はなんですか。）<br>
+    I'm an English teacher.（我是一位英语教师。 | 英語の教師です。）<br>
 
 
 ??? note "语法练习"

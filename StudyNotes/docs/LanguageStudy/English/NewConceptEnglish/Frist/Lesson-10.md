@@ -6,16 +6,16 @@
 形容词（adj.）的用法与大多数的外语差不多，就是<font color=red size=4>adj. + n.（形容词 + 名词）</font>的用法。
 
 > 例：<br>
-> blue sky（蓝色的天空）<br>
-> busy policeman（忙碌的警察）<br>
-> bad weather（坏的天气）<br>
+> blue sky（蓝色的天空 | 青い空）<br>
+> busy policeman（忙碌的警察 | 忙しい警察）<br>
+> bad weather（坏的天气 | 悪い天候）<br>
 > 等等......
 
 
 ---
 ## 二：如何有趣味地表达“你真懒”？
 
-一般形容一个家伙很懒惰会说“You are lazy.”等等，还有一种有趣的表达方式是“lazybones（懒骨头）”，表达一个家伙懒到骨头里去了。
+一般形容一个家伙很懒惰会说“You are lazy.（你真懒 | お前は本当に怠けるだな。）”等等，还有一种有趣的表达方式是“lazybones（懒骨头 | 怠け者）”，表达一个家伙懒到骨头里去了。
 
 
 ---
@@ -62,4 +62,26 @@
 
 
 ??? note "语法练习"
+    ```text
+    1.仿照例句回答问题
+    例：
+    Are you cold?  -- *No, I'm not.*
+    Are you hot?  -- *Yes, I am.*
+
+    ①：
+    Is that pencil long?  -- *No, it isn't.*
+    Is it short?  -- *Yes, it is.*
+    ②：
+    Is that book new?  -- *No, it isn't.*
+    Is it old?  -- *Yes, it is.*
+    ③：
+    Are you French?  -- *No, I'm not.*
+    Are you German?  -- *Yes, I am.*
+
+
+    2.仿照例句用所给的词回答问题
+    例：Is that mechanic clean or dirty?(dirty)  -- He is't clean. He's dirty.
+
+    ①：
+    ```
 

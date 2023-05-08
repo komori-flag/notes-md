@@ -21,7 +21,7 @@
 ### 三：如何表达“我也是”？
 **/tuː/**<br>
 <font size=5>**too**</font>&nbsp;&nbsp;<font size=4>`adj.过于，而且，也`</font><br>
-例：A：I like this shirt. B：Me too.（A：我很喜欢这件短袖。B：我也是。）
+例：A：I like this shirt. B：Me too.（A：我很喜欢这件短袖。B：我也是。 | A: 私はこのTシャツがとても好きです。 B: 私も。）
 
 
 ---
@@ -30,15 +30,15 @@
 #### 1.a/an 的含义
 以目前所学到的知识，可以将其简单地认为是“一个”的意思。<br>
 > 例：<br>
-> Sophie is <font color=orange>a</font> new student.（苏菲是<font color=orange>一位</font>新学生）<br>
-> This is not <font color=orange>an</font> umbrella.（这不是<font color=orange>一把</font>雨伞）<br>
+> Sophie is <font color=orange>a</font> new student.（苏菲是<font color=orange>一位</font>新学生 | ソフィーは新入生です。）<br>
+> This is not <font color=orange>an</font> umbrella.（这不是<font color=orange>一把</font>雨伞 | これは傘ではありません。）<br>
 
 
 #### 2.a/an 的位置
 a/an 用于单个的可数名词前，表示数量“一个”。<br>
 > 例：<br>
-> a pen.（一支钢笔）<br>
-> an apple.（一个苹果）<br>
+> a pen.（一支钢笔 | 一つのペン）<br>
+> an apple.（一个苹果 | 一つのリンゴ）<br>
 
 
 #### 3.a/an 的区别

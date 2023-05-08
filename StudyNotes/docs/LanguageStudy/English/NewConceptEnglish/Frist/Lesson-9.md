@@ -25,9 +25,9 @@ How is she?
 
 <font size=5>**How are you?**</font>&nbsp;&nbsp;<font size=4>`你还好吗？[询问身体状况]`</font><br>
 补充：<br>
-Are you ok?（你还好吗？）<br>
+Are you ok?（你还好吗？ | 君は大丈夫？）<br>
 例：<br>
-How are you? / Are you ok?（你还好吗？） -- I'm fine, thanks.（我很好，谢谢你。）<br>
+How are you? / Are you ok?（你还好吗？ | 君は大丈夫？） -- I'm fine, thanks.（我很好，谢谢你。 | 私は大丈夫です、どうもありがとう。）<br>
 
 
 ---
@@ -85,9 +85,9 @@ nice to <font color=orange>see</font> you（认识的两个人见面时使用，
 ??? note "短语"
     <font size=5>**How are you?**</font>&nbsp;&nbsp;<font size=4>`你还好吗？[询问身体状况]`</font><br>
     补充：<br>
-    Are you ok?（你还好吗？）<br>
+    Are you ok?（你还好吗？ | 君は大丈夫ですか？）<br>
     例：<br>
-    How are you? / Are you ok?（你还好吗？） -- I'm fine, thanks.（我很好，谢谢你。）<br>
+    How are you? / Are you ok?（你还好吗？ | 君は大丈夫ですか？） -- I'm fine, thanks.（我很好，谢谢你。 | 私は大丈夫です、どうもありがとう。）<br>
     <br>
     <font size=5>**How are you doing, today?**</font>&nbsp;&nbsp;<font size=4>`你今天怎么样？[询问他人大概的生活怎么样]`</font><br>
     <br>

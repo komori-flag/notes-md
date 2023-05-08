@@ -10,7 +10,7 @@
 <font size=5>**brand**</font>&nbsp;&nbsp;<font size=4>`n.商标;牌子;品牌`</font><br>
 
 > 例：<br>
-> -What brand is this? -They's the same.（-这是哪个牌子的来着？ -都是同一个牌子。）<br>
+> What brand is this?  --They's the same.（这是哪个牌子的来着？  --都是同一个牌子。 | これはどこのブランドだけ？  --同じのですよ。）<br>
 
 
 ---
@@ -24,7 +24,7 @@
     **/ˈswiː.dɪʃ/**<br>
     <font size=5>**Swedish**</font>&nbsp;&nbsp;<font size=4>`adj.瑞典的；瑞典人的；瑞典语的`</font><br>
     补充：Sweden（n.瑞典）<br>
-    补充（chitchat）：I love Swedish meatball.（我中意你们那边的瑞典肉丸）
+    补充（chitchat）：I love Swedish meatball.（我中意你们那边的瑞典肉丸 | そこにあるスウェーデンのミートボールが好き）
     <br>
     <br>
     **/ˈɪŋ.ɡlɪʃ/**<br>

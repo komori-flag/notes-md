@@ -10,8 +10,7 @@
 > Excuse me, everyone?（打扰各位一下 | あのう、すみませんが）
 
 ②：借过；让一下
->例：<br>
-Excuse me, Let me through.（借过，借过一下 | ちょっと通してくださ～い！）<br>
+>例：Excuse me, Let me through.（借过，借过一下 | ちょっと通してくださ～い！）<br>
 
 
 ----
@@ -29,44 +28,43 @@ Excuse me, Let me through.（借过，借过一下 | ちょっと通してくだ
 >③：what?（什么？ | 何？）。
 
 
-<font size=5>**Thank you very(so) much**</font>
+<font size=5>**Thank you very(so) much.**</font>
 
 ```text
 ①：th /θ/ 与 /ð/；
 ②：一般情况下用“Thank you”足矣；
-③：thank you /θæŋk/ /(k)juː/；
-                 |    ↑
-                 └连-读┘
-④：连读？弱读？缩读？（连笔字）。
+③：thank you /θæŋ(k)/ /(k)juː/；
+                  |     ↑
+                  └连-读┘
 ```
-
 
 
 ----
 ### 三：当谈单词的时候会谈些什么？
 
-#### ①：单词的**拼写**
-> 例：handbag的拼写“h a n d b a g”
+#### ①：单词的<font color=red>拼写</font>
+例如“ handbag ”的拼写“ h a n d b a g ”。
 
 
-#### ②：单词的**发音**
+#### ②：单词的<font color=red>发音</font>
+来自于自然拼读法则与[音标](../../phonetic-symbol/index.md)。
 
-自然拼读法则与音标
+??? note "自然拼读法"
+    自然拼读（Phonics）源自于英美国家，是英语国家语言教学的启蒙必修课，并且有上百年的历史了！目前，国际上公认自然拼读法是帮助孩子扩大词汇量、提高阅读能力的最快捷、最简单、最有效的方法。即培养英语学习者听辨和使用音位的能力，从而最终达到“听音辩字，看字读音”的效果。（结果来自于<a href="https://zhuanlan.zhihu.com/p/40394055" target="_blank">知乎</a>）
 
 
-#### ③：单词的**词性**
-
+#### ③：单词的<font color=red>词性</font>
 ??? note "单词的词性一览表"
-    1. 名词 Nouns (n.)，`表示人或事物的名称`；
-    2. 代词 pronoun (pron.)，`代替名词、数词、形容词`；
-    3. 形容词 adjective (adj.)，`用来修饰名词,表示人或事物的特征`；
-    4. 副词 adverb (adv.)，`修饰动、形、副等词,表示动作特征`；
-    5. 动词 verb (v.)，`表示动作或状态`；
-    6. 数词 numeral (num.)，`表示数目或顺序，用法相当于名词或形容词`；
-    7. 介词 preposition (prep.)，`用在名词或代词前,说明它与别的词的关系`；
-    8. 连词 conjunction (conj.)，`表示人或事物的名称`；
-    9. 冠词 article (art.)，`用在名词前,帮助说明名词所指的范围`；
-    10. 感叹词 interjection (int.)，`代替名词、数词、形容词等`。
+    1. 名词 Nouns (n.)，`表示人或事物的名称`；<br>
+    2. 代词 pronoun (pron.)，`代替名词、数词、形容词`；<br>
+    3. 形容词 adjective (adj.)，`用来修饰名词,表示人或事物的特征`；<br>
+    4. 副词 adverb (adv.)，`修饰动、形、副等词,表示动作特征`；<br>
+    5. 动词 verb (v.)，`表示动作或状态`；<br>
+    6. 数词 numeral (num.)，`表示数目或顺序，用法相当于名词或形容词`；<br>
+    7. 介词 preposition (prep.)，`用在名词或代词前,说明它与别的词的关系`；<br>
+    8. 连词 conjunction (conj.)，`表示人或事物的名称`；<br>
+    9. 冠词 article (art.)，`用在名词前,帮助说明名词所指的范围`；<br>
+    10. 感叹词 interjection (int.)，`代替名词、数词、形容词等`。<br>
 
 > 例：handbag n. 中的“n.”表示的该单词的词性为名词
 
@@ -94,7 +92,6 @@ Is this your <font color="orange">handbag</font>?（这个是你的手提包吗�
 > What is this?  --This is a pen.（英）<br>
 > これは何ですか？  --これはペンです．（日）<br>
 
-
 因此在学习无论哪一种语言也好，学会通过造句来帮助理解单词的含义是很重要的。
 
 
@@ -109,7 +106,7 @@ Is this your <font color="orange">handbag</font>?（这个是你的手提包吗�
 <br>
 
 
-在这里涉及到了学习开始以来的第一条语法：**一般疑问句**
+在这里我们迎来了自学习开始新概念教程一册以来的第一条语法：<font color=red>一般疑问句</font>
 
 
 #### 语法：<font color=red>一般疑问句</font>
@@ -125,10 +122,10 @@ This is my handbag.
 如果需要将上面的句子变为一般疑问句，<font color=red>需要将一个单词提前到句子的首位。</font>
 
 > **肯定句**<br>
-> This <font style="background-color: yellow; color: #000;" >is</font> my handbag.（这是我的手提包）
+> This <font style="background-color: yellow; color: #000;" >is</font> my handbag.（这是我的手提包）<br>
 
 > **一般疑问句**<br>
-> <font style="background-color: yellow; color: #000;">Is</font> this my handbag?（这是我的手提包吗？）
+> <font style="background-color: yellow; color: #000;">Is</font> this my handbag?（这是我的手提包吗？）<br>
 
 > 还可以转换为这样<br>
 > Is this your handbag?（这是你的手提包吗？）
@@ -157,7 +154,8 @@ This is my handbag.
 > =This your...?<br>
 > =This is your...?<br>
 
-既然可以通过变调的方式来改变句子的句式，那为什么还得要学习标准的语法句式呢？
+
+问：既然可以通过变调的方式来改变句子的句式，那为什么还得要学习标准的语法句式呢？
 
 答：随着语法学习的不断深入，学习标准语法句式可在一定程度上减少歧义的发生。
 
@@ -165,20 +163,19 @@ This is my handbag.
 ---
 ### 五：Yes 还能够表示“干什么”？
 
-yes.（是的）<br>
-yes? ↑（干什么？/怎么了？）
+yes.（是的 | はい）<br>
+yes? ↑（怎么了？ | はい？）
 
 
 ---
 ### 六：读英语如何才能不像机器音？
 
-需要进行**跟读**训练。`即：听一句，模仿读一句`
+需要持续不断地进行**跟读**训练。`即：听一句，模仿读一句`
 
 原因：[Ask me if & Comprehension（口语听力练习）](./index.md#3ask-me-if-comprehension)
 
 
 ---
-
 ??? note "单词"
     **/ɪk'skju:z/**<br>
     <font size=5>**excuse**</font>&nbsp;&nbsp;<font size=4>`v.原谅`</font><br>

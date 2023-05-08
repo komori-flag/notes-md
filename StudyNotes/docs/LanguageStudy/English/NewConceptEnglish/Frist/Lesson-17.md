@@ -55,15 +55,31 @@
 ---
 ## 三：Who 引导的特殊疑问句？
 
+<font size=4 color=red>**特殊疑问句 = 特殊疑问词（如：what、where、how、whose、who等） + 一般疑问句（去掉答案）**</font>
 
+> 例：<br>
+> That is Marisa.<br>
+> <font color=orange>Is</font> that Marisa?（一般疑问句）<br>
 
+```text
+一般疑问句 --> 特殊疑问句
+
+ ┌-----------------------┐
+ ↓                       |
+    Is that (Marisa --> who)? 
+
+Who is that? / Who's that?
+```
 
 
 ---
 ## 四：如何表达“过来见见某人”？
 
+Come and meet ...（过来见见某人）<br>
 
-
+> 例：<br>
+> Come and meet our employees, Mr.bean.<br>
+> Come and meet our friend, Mellie.<br>
 
 
 ---

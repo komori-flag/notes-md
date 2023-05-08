@@ -19,7 +19,7 @@
     <br>
     综上所述，一遍一遍地练习英语口语对于提高口语能力、加强语感、培养自信以及锻炼口腔肌肉都非常有帮助，因此在学习英语的过程中，要多加练习。<br>
     <br>
-    （结果由ChatGPT提供。 | 以上の結果は ChatGPT によって提供されます。）<br>
+    （结果由 ChatGPT 提供。 | 以上の結果は ChatGPT によって提供されます。）<br>
 
 
 ---
@@ -56,6 +56,7 @@ I'll bring you a drink on the house.
 はい、もう一杯無料の飲み物を与えますよ。
 ```
 
+
 ---
 ??? note "单词"
     **/pen/**<br>
@@ -73,14 +74,14 @@ I'll bring you a drink on the house.
     <br>
     **/kəʊt/**<br>
     <font size=5>**coat**</font>&nbsp;&nbsp;<font size=4>`n.外套，外衣`</font><br>
-    补充（chitchat）：nice Coat（不错的外衣）[ nice + 想夸赞他人的点 ]<br>
+    补充（chitchat）：nice Coat（不错的外衣 | このコートが素敵）[ nice + 想夸赞他人的点 ]<br>
     <br>
     **/dres/**<br>
     <font size=5>**dress**</font>&nbsp;&nbsp;<font size=4>`n.连衣裙，长裙`</font><br>
     <br>
     **/skɜːt/**，/k/（清音）--> /g/（浊音）<br>
     <font size=5>**dress**</font>&nbsp;&nbsp;<font size=4>`n.短裙`</font><br>
-    补充（chitchat）：I love your ...（我好中意你的...）[ I love your + 想夸赞他人的点，一种夸张的表现手法 ]<br>
+    补充（chitchat）：I love your ...（我好中意你的... | あなたの(とあるのもの)が好き）[ I love your + 想夸赞他人的点，一种夸张的表现手法 ]<br>
     <br>
     **/ʃɜːt/**<br>
     <font size=5>**shirt**</font>&nbsp;&nbsp;<font size=4>`n.(尤指男式的)衬衫`</font><br>
