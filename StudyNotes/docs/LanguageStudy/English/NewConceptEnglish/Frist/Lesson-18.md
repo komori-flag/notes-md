@@ -1,0 +1,66 @@
+# Lesson 18：What are their jobs?（他们是做什么工作的？）
+
+
+## they 与 their 有什么不同？
+
+| 他们 | 他们的 |
+| ---- | ----- | 
+| they | their |
+
+
+??? note "练习"
+    
+    ```text
+    1. sales reps
+    What are their jobs?  -- They're sales reps.
+    （他们是做什么工作的？  -- 他们是推销员。）
+
+    2.keyboard operators
+    What are their jobs? Are they mechanics?  -- They're keyboard operators.
+    （他们是做什么工作的？是做工程师工作的吗？  -- 他们是做键盘操作员的。）
+
+    3.teachers
+    What are their jobs? Are they taxi drivers?  -- They're teachers.
+    （他们是做什么工作的？是做出租车司机工作的吗？  -- 他们是做老师的。）
+
+    4.hairdressers
+    What are their jobs? Are they engineers?  -- They're teachers.
+    （他们是做什么工作的？是做工程师工作的吗？  -- 他们是理发师。）
+    
+    5.housewives
+    What are their jobs? Are they nurses?  -- They're housewives.
+    （他们是做什么工作的？是做护士工作的吗？  -- 他们是做家庭主妇的。）
+    ```
+
+??? note "语法练习"
+    
+    ```text
+    1.使用“所有格形容词（my, your, his, her, our, their）”进行填空
+    ①：Whose is this pen? It isn't *my* pen! My pen is blue.
+    ②：Excause me. What's *your* name.  -- My name's Sophie.
+    ③：Paul's son is a keyboard operator and *his* daughter is a teacher.
+    ③：She's a hard-working policewoman.  What's *her* name?
+    ⑤：We are Danish, and *our* friends are Danish, too.
+    ⑥：Michael Baker and Jeremy Short are sales reps, and here are *their* offices.
+
+
+    2.仿照例句根据答案来进行提问
+    例：
+    ①：*Who are these men?*  
+    -- (these men) They are my friends.
+    -- *What are they jobs?* 
+    -- They're Customs officers.
+    ②：Who is this young man?
+    -- (this young man) He is John.
+    -- *What's his job?*
+    -- He's a keyboard operator.
+
+    ①：*Who is that girl?*
+    -- (that girl) She's my sister.
+    -- *What's her job?*
+    -- She's an air hostess.
+    ②：*Who are these two men?*
+    -- (these two men) They're Dave and Jack. 
+    -- *Who are their jobs?*
+    -- They're sales reps.
+    ```
