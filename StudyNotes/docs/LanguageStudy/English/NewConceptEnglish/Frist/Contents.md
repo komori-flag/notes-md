@@ -36,3 +36,19 @@
 
 [Lesson 15：Your passports, please.（请出示你们的护照）](./Lesson-15.md)
 
+[Lesson 16：Are you ..?（你们是...吗？）](./Lesson-16.md)
+
+[Lesson 17：How do you do?（你好！）](./Lesson-17.md)
+
+[Lesson 18：What are their jobs?（他们是做什么工作的？）](./Lesson-18.md)
+
+[Lessson 19：Tired and thirsty（又累又渴）](./Lesson-19.md)
+
+[Lesson 20：Look at them!（看看他们/它们！）](./Lesson-20.md)
+
+
+---
+## 21-30
+
+[Lesson 21：Which book?（哪一本书？）](./Lesson-21.md)
+
