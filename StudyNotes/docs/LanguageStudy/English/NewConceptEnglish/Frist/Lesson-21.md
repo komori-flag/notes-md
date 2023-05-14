@@ -36,14 +36,14 @@ give <font style="background-color: skyblue">me</font> <font style="background-c
 
 ??? note "练习"
     1. money<br>
-    Give *me* your money. Please!!!（请给我你的钱）<br>
+    Give *me* your money. Please!!!（请给我你的钱 | お金をください。）<br>
     <br>
     2. ticket<br>
-    Give *me* your ticket. Please!!!（请给我你的票据）<br>
-    Give *him/her* your ticket. Please!!!（请给 他/她 你的票据）<br>
+    Give *me* your ticket. Please!!!（请给我你的票据 | チケットをください）<br>
+    Give *him/her* your ticket. Please!!!（请给 他/她 你的票据 | 彼/彼女 にチケットを渡してください）<br>
     <br>
     3. passport<br>
-    Give *me/her/him* your passport. Please!!!（请给 我/她/他 你的护照）<br>
+    Give *me/her/him* your passport. Please!!!（请给 我/她/他 你的护照 |　パスポートをください　/　彼女/彼　にパスポートを渡してください）<br>
 
 
 ---
@@ -57,15 +57,15 @@ give <font style="background-color: skyblue">me</font> <font style="background-c
     **/ɡɪv/**<br>
     <font size=5>**give**</font>&nbsp;&nbsp;<font size=4>`v.给`</font><br>
     补充：<br>
-    ①：give me five.（我们击掌吧！[表示问好或庆祝]）<br>
-    ②：give me a hug.（给我一个拥抱）<br>
+    ①：give me five.（我们击掌吧！[表示问好或庆祝] | ハイタッチしましょう！）<br>
+    ②：give me a hug.（给我一个拥抱 | ハグして。）<br>
     <br>
     **/wʌn/**<br>
     <font size=5>**one**</font>&nbsp;&nbsp;<font size=4>`pron.一个`</font><br>
     <br>
     **/wɪtʃ/**<br>
     <font size=5>**which**</font>&nbsp;&nbsp;<font size=4>`question word 哪一个？`</font><br>
-    补充：Which one?（哪一个呢？）<br>
+    补充：Which one?（哪一个呢？ | どれかな？）<br>
     <br>
 
 
