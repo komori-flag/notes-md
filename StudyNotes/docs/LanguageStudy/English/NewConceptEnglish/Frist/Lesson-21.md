@@ -25,13 +25,13 @@ give <font style="background-color: skyblue">me</font> <font style="background-c
 动词（v.）的前面往往使用“ I ”（作主语，主格），而动词的后面往往使用“ me ”（作宾语，宾格）。
 
 
-|  动词前sb.  |  <font style="background-color: skyblue" color=black>v.动词</font>  | 动词后sb. | sth. |
+|  动词前sb.  |  <font style="background-color: skyblue" color=black>v.动词</font>  | 动词后sb. | <font style="background-color: orange" color=black>sth.</font> |
  :-: | :-: | :-: | :-: 
-|  I  |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | me | my |
-| You |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | you | your |
-| He  |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | him | his |
-| She |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | her | her |
-| It  |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | it | its |
+|  I  |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | me | <font style="background-color: orange" color=black>my </font>|
+| You |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | you | <font style="background-color: orange" color=black>your</font> |
+| He  |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | him | <font style="background-color: orange" color=black>his</font> |
+| She |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | her | <font style="background-color: orange" color=black>her</font> |
+| It  |  <font style="background-color: skyblue" color=black>v.（动词）</font>  | it | <font style="background-color: orange" color=black>its</font> |
 
 
 ??? note "练习"
