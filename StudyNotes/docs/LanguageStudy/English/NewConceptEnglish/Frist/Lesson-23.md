@@ -1,9 +1,9 @@
-# Lessson 23：Which glasses?（哪几只杯子？）
+# Lesson 23：Which glasses?（哪几只杯子？）
 
 
 ## 一：Where 引导的特殊疑问句？
 
-<font size=4 color=red>**特殊疑问句 = 特殊疑问词（如：what、how、whose、whowhere、where等） + 一般疑问句（去掉答案）**</font>
+<font size=4 color=red>**特殊疑问句 = 特殊疑问词（如：what、how、whose、who、where等） + 一般疑问句（去掉答案）**</font>
 
 > 例：<br>
 > My book is on the shelf.<br>

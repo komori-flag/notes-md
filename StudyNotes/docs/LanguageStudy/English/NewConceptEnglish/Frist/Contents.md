@@ -28,7 +28,7 @@
 
 [Lesson 11: Is this your shirt?（这是你的衬衫吗？）](./Lesson-11.md)
 
-[Lesson 12: Whois is this ...? This is my/your/his/her ...（这...是谁的？这是 我的/你的/他的/她的 ...） Whois is that ...? That is my/your/his/her ...（那...是谁的？那是 我的/你的/他的/她的）](./Lesson-12.md)
+[Lesson 12: Whois is this ...? This is my/your/his/her ...（这...是谁的？这是 我的/你的/他的/她的 ...）<br>　　　　　Whois is that ...? That is my/your/his/her ...（那...是谁的？那是 我的/你的/他的/她的）](./Lesson-12.md)
 
 [Lesson 13：A new dress.（一件新的连衣裙）](./Lesson-13.md)
 
@@ -54,3 +54,12 @@
 
 [Lesson 22：Give me/him/her/us/them a...（给 我/他/她/我们/他们 一...）](./Lesson-22.md)
 
+[Lesson 23：Which glasses?（哪几只杯子？）](./Lesson-23.md)
+
+[Lesson 24：Give me/him/her/us/them some ...（给 我/他/我们/他们 一些）<br>　　　　　　Which ones?（哪些？）](./Lesson-24.md)
+
+[Lesson 25：Mrs. Smith's kitchen.（史密斯太太的厨房）](./Lesson-25.md)
+
+[Lesson 26：Where is it?（它在哪里？）](./Lesson-26.md)
+
+[Lesson 27：Mrs. Smith's living room（史密斯太太的客厅）](./Lesson-27.md)

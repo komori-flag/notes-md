@@ -82,7 +82,7 @@ different（/ˈdɪfrənt/，adj.不同的）<br>
     **/hæt/**<br>
     <font size=5>**hat**</font>&nbsp;&nbsp;<font size=4>`n.帽子`</font><br>
     例：<br>
-    This is an clear/dirty hat.（这是一顶 干净/肮脏 的帽子。）<br>
+    This is an clean/dirty hat.（这是一顶 干净/肮脏 的帽子。）<br>
     <br>
     **/seɪm/**<br>
     <font size=5>**same**</font>&nbsp;&nbsp;<font size=4>`adj.相同的`</font><br>

@@ -1,5 +1,6 @@
 # Lesson 24：Give me/him/her/us/them some ...（给 我/他/我们/他们 一些）<br>Which ones?（哪些？）
 
+
 !!! note "练习"
     ![](../img/Frist/Lesson-24/Lesson-24_01.png)<br>
     <font size=4>**1. desk**</font><br>
@@ -94,7 +95,6 @@
     ②：Is the stereo on the floor?（这台立体声音响是放在地板上的吗？）<br>
     ③：Where is the stereo?（这台立体声音响是放在哪里的？）<br>
     <br>
-
 
 
 ---
