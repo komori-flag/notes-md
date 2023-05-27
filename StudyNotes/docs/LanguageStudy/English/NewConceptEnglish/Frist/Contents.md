@@ -25,7 +25,6 @@
 [Lesson 10: Look at...（看...）](./Lesson-10.md)
 
 
----
 ### 11-20
 
 [Lesson 11: Is this your shirt?（这是你的衬衫吗？）](./Lesson-11.md)
@@ -49,8 +48,7 @@
 [Lesson 20：Look at them!（看看他们/它们！）](./Lesson-20.md)
 
 
----
-### 21-30
+### 21-28
 
 [Lesson 21：Which book?（哪一本书？）](./Lesson-21.md)
 
@@ -68,13 +66,18 @@
 
 [Lesson 28：Where are they？（他们在哪里？）](./Lesson-28.md)
 
+
+---
 ## 二：动词（29-91）
+
+### 29 - 30
 
 [Lesson 29：Come in, Amy.（进来，艾米。）](./Lesson-29.md)
 
+[Lesson 30：What must I do?（我应该做什么？）](./Lesson-30.md)
 
 
 ### 31 - 40
 
-
+[Lesson 31：Where's Sally?（萨莉在哪里？）](./Lesson-31.md)
 
