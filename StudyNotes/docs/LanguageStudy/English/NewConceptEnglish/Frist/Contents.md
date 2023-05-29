@@ -81,3 +81,7 @@
 
 [Lesson 31：Where's Sally?（萨莉在哪里？）](./Lesson-31.md)
 
+[Lesson 32：What's he/she/it doing?（他/她/它 正在做什么呢？）](./Lesson-32.md)
+
+[Lesson 33：A fine day（晴天）](./Lesson-33.md)
+
