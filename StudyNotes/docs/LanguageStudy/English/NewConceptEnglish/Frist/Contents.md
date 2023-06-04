@@ -85,3 +85,5 @@
 
 [Lesson 33：A fine day（晴天）](./Lesson-33.md)
 
+[Lesson 34：What are they doing?（他们在做些什么？）](./Lesson-34.md)
+
