@@ -87,3 +87,5 @@
 
 [Lesson 34：What are they doing?（他们在做些什么？）](./Lesson-34.md)
 
+[Lesson 35：Our village（我们的村庄）](./Lesson-35.md)
+
