@@ -89,3 +89,6 @@
 
 [Lesson 35：Our village（我们的村庄）](./Lesson-35.md)
 
+[Lesson 36：Where ...?（...在哪里？）](./Lesson-36.md)
+
+[Lesson 37：Making a bookcase（做手架）](./Lesson-37.md)
