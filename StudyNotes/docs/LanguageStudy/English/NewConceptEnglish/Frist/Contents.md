@@ -92,3 +92,7 @@
 [Lesson 36：Where ...?（...在哪里？）](./Lesson-36.md)
 
 [Lesson 37：Making a bookcase（做手架）](./Lesson-37.md)
+
+[Lesson 38：What are you going todo?（你准备做什么？）<br>　　　　　&nbsp;&nbsp;&nbsp;What are you doing now?（你现在正准备做什么？）](./Lesson-38.md)
+
+
