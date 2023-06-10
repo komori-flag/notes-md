@@ -95,4 +95,5 @@
 
 [Lesson 38：What are you going todo?（你准备做什么？）<br>　　　　　&nbsp;&nbsp;&nbsp;What are you doing now?（你现在正准备做什么？）](./Lesson-38.md)
 
+[Lesson 39：Don't drop it!（别刷了！）](./Lesson-39.md)
 
