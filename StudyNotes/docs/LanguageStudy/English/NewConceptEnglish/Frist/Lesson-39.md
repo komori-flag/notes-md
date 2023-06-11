@@ -38,7 +38,7 @@ Don't cry.（别哭）
 ---
 ### 四：do with sth.（处理某事）
 
-<font color=red size=4>**do whit sth.**</font>
+<font color=red size=4>**do whit sth.（处理某事）**</font>
 
 ??? note "练习"
     1. refrigerator<br>
