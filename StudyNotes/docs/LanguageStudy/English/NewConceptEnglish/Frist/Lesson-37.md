@@ -59,6 +59,7 @@
 
 <font size=4>**结构：<font color=red>What</font> + <font color=blue>be动词[am/is/are]</font> + <font color=orange>主语</font> + <font color=chocolate>going to do[v.动词原型]（gonna do[v.动词原型][口语说法]）</font>**</font>
 
+
 > 例：<br>
 > ①：What's she going to do?  -- She's going to clean her teeth.<br>（她要去做什么？ -- 她要去刷牙。 | 彼女は何をするつもりですか? -- 自分の歯をきれいにするつもりです。）<br>
 > ②：What's she going to do?  -- She's going to read the book.<br>（她要去做什么？ -- 她要去阅读书籍。 | 彼女は何をするつもりですか？ -- 彼女は本を読むつもりです。）<br>
