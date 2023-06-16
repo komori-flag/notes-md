@@ -62,7 +62,7 @@
 > 例：<br>
 > ①：What's she going to do?  -- She's going to clean her teeth.<br>（她要去做什么？ -- 她要去刷牙。 | 彼女は何をするつもりですか? -- 自分の歯をきれいにするつもりです。）<br>
 > ②：What's she going to do?  -- She's going to read the book.<br>（她要去做什么？ -- 她要去阅读书籍。 | 彼女は何をするつもりですか？ -- 彼女は本を読むつもりです。）<br>
-> What are you going to do?  -- I'm gonna take your stick.<br>（你接下来要做什么？ -- 我要把拿走你的棍子。 | 次は何をするつもり？ -- あんたのステッキを持って行く。）<br>
+> ③：What are you going to do?  -- I'm gonna take your stick.<br>（你接下来要做什么？ -- 我要把拿走你的棍子。 | 次は何をするつもり？ -- あんたのステッキを持って行く。）<br>
 
 
 ---
