@@ -97,3 +97,14 @@
 
 [Lesson 39：Don't drop it!（别刷了！）](./Lesson-39.md)
 
+[Lesson 40：What are you going to do?（你准备做什么？）<br>　　　　　&nbsp;&nbsp;&nbsp;I'm going to ...（我准备去...）](./Lesson-40.md)
+
+### 41 - 50
+
+[Lesson 41：Penny's bag（彭妮的提包）](./Lesson-41.md)
+
+[Lesson 42：Is there a... in/on that...（在那个... 当中/上面 有一个...吗？）<br>　　　　　&nbsp;&nbsp;&nbsp;Is there any... in/on that...?（在那个... 当中/上面 有...?）](./Lesson-42.md)
+
+[Lesson 43：Hurry up!（快点！）](./Lesson-43.md)
+
+[Lesson 44：Are there any ...?（有...吗？）<br>　　　　　&nbsp;&nbsp;&nbsp;Is there any ...?（有...吗？）](./Lesson-44.md)
