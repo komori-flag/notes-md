@@ -108,3 +108,6 @@
 [Lesson 43：Hurry up!（快点！）](./Lesson-43.md)
 
 [Lesson 44：Are there any ...?（有...吗？）<br>　　　　　&nbsp;&nbsp;&nbsp;Is there any ...?（有...吗？）](./Lesson-44.md)
+
+[Lesson 45：The boss's letter（老板的信）](./Lesson-45.md)
+
