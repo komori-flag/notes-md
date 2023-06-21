@@ -65,7 +65,7 @@
 
 ---
 ??? note "单词"
-    **//**<br>
+    **/tʃiːz/**<br>
     <font size=5>**cheese**</font>&nbsp;&nbsp;<font size=4>`n.[C/U]乳酪，奶酪`</font><br>
     <br>
     **/bred/**<br>
