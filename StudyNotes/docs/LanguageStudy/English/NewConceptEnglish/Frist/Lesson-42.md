@@ -20,7 +20,7 @@
 ---
 ??? note "单词"
     **/bɜːd/**<br>
-    <font size=5>**bird**</font>&nbsp;&nbsp;<font size=4>`n.鸟`</font><br>
+    <font size=5>**bird**</font>&nbsp;&nbsp;<font size=4>`n.[C]鸟`</font><br>
     <br>
     **/ˈeni/**<br>
     <font size=5>**any**</font>&nbsp;&nbsp;<font size=4>`det.一些`</font><br>
