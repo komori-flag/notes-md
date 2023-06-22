@@ -111,3 +111,6 @@
 
 [Lesson 45：The boss's letter（老板的信）](./Lesson-45.md)
 
+[Lesson 46：Can you ...?（你能...吗？）](./Lesson-46.md)
+
+[Lesson 47：A cup of coffee.（一杯咖啡）](./Lesson-47.md)

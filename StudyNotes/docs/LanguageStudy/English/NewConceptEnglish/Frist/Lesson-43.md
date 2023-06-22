@@ -96,13 +96,13 @@
     <font size=5>**of course**</font>&nbsp;&nbsp;<font size=4>`当然`</font><br>
     <br>
     **/ˈketl/**<br>
-    <font size=5>**kettle**</font>&nbsp;&nbsp;<font size=4>`n.水壶`</font><br>
+    <font size=5>**kettle**</font>&nbsp;&nbsp;<font size=4>`n.[C]水壶`</font><br>
     <br>
     **/bɪˈhaɪnd/**<br>
     <font size=5>**behind**</font>&nbsp;&nbsp;<font size=4>`prep.在...的后面`</font><br>
     <br>
     **/ˈtiːpɒt/**<br>
-    <font size=5>**teapot**</font>&nbsp;&nbsp;<font size=4>`n.茶壶`</font><br>
+    <font size=5>**teapot**</font>&nbsp;&nbsp;<font size=4>`n.[C]茶壶`</font><br>
     <br>
     **/naʊ/**<br>
     <font size=5>**now**</font>&nbsp;&nbsp;<font size=4>`adv.现在`</font><br>
