@@ -114,3 +114,9 @@
 [Lesson 46：Can you ...?（你能...吗？）](./Lesson-46.md)
 
 [Lesson 47：A cup of coffee.（一杯咖啡）](./Lesson-47.md)
+
+[Lesson 48：Do you like ...?（你喜欢...吗?）<br>　　　　　&nbsp;&nbsp;&nbsp;Do you want ...?（你想要...吗？）](./Lesson-48.md)
+
+[Lesson 49：At the butcher's（在肉店）](./Lesson-49.md)
+
+[Lesson 50：He likes ...（他喜欢...）<br>　　　　　&nbsp;&nbsp;&nbsp;But he does't like ...（但是他不喜欢...）](./Lesson-50.md)

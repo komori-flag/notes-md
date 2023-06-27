@@ -64,6 +64,19 @@
 
 
 ---
+## 二：表示数量的一些短语
+
+1. a piece of（一块、一张、一片）
+2. a loaf of（一条）
+3. a bar of（一块）
+4. a bottle of（一瓶）
+5. a pound of（一磅[英国与美国所使用的英制质量单位]，一磅等于453.59237克）
+6. half a pound of（半磅，半磅等于226.796185克）
+7. a quarter of（四分之一[1/4]）
+8. a tin of（一罐、一盒）
+
+
+---
 ??? note "单词"
     **/tʃiːz/**<br>
     <font size=5>**cheese**</font>&nbsp;&nbsp;<font size=4>`n.[C/U]乳酪，奶酪`</font><br>
