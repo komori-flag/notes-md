@@ -137,7 +137,7 @@ either（英：/ˈaɪðə/，美：/ˈiːðər/）
     <font size=5>**truth**</font>&nbsp;&nbsp;<font size=4>`n.[U]实情`</font><br>
     <br>
     **/ˈaɪðə/**<br>
-    <font size=5>**either**</font>&nbsp;&nbsp;<font size=4>``</font><br>
+    <font size=5>**either**</font>&nbsp;&nbsp;<font size=4>`adv.也（用于否定句当中）`</font><br>
     <br>
 
 
