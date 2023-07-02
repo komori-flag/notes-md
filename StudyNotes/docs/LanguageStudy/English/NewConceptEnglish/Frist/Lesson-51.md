@@ -127,10 +127,5 @@
     <br>
 
 
-
-??? note "短语"
-    <font size=5>****</font>&nbsp;&nbsp;<font size=4>``</font><br>
-
-
 ??? note "语法练习"
 
