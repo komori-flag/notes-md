@@ -120,3 +120,13 @@
 [Lesson 49：At the butcher's（在肉店）](./Lesson-49.md)
 
 [Lesson 50：He likes ...（他喜欢...）<br>　　　　　&nbsp;&nbsp;&nbsp;But he does't like ...（但是他不喜欢...）](./Lesson-50.md)
+
+### 51 - 60
+
+[Lesson 51：A pleasant climate（宜人的气候](./Lesson-51.md)
+
+[Lesson 52：What nationality are they?（他们是哪国人？）<br>　　　　　&nbsp;&nbsp;&nbsp;Where do they come from?（他们是来自于哪个国家的？）](./Lesson-52.md)
+
+[Lesson 53：An interesting climate（有趣的气候）](./Lesson-53.md)
+
+[Lesson 54：What nationality are they?（他们是哪国人？）<br>　　　　　&nbsp;&nbsp;&nbsp;Where do they come from?（他们是来自哪个国家？）](./Lesson-54.md)
