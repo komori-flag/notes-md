@@ -130,3 +130,5 @@
 [Lesson 53：An interesting climate（有趣的气候）](./Lesson-53.md)
 
 [Lesson 54：What nationality are they?（他们是哪国人？）<br>　　　　　&nbsp;&nbsp;&nbsp;Where do they come from?（他们是来自哪个国家？）](./Lesson-54.md)
+
+[Lesson 55：The Sawyer family（索耶一家人）](./Lesson-55.md)
