@@ -1,20 +1,27 @@
 # Lesson 55：The Sawyer family（索耶一家人）
 
 
-## 一：如何表达“吃午饭”？
+## 如何表达“吃午饭”？
 
 have lunch（吃午餐。 | 夕食を食べる。）
 
 
+---
+## 文章句型转换
+
+一：The Sawyers live at 87 King Street.<br>（索耶一家住在国王街 87 号。 | ソーヤーの家族は87キングストリートに住んでいます。）
+
+1. Do the Sawyers live at 87 King Street?（索耶一家住在国王街 87 号吗？ | ソーヤーの家族は87キングストリートに住んでいますか？）[一般疑问句]
+2. Where do the Sawyers live?（索耶一家住在哪里？ | ソーヤーの家族はどこに住んでいますか？）[特殊疑问句(where)]
+3. Who do live at 87 King Street?（谁住在国王街 87 号？ | 87キングストリートは今誰が住んでいますか？）[特殊疑问句[who]
 
 
+二：Mr. Sawyer goes to work in the morning.<br>（索耶先生早上去上班。 | ソーヤー氏は朝仕事に行きます。）
 
-
-
-
-
-
-
+1. Does Mr. Sawyer go to work in the morning?（索耶先生早上去上班吗？ | ソーヤー氏は朝仕事に行きますか？）[一般疑问句]
+2. When does Mr. Sawyer go to work?（索耶先生什么时候去上班？ | ソーヤー氏はいつ仕事に行きますか？）[特殊疑问句(when)]
+3. Why does Mr. Sawyer go to work in the morning?（索耶先生为什么要在早上上班？ | なぜソーヤー氏は朝仕事に行きますか？）[特殊疑问句(why)]
+4. Who goes to work in the morning?（谁早上去上班？ | 朝に誰が仕事に行きますか？）[特殊疑问句(who)]
 
 
 ---
