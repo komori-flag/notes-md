@@ -26,7 +26,7 @@ have lunch（吃午餐。 | 夕食を食べる。）
 
 ---
 ??? note "单词"
-    **//**<br>
+    **/lɪv/**<br>
     <font size=5>**live**</font>&nbsp;&nbsp;<font size=4>`v.居住，生活`</font><br>
     用法：<br>
     ①：live in + 国家城市；<br>
