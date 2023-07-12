@@ -132,3 +132,9 @@
 [Lesson 54：What nationality are they?（他们是哪国人？）<br>　　　　　&nbsp;&nbsp;&nbsp;Where do they come from?（他们是来自哪个国家？）](./Lesson-54.md)
 
 [Lesson 55：The Sawyer family（索耶一家人）](./Lesson-55.md)
+
+[Lesson 56：What do they usually do?（他们通常做什么？）](./Lesson-56.md)
+
+[Lesson 57：An uusual day（不平常的一天）](./Lesson-57.md)
+
+[Lesson 58：What's the time?（几点钟？）](./Lesson-58.md)
