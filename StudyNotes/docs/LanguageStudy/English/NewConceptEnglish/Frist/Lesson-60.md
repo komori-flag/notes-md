@@ -2,7 +2,8 @@
 
 
 !!! note "练习"
-    Do you have ...?  -- I don't have ...<br>
+    ①：Do you have ...?  <br>
+    ②：I don't have ...<br>
     <br>
     1. potatoes<br>
     ①：Do you and Penny have any beans?（你和佩妮有一些豆子吗？ | 君とペニーは豆を持っていますか？）<br>
