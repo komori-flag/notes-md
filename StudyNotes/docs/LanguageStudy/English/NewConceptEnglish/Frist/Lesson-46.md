@@ -43,7 +43,7 @@ so easy. = a pieck of cake.（小菜一碟）
     <font size=5>**cake**</font>&nbsp;&nbsp;<font size=4>`n.饼，蛋糕`</font><br>
     <br>
     **/ˈbɪskɪt/**<br>
-    <font size=5>**biscuit**</font>&nbsp;&nbsp;<font size=4>``</font><br>
+    <font size=5>**biscuit**</font>&nbsp;&nbsp;<font size=4>`n.[C]饼干`</font><br>
     <br>
 
 

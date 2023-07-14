@@ -44,10 +44,14 @@ What size（多大尺码的？）
     **/tʃeɪndʒ/**<br>
     <font size=5>**change**</font>&nbsp;&nbsp;<font size=4>`n.[U]零钱，找给的钱`</font><br>
     <br>
+    **/hæv/**<br>
+    <font size=5>**have**</font>&nbsp;&nbsp;<font size=4>`v.有，持有`</font><br>
+    <br>
 
 
 ??? note "短语"
     <font size=5>**What size is that suit?**</font>&nbsp;&nbsp;<font size=4>`你西装多大尺码的？`</font><br>
+    <br>
     <font size=5>**Do you have?**</font>&nbsp;&nbsp;<font size=4>`你有什么？`</font><br>
 
 
