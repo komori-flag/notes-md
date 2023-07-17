@@ -138,3 +138,8 @@
 [Lesson 57：An uusual day（不平常的一天）](./Lesson-57.md)
 
 [Lesson 58：What's the time?（几点钟？）](./Lesson-58.md)
+
+[Lesson 59：Is that all?（就这些吗？）](./Lesson-59.md)
+
+[Lesson 60：What's the time?（几点钟？）](./Lesson-60.md)
+
