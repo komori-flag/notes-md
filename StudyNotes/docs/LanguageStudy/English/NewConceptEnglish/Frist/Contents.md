@@ -123,7 +123,7 @@
 
 ### 51 - 60
 
-[Lesson 51：A pleasant climate（宜人的气候](./Lesson-51.md)
+[Lesson 51：A pleasant climate（宜人的气候）](./Lesson-51.md)
 
 [Lesson 52：What nationality are they?（他们是哪国人？）<br>　　　　　&nbsp;&nbsp;&nbsp;Where do they come from?（他们是来自于哪个国家的？）](./Lesson-52.md)
 
@@ -142,4 +142,14 @@
 [Lesson 59：Is that all?（就这些吗？）](./Lesson-59.md)
 
 [Lesson 60：What's the time?（几点钟？）](./Lesson-60.md)
+
+## 61 - 70
+
+[Lesson 61：A bad cold（重感冒）](./Lesson-61.md)
+
+[Lesson 62：What's the matter with them?（他们怎么了？）<br>　　　　　&nbsp;&nbsp;&nbsp;What must they do?（他们该怎么办？）](./Lesson-62.md)
+
+
+
+
 

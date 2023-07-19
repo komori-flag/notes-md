@@ -73,6 +73,7 @@ What's the matter with you?（你有毛病吗？ / 你怎么回事？）
     <br>
     **/lʊk/**<br>
     <font size=5>**look**</font>&nbsp;&nbsp;<font size=4>`v.看（起来）`</font><br>
+    例子：<br>
     ①：He looks great.（他看起来很好。 | 彼は素晴らしく見えます。）<br>
     ②：Does he look great?（他看起来很好吗？ | 彼は素晴らしく見えますか？）<br>
     ③：How does he look?（他看起来怎么样？ | 彼はどうですか？）<br>
@@ -108,7 +109,7 @@ What's the matter with you?（你有毛病吗？ / 你怎么回事？）
     ①：Do you know that doctor?（你认识那位医生吗？ | その医者を知っていますか？）<br>
     ②：I don't have the doctor's number.（我没有医生的电话号码。 | 医師の番号がありません。）<br>
     <br>
-    **//**<br>
+    **/ˈtelɪfəʊn [fəʊn]/**<br>
     <font size=5>**telephone [phone]**</font>&nbsp;&nbsp;<font size=4>`n.[C/U]电话`</font><br>
     例子：<br>
     ①：Where's the phone?（电话在哪里？ | 電話はどこですか？）<br>
