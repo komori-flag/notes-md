@@ -1,24 +1,57 @@
 # Lesson 61：A bad cold（重感冒）
 
 
-## 一：如何使用“feel / smaell”等表感官的词？
+## 一：如何使用“feel / smell”等表感官的词？
+
+1. feel（感觉）
+
+!!! note "例子"
+    ①：She feels great.（她感觉良好。 | 彼女は気分が良いです。）<br>
+    ②：She doesn't feel bad.（她不感觉到不好。 | 彼女は気分が悪いわけではありません。）<br>
+    ③：Does she feel great?（她感觉良好吗？ | 彼女は気分が良いですか?）<br>
+    ④：How does she feel?（她感觉如何？ | 彼女はどんな気分ですか？）<br>
 
 
+2. look（看起来）
 
+!!! note "例子"
+    ①：It sounds terrible.（听起来很糟糕。 | 聞いてはまずいです。）<br>
+    ②：It doesn't sound good.（听起来不太好。 | 聞いてはよくないです。）<br>
+
+
+3. smell（闻起来）
+
+!!! note "例子"
+    ①：I smell bad.（我闻起来不太好。 | 私は臭いです。）<br>
+    ②：Do I smell bad?（我闻起来不太好吗？ | 私は臭いですか？）<br>
+    ③：How do I smell?（我闻起来怎么样？ | 私はどのように香りますか？）<br>
+
+
+4. taste（品尝起来）
+
+!!! note "例子"
+    ①：It tastes terrible.（尝起来很糟糕。 | ひどい味がします。）<br>
+    ②：It doesn't taste good.（尝起来不太好。 | おいしくないです。）<br>
 
 
 ---
-## 二：如何表达”重感冒“？
+## 二：如何表达“<font color=orange>重感冒</font>”？
 
-a bad cold.（重感冒）
+a <font color=orange>bad cold</font>.（<font color=orange>重感冒</font>）
 
-have a bad cold.（得了重感冒）
+have a <font color=orange>bad cold</font>.（得了<font color=orange>重感冒</font>。）
 
 
 ---
-## 三：如何表达“我有好消息”？
+## 三：如何表达“我有<font color=orange>好消息</font>”？
 
-I have good news.（我有好消息。）
+I have <font color=orange>good news</font>.（我有<font color=orange>好消息</font>。）
+
+
+---
+## 四：如何表达“你有毛病吗？ / 你怎么回事？”
+
+What's the matter with you?（你有毛病吗？ / 你怎么回事？）
 
 
 ---
@@ -110,6 +143,8 @@ I have good news.（我有好消息。）
     <font size=5>**I have good news for you.**</font>&nbsp;&nbsp;<font size=4>`我有好消息要告诉你。`</font><br>
     <br>
     <font size=5>**have a bad cold.**</font>&nbsp;&nbsp;<font size=4>`得了重感冒。`</font><br>
+    <br>
+    <font size=5>**What's the matter with you?**</font>&nbsp;&nbsp;<font size=4>`你有毛病吗？ / 你怎么回事？`</font><br>
 
 
 ??? note "语法练习" 
