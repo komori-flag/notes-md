@@ -53,6 +53,10 @@ I have <font color=orange>good news</font>.（我有<font color=orange>好消息
 
 What's the matter with you?（你有毛病吗？ / 你怎么回事？）
 
+以上句子在语法上是没错的，但它其实是具有一定攻击性的语言，包含了谴责、愤怒、生气的情绪。
+
+如果我们想向对方表达关心或询问伤病的时候，通常要将“with you”的部分去掉，只说“What's the matter?（你怎么了？）”，并且要用升调。
+
 
 ---
 ??? note "单词"
