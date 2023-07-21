@@ -96,7 +96,7 @@ take some medicine（吃一些药）
 
 
 ??? note "短语"
-    <font size=5>**I'm gonna see a doctor（dentist）.**</font>&nbsp;&nbsp;<font size=4>`我要去看医生（牙医）。`</font><br>
+    <font size=5>**see a doctor（dentist）.**</font>&nbsp;&nbsp;<font size=4>`看医生（牙医）。`</font><br>
     <br>
     <font size=5>**have a headache(earache / toothache / stomach ache)**</font>&nbsp;&nbsp;<font size=4>`头疼（耳疼/牙疼/胃疼）`</font><br>
     <br>
