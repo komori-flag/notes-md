@@ -156,3 +156,5 @@
 [Lesson 65：Not a baby（不是小孩子）](./Lesson-65.md)
 
 [Lesson 66：What's the time?（几点钟？）](./Lesson-66.md)
+
+[Lesson 67：The weeked（周末）](./Lesson-67.md)
