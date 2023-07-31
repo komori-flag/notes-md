@@ -11,7 +11,6 @@
 
 如果想要放在句子中表达“自己/他人”疼痛的话得要将名词动词化（have/has）。
 
-
 !!! note "例子"
     I have a headache.（我头疼。 | 頭痛がします。）<br>
     He has a headache.（他头疼。 | 彼は頭痛がします。）<br>
