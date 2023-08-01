@@ -158,3 +158,5 @@
 [Lesson 66：What's the time?（几点钟？）](./Lesson-66.md)
 
 [Lesson 67：The weeked（周末）](./Lesson-67.md)
+
+[Lesson 68：What's the time?（几点钟？）](./Lesson-68.md)
