@@ -160,3 +160,5 @@
 [Lesson 67：The weeked（周末）](./Lesson-67.md)
 
 [Lesson 68：What's the time?（几点钟？）](./Lesson-68.md)
+
+[Lesson 69：The car race（汽车比赛）](./Lesson-69.md)
