@@ -58,5 +58,16 @@ on the way home.（在回家的路上。 | 帰り道に。）
     <br>
     
 
+??? note "短语"
+    <font size=5>**next year**</font>&nbsp;&nbsp;<font size=4>`明年`</font><br>
+    <br>
+    <font size=5>**last year**</font>&nbsp;&nbsp;<font size=4>`去年`</font><br>
+    <br>
+    <font size=5>**a large crowd of people.**</font>&nbsp;&nbsp;<font size=4>`一大群人。`</font><br>
+    <br>
+    <font size=5>**on the way home.**</font>&nbsp;&nbsp;<font size=4>`在回家的路上。`</font><br>
+    <br>
+
+
 ??? note "语法练习"
 
