@@ -164,3 +164,7 @@
 [Lesson 69：The car race（汽车比赛）](./Lesson-69.md)
 
 [Lesson 70：When were they there?（他们是什么时候在哪里的？）](./Lesson-70.md)
+
+## 71 - 80
+
+[Lesson 71：He's awful!（他讨厌透了！）](./Lesson-71.md)
