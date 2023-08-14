@@ -172,3 +172,5 @@
 [Lesson 72：When did you ...?（你什么时候...？）](./Lesson-72.md)
 
 [Lesson 73：The way to king street（到国王街该怎么走？）](./Lesson-73.md)
+
+[Lesson 74：What did they do?（他们干了什么？）](./Lesson-74.md)
