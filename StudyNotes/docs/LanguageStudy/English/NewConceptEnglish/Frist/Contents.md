@@ -174,3 +174,5 @@
 [Lesson 73：The way to king street（到国王街该怎么走？）](./Lesson-73.md)
 
 [Lesson 74：What did they do?（他们干了什么？）](./Lesson-74.md)
+
+[Lesson 75：Uncomfortable shoes（不舒服的鞋子）](./Lesson-75.md)
