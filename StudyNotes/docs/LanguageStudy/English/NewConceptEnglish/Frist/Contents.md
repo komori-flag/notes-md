@@ -176,3 +176,5 @@
 [Lesson 74：What did they do?（他们干了什么？）](./Lesson-74.md)
 
 [Lesson 75：Uncomfortable shoes（不舒服的鞋子）](./Lesson-75.md)
+
+[Lesson 76：When did you ...?（你什么时候...？）](./Lesson-76.md)
