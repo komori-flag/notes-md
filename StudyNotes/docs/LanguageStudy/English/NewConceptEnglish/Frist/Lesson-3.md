@@ -20,25 +20,27 @@ one ticket to xxx（某地）. （买一张去往某地的票）
 
 
 ---
-## 三：如何表达一切的数字？
+## 三：如何用 0~9 表达一切的数字？
 
-在不记得几十几百或几万怎么读的情况下可以采用逐数拼读的方法。
+拼读法：在不记得几十几百或几万怎么读的情况下可以采用逐数拼读的方法。通常适用于对电话号码或号码等。
 > 例：<br>
 > 81192 --> eight one one nine two<br>
 > 514 --> five one four<br>
 > 等等.....
 
-从 0 ~ 9<br>
-0 - “zero” - /ˈzɪərəʊ/<br>
-1 - “one” - /wʌn/<br>
-2 - “two” - /tuː/<br>
-3 - “three” - /θriː/<br>
-4 - “four” - /fɔː/<br>
-5 - “five” - /faɪv/<br>
-6 - “six” - /sɪks/<br>
-7 - “seven” - /ˈsɛv(ə)n/<br>
-8 - “eight” - /eɪt/<br>
-9 - “nine” - /naɪn/<br>
+??? note "从 0 ~ 9 的英文数字"
+    | 基数 | 词 | 音标 |
+    | :-: | :-: | :-: |
+    | 0 | zero | /ˈzɪərəʊ/ |
+    | 1 | one | /wʌn/ |
+    | 2 | two | /tuː/ |
+    | 3 | three | /θriː/ |
+    | 4 | four | /fɔː/ |
+    | 5 | five | /faɪv/ |
+    | 6 | six | /sɪks/ |
+    | 7 | seven | /ˈsɛv(ə)n/ |
+    | 8 | eight | /eɪt/ |
+    | 9 | nine | /naɪn/ |
 
 
 ---

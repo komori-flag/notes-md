@@ -22,6 +22,56 @@
 
 
 ---
+## 三：英文数字
+
+[Lesson 3](./Lesson-3.md) 讲到了“如何用 0~9 表达一切的数字”，但在日常人们交流的过程当中更常使用到的是“英文数字”，这包括了之前所学到的 0~9。
+
+从数字 13 开始有一定的规则是用 <font size=4>**-teen**</font> 当字尾。
+
+??? note "10 ~ 19"
+    | 基数 | 词 | 音标 |
+    | :-: | :-: | :-: |
+    | 10 | ten | /ten/ |
+    | 11 | eleven | /ɪˈlevn/ |
+    | 12 | twelv | /twelv/ |
+    | 13 | thir<font size=3>**teen**</font> | /ˌθɜːˈtiːn/ |
+    | 14 | four<font size=3>**teen**</font> | /ˌfɔːˈtiːn/ |
+    | 15 | fif<font size=3>**teen**</font> | /ˌfɪfˈtiːn/ |
+    | 16 | six<font size=3>**teen**</font> | /ˌsɪksˈtiːn/ |
+    | 17 | seven<font size=3>**teen**</font> | /ˌsevnˈtiːn/ |
+    | 18 | eigh<font size=3>**teen**</font> | /ˌeɪˈtiːn/ |
+    | 19 | nine<font size=3>**teen**</font> | /ˌnaɪnˈtiːn/ |
+
+20 到 90 的十位数都是以 <font size=3>**-ty**</font> 当字尾
+
+??? note "20~90 的十位数"
+    | 基数 | 词 | 音标 |
+    | :-: | :-: | :-: |
+    | 20 | twen<font size=3>**ty**</font> | /ˈtwenti/ |
+    | 30 | thir<font size=3>**ty**</font> | /ˈθɜːti/ |
+    | 40 | four<font size=3>**ty**</font> | /ˈfɔːti/ |
+    | 50 | fif<font size=3>**ty**</font> | /ˈfɪfti/ |
+    | 60 | six<font size=3>**ty**</font> | /ˈsɪksti/ |
+    | 70 | seven<font size=3>**ty**</font> | /ˈsevnti/ |
+    | 80 | eigh<font size=3>**ty**</font> | /ˈeɪti/ |
+    | 90 | nine<font size=3>**ty**</font> | /ˈnaɪnti/ |
+
+对于从 21~99 的来说，可使用“十位数词 + 个位数”的规则。
+
+!!! note "例子"
+    | 基数 | 词 | 音标 |
+    | :-: | :-: | :-: |
+    | 21 | twenty-one | /ˈtwenti wʌn/ |
+    | 32 | twenty-two | /ˈθɜːti tuː/ |
+    | 43 | forty-three | /ˈfɔːti θriː/ |
+    | 54 | fifty-four | /ˈˈfɪfti fɔː(r)/ |
+    | 65 | sixty-five | /ˈsɪksti faɪv/ |
+    | 76 | seventy-six | /ˈsevnti sɪks/ |
+    | 87 | eighty-seven | /ˈeɪti ˈsevn/ |
+    | 98 | ninety-eight | /ˈnaɪnti eɪt/ |
+
+
+---
 ??? note "单词"
     **/əˈklɒk/**<br>
     <font size=5>**o'clock**</font>&nbsp;&nbsp;<font size=4>`adv.点钟`</font><br>
