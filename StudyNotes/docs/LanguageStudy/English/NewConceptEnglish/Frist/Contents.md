@@ -180,3 +180,5 @@
 [Lesson 76：When did you ...?（你什么时候...？）](./Lesson-76.md)
 
 [Lesson 77：Terrible toothache（要命的牙疼）](./Lesson-77.md)
+
+[Lesson 78：When did you ...?（你什么时候...？）](./Lesson-78.md)
