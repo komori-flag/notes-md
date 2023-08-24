@@ -182,3 +182,5 @@
 [Lesson 77：Terrible toothache（要命的牙疼）](./Lesson-77.md)
 
 [Lesson 78：When did you ...?（你什么时候...？）](./Lesson-78.md)
+
+[Lesson 79：Carol's shopping list（卡罗尔的购物单）](./Lesson-79.md)
