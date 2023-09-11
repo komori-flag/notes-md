@@ -7,68 +7,63 @@
 
 
 ??? note "练习"
-
-    ```text
-    1.father
-    This is my father.
-    This is not my father.
-    Is this your father?
-        - Yes, he is.
-        - No, he isn't.
-    This is his/her father.
-    
-
-    2.tie
-    This is a blue tie.
-    Is this a blue tie?
-        - Yes, it is.
-        - No, it isn't.
-    This is my tie.
-    This is his tie.
-    This is not my tie.
-    Is this your tie?
-        - Yes, it is.
-        - No, it isn't.
-    Whose is this tie?
-    Whose tie is this?
-
-
-    3.handbag
-    This is my handbag.
-    This is not my handbag.
-    This is her/his handbag.
-    Is this your handbag?
-        - Yes, it is.
-        - No, it isn't.
-    Whose handbag is this?
-        - This is my handbag.
-        - This is your handbag.
-        - This is his handbag.
-        - This is her handbag.
-    Whose handbag is that?
-        - That is my handbag.
-        - That is your handbag.
-        - This is his handbag.
-        - This is her handbag.
-
-    4.dress
-    Whose is that dress?(Whose dress is that?)
-    Is it your mother's?
-    It isn't my mother's.
-    It's my daughter's.
-
-    5. suit
-    Whose is that suit?(Whose suit is that?)
-    Is it your son's?
-    It isn't my son's.
-    It's my father's.
-
-    6.blouse
-    Whose is that blouse?(Whose blouse is that?)
-    Is it your mother's?
-    It isn't my mother's.
-    It's my sister's.
-    ```
+    1.father<br>
+    This is my father.<br>
+    This is not my father.<br>
+    Is this your father?<br>
+    - Yes, he is.<br>
+    - No, he isn't.<br>
+    This is his/her father.<br>
+    <br>
+    2.tie<br>
+    This is a blue tie.<br>
+    Is this a blue tie?<br>
+    - Yes, it is.<br>
+    - No, it isn't.<br>
+    This is my tie.<br>
+    This is his tie.<br>
+    This is not my tie.<br>
+    Is this your tie?<br>
+    - Yes, it is.<br>
+    - No, it isn't.<br>
+    Whose is this tie?<br>
+    Whose tie is this?<br>
+    <br>
+    3.handbag<br>
+    This is my handbag.<br>
+    This is not my handbag.<br>
+    This is her/his handbag.<br>
+    Is this your handbag?<br>
+        - Yes, it is.<br>
+        - No, it isn't.<br>
+    Whose handbag is this?<br>
+        - This is my handbag.<br>
+        - This is your handbag.<br>
+        - This is his handbag.<br>
+        - This is her handbag.<br>
+    Whose handbag is that?<br>
+        - That is my handbag.<br>
+        - That is your handbag.<br>
+        - This is his handbag.<br>
+        - This is her handbag.<br>
+    <br>
+    4.dress<br>
+    Whose is that dress?(Whose dress is that?)<br>
+    Is it your mother's?<br>
+    It isn't my mother's.<br>
+    It's my daughter's.<br>
+    <br>
+    5. suit<br>
+    Whose is that suit?(Whose suit is that?)<br>
+    Is it your son's?<br>
+    It isn't my son's.<br>
+    It's my father's.<br>
+    <br>
+    6.blouse<br>
+    Whose is that blouse?(Whose blouse is that?)<br>
+    Is it your mother's?<br>
+    It isn't my mother's.<br>
+    It's my sister's.<br>
 
 
 ---

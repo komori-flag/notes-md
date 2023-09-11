@@ -45,8 +45,6 @@ Life isn't blank and white.（生活不是非黑即白）
     <br>
     **/ˈɒrɪndʒ/**<br>
     <font size=5>**orange**</font>&nbsp;&nbsp;<font size=4>`adj.橙色的`</font><br>
-    <br>
-
 
 
 ??? note "语法练习"

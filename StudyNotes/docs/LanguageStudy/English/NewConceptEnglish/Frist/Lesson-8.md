@@ -78,7 +78,6 @@
     ②：Is <font color=orange>he</font> a hairdresser or a mechanic?<br>
     ③：He isn't a mechanic.<br>
     ④：He's a hairdresser.<br>
-    <br>
 
 
 ---

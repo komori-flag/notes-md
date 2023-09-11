@@ -14,20 +14,22 @@
 
 <font size=4 color=red>n. 单数/复数</font>
 
-> 例：<br>
-> friend（单数） - friend<font color=orange>s</font>（复数）<br>
+!!! note "例子"
+    friend（单数） - friend<font color=orange>s</font>（复数）<br>
+    book - books<br>
+    pen - pens<br>
 
 
 ### 单数变复数的变化规则
 
 1. 直接在词尾加上“-s”，例如“friend<font color=orange>s</font>、book<font color=orange>s</font>、pen<font color=orange>s</font>”等。
 
-例子：<br>
-1.pen<br>
-This is my pen.（这是我的笔）  --->  These <u>are</u> my pens.（这些是我的笔）<br>
-2.book<br>
-This is my book.（这是我的书）  --->  These <u>are</u> my books.（这些是我的书）<br>
-<br>
+!!! note "例子"
+    1.pen<br>
+    This is my pen.（这是我的笔）  --->  These <u>are</u> my pens.（这些是我的笔）<br>
+    <br>
+    2.book<br>
+    This is my book.（这是我的书）  --->  These <u>are</u> my books.（这些是我的书）<br>
 
 
 2. 以字母“s，o，x，ch，sh”结尾的词尾加上“-es”，例如“dress<font color=orange>es</font>”等。
@@ -75,8 +77,6 @@ This is my book.（这是我的书）  --->  These <u>are</u> my books.（这些
     <br>
     **/ˈtʊərɪst/**<br>
     <font size=5>**tourist**</font>&nbsp;&nbsp;<font size=4>`n.旅游者`</font><br>
-    <br>
-
 
 
 ??? note "短语"

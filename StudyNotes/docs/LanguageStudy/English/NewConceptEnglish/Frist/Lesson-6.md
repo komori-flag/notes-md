@@ -4,13 +4,8 @@
 
 一般情况下会使用到“brand”来表示“品牌”的意思，而不怎么会去使用“make”。
 
-**/meɪk/**<br>
-<font size=5>**make**</font>&nbsp;&nbsp;<font size=4>`n.品牌`</font><br>
-**/brænd/**<br>
-<font size=5>**brand**</font>&nbsp;&nbsp;<font size=4>`n.商标;牌子;品牌`</font><br>
-
-> 例：<br>
-> What brand is this?  --They's the same.（这是哪个牌子的来着？  --都是同一个牌子。 | これはどこのブランドだけ？  --同じのですよ。）<br>
+??? note "例句"
+    What brand is this?  --They's the same.（这是哪个牌子的来着？  --都是同一个牌子。 | これはどこのブランドだけ？  --同じのですよ。）<br>
 
 
 ---

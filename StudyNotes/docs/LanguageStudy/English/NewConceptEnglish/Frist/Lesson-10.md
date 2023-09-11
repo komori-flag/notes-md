@@ -5,11 +5,11 @@
 
 形容词（adj.）的用法与大多数的外语差不多，就是<font color=red size=4>adj. + n.（形容词 + 名词）</font>的用法。
 
-> 例：<br>
-> blue sky（蓝色的天空 | 青い空）<br>
-> busy policeman（忙碌的警察 | 忙しい警察）<br>
-> bad weather（坏的天气 | 悪い天候）<br>
-> 等等......
+??? note "例句"
+    blue sky（蓝色的天空 | 青い空）<br>
+    busy policeman（忙碌的警察 | 忙しい警察）<br>
+    bad weather（坏的天气 | 悪い天候）<br>
+    等等......
 
 
 ---
@@ -58,7 +58,6 @@
     <br>
     **/ˈleɪzibəʊnz/**<br>
     <font size=5>**lazybones**</font>&nbsp;&nbsp;<font size=4>`adj.懒汉; 懒虫; 懒骨头`</font><br>
-    <br>
 
 
 ??? note "语法练习"

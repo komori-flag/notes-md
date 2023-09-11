@@ -190,7 +190,7 @@ yes? ↑（怎么了？ | はい？）
     ①：hand + bag；<br>
     ②：/æ/ 与 /e/ ( yes 的 /jes/ )。<br>
     <br>
-    **/ˈpɑːdn/**（英），**/ˈpɑːrdn/**（美）<br>
+    **/ˈpɑːdn/**<br>
     <font size=5>**pardon**</font>&nbsp;&nbsp;<font size=4>`int.请再说一遍; 抱歉`</font><br>
     ①：两种读音，区分英和美式发音的区别之一：是否带儿化音（r）；<br>
     ②：p /p/，d /d/，n /n/；<br>
@@ -198,10 +198,10 @@ yes? ↑（怎么了？ | はい？）
     **/ʃi/**<br>
     <font size=5>**she**</font>&nbsp;&nbsp;<font size=4>`pron.她`</font><br>
     <br>
-    **/hi , hiː/**<br>
+    **/hi[hiː]/**<br>
     <font size=5>**he**</font>&nbsp;&nbsp;<font size=4>`pron.他`</font><br>
     <br>
-    **/hi , hiː/**<br>
+    **/ɪt/**<br>
     <font size=5>**it**</font>&nbsp;&nbsp;<font size=4>`pron.它`</font><br>
     <br>
     **/ˈθæŋk juː/**<br>

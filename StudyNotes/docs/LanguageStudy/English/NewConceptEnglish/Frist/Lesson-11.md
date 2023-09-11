@@ -93,16 +93,6 @@ Whose dress is this?（常用用法）
     **/huːz/**<br>
     <font size=5>**whose**</font>&nbsp;&nbsp;<font size=4>`det./pron.（用于问句）谁的`</font><br>
     <br>
-    **//**<br>
-    <font size=5>****</font>&nbsp;&nbsp;<font size=4>``</font><br>
-    <br>
-    **//**<br>
-    <font size=5>****</font>&nbsp;&nbsp;<font size=4>``</font><br>
-    <br>
-    **//**<br>
-    <font size=5>****</font>&nbsp;&nbsp;<font size=4>``</font><br>
-    <br>
-
 
 
 ??? note "短语"

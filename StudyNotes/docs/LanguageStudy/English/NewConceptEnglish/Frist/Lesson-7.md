@@ -3,15 +3,15 @@
 
 ## 一：如何询问别人从哪里来的？
 
-<font size=5>**What nationality are you?**</font>&nbsp;&nbsp;<font size=4>`（偏正式的用法）你是什么国籍的？`</font><br>
-补充：<br>
-Where are you from?[（平常说法）你来自于哪里的？ | あなたの出身はどこですか。]<br>
+What nationality are you?（[偏正式的用法]你是什么国籍的？）
+
+Where are you from?（[平常说法]你来自于哪里的？ | あなたの出身はどこですか。）
 
 
 ---
 ## 二：如何询问别人的工作？
 
-<font size=5>**What's your job?**</font>&nbsp;&nbsp;<font size=4>`你是干什么工作的？（一般情况下不要轻易询问）`</font><br>
+What's your job?你是干什么工作的？（一般情况下不要轻易询问）`
 补充：<br>
 在一般情况下我们并不能直接询问对方的职业，我们可以使用以下的句子来替换：<br>
 What do you do?（你是干什么的？ | 仕事は何ですか？）<br>

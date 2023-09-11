@@ -28,7 +28,8 @@
 
 怎么失去爆破呢？那便是“<font color=red size=4>做出发音动作，但是不发出音来</font>”。
 
-> 例：sit down（/sɪ<font color=orange>t</font>/（“t”不发音） + /daʊn/ ---> /sɪ/ + /daʊn/）
+!!! note "例子"
+    sit down（/sɪ<font color=orange>t</font>/（“t”不发音） + /daʊn/ ---> /sɪ/ + /daʊn/）
 
 
 ---

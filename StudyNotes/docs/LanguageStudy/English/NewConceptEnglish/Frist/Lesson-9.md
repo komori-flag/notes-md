@@ -92,7 +92,6 @@ nice to <font color=orange>see</font> you（认识的两个人见面时使用，
     <font size=5>**How are you doing, today?**</font>&nbsp;&nbsp;<font size=4>`你今天怎么样？[询问他人大概的生活怎么样]`</font><br>
     <br>
     <font size=5>**Nice to see you**</font>&nbsp;&nbsp;<font size=4>`很高兴看到你[认识的两个人见面时使用，说话的双方互相认识]`</font><br>
-    <br>
 
 
 ??? note "语法练习"
