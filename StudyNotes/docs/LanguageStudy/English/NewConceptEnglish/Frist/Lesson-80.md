@@ -1,20 +1,23 @@
 # Lesson 80：I must go to the ...（我必须去...）
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+!!! note "练习"
+    “a lot of” & “many” & “much” 和 “have got”<br>
+    <br>
+    1. cheese - much<br>
+    ①：Have you got any cheese?（你有些奶酪吗？ | いくつかチーズはありますか？）<br>
+    ②：I need a lot of cheese.（我需要很多的奶酪。 | たくさんのチーズが欲しいですが。）<br>
+    ③：I haven't got much.（但我的奶酪不多了。 | チーズが少なくなってしまった。）<br>
+    <br>
+    2. envelopes - many<br>
+    ①：Has he got any envelopes?（他有些信封吗？ | 彼はいくつか封筒がありますか？）<br>
+    ②：He needs a lot of envelopes.（他需要很多信封。 | たくさんの封筒が欲しいですが。）<br>
+    ③：He hasn't got many envelopes.（但他的信封不多了。 | 彼の封筒が少なくなってしまった。）<br>
+    <br>
+    3. bread - much<br>
+    ①：Have they got any bread?（他们有些面包吗？ | 彼らはいくつかパンがありますか？）<br>
+    ②：They need a lot of bread.（他们需要很多的面包。 | たくさんの封筒が欲しいですが。）<br>
+    ③：They haven't got much bread.（但他们的面包不多了。 | 彼らのパンが少なくなってしまった。）<br>
 
 
 ---
