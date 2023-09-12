@@ -7,25 +7,24 @@
 
 表达名词之间的所属关系可以通过“<font style="background-color: skyblue" color=black>A</font> of <font style="background-color: orange" color=black>B</font>”结构，也就是“<font style="background-color: skyblue" color=black>名词（n.）</font> of <font style="background-color: orange" color=black>名词（n.）</font>”，表示“<font style="background-color: orange" color=black>B</font> 的（of） <font style="background-color: skyblue" color=black>A</font>”。
 
-> 例：<br>
-> in the middle of the room.（在房间的中间。 | 部屋の真ん中で。）<br>
-> The box is in the middle of the room.（这个箱子放在房间的中间位置 | この箱は部屋の真ん中にあります。）<br>
+??? note "例子"
+    ①：in the middle of the room.（在房间的中间。 | 部屋の真ん中で。）<br>
+    ②：The box is in the middle of the room.（这个箱子放在房间的中间位置 | この箱は部屋の真ん中にあります。）<br>
 
 
 ### 2. “A of B（某地有某物/人）”的肯定句
 
 语法结构：**<font color=orange>There be（is/are/am）</font> + <font color=blue>a/an</font> + <font color=chocolate>A of B.</font>**（某地有某物/人）
 
-> 例：<br>
-> There is a box in the middle of the room.（箱子放在房间的中间位置 | 部屋の真ん中に箱があります。）<br>
-> There is an electric cooker in the kitchen.（厨房里有一个电炉子。 | キッチンには電気コンロがあります。）
+??? note "例子"
+    ①：There is a box in the middle of the room.（箱子放在房间的中间位置 | 部屋の真ん中に箱があります。）<br>
+    ②：There is an electric cooker in the kitchen.（厨房里有一个电炉子。 | キッチンには電気コンロがあります。）
 
 
 ### 3. “A of B（某地有某物/人）”的否定句
 
 语法结构：**<font color=orange>There be（is/are/am）</font> + <font color=darkorenge>not</font> + <font color=blue>a/an</font> + <font color=chocolate>A of B.</font>**（某地没有某物/人）
 
-> 例：<br>
 > There isn't a box in the middle of the room.（箱子没有放在房间的中间位置 | 箱は部屋の真ん中にありません。）<br>
 
 
@@ -48,9 +47,9 @@ on the left/right.（在 左边/右边）
 
 “the”是定冠词，其特指的名词说的是特定的事物、人物、地点等。
 
-> 例：<br>
-> There is <font style="background-color: orange" color=black>a</font> refrigerator in the kitchen.（冰箱放在厨房。）<br>
-> <font style="background-color: orange" color=black>The</font> refrigerator is white.（那台冰箱是白色的。[“The”指的是前文提到过的特定结果]）<br>
+??? note "例子"
+    ①：There is <font style="background-color: orange" color=black>a</font> refrigerator in the kitchen.（冰箱放在厨房。）<br>
+    ②：<font style="background-color: orange" color=black>The</font> refrigerator is white.（那台冰箱是白色的。[“The”指的是前文提到过的特定结果]）<br>
 
 
 ---

@@ -5,9 +5,9 @@
 
 <font size=4 color=red>**特殊疑问句 = 特殊疑问词（如：what、how、whose、who、where等） + 一般疑问句（去掉答案）**</font>
 
-> 例：<br>
-> My book is on the shelf.<br>
-> <font color=orange>Is</font> my book on the shelf?（一般疑问句）<br>
+??? note "例句"
+    My book is on the shelf.<br>
+    <font color=orange>Is</font> my book on the shelf?（一般疑问句）<br>
 
 ```text
 一般疑问句 --> 特殊疑问句
@@ -86,31 +86,28 @@ The pen <font color=orange>on the desk</font>.（笔<font color=orange>在桌子
     <br>
 
 
-
 ??? note "语法练习"
-    ```text
-    1. 使用“ one ” 或“ ones ”填空。
-    例：Are these your books? The *ones* on the shelf?
-
-    ①：Give me two cups. please.
-      -- Which *ones*?
-      -- The *ones* on the table.
-    ②：Which is your chair?
-      -- The *one* in your room.
-    ③：Give me that tie, please.
-      -- The orange one.
-    ④：Which car is your father's?
-      -- The German *one* or the Japanese *one*?
-
-    
-    2. 仿照例句写出下列各句的对应句
-    例：
-    ①：Here's a small box.(big)  -- *This one isn't small. It's a big one.*
-    ②：Here are some blue shoes.(grey)  -- *These aren't blue. They're grey.*
-
-    ①：Here's an old coat.(new)  -- *This one isn't old.  It's a new one.*
-    ②：Here's a small shirt.(large)
-      -- *This one isn't small. It's a large one.*
-    ③：Here are some yellow dresses.(green)  -- *These  aren't yellow. They're green.*
-    ```
+    1. 使用“ one ” 或“ ones ”填空。<br>
+    例：Are these your books? The *ones* on the shelf?<br>
+    ①：Give me two cups. please.<br>
+    -- Which *ones*?<br>
+    -- The *ones* on the table.<br>
+    ②：Which is your chair?<br>
+    -- The *one* in your room.<br>
+    ③：Give me that tie, please.<br>
+    -- The orange one.<br>
+    ④：Which car is your father's?<br>
+    -- The German *one* or the Japanese *one*?<br>
+    <br>
+    2. 仿照例句写出下列各句的对应句<br>
+    ①：Here's a small box.(big)<br>
+    -- *This one isn'tsmall. It's a big one.*<br>
+    ②：Here are some blue shoes.(grey)<br>
+    -- *These aren't blue. They're grey.*<br>
+    ①：Here's an old coat.(new)<br>
+    -- *This one isn't old. It's a new one.*<br>
+    ②：Here's a small shirt.(large)<br>
+    -- *This one isn't small. It's a large one.*<br>
+    ③：Here are some yellow dresses.(green)<br>
+    -- *These aren't yellow. They're green.<br>
 

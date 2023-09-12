@@ -13,8 +13,8 @@ It's a fine day today.（今天是一个好天气。 | 今日はいい天気だ�
 
 到目前为止，我们所学习的“over”有两种意思：
 
-> 1. （越）过，从一边到另一边；<br>
-> 2. 在...的上方。
+1. （越）过，从一边到另一边；<br>
+2. 在...的上方。
 
 
 ---
@@ -25,8 +25,8 @@ It's a fine day today.（今天是一个好天气。 | 今日はいい天気だ�
     **/deɪ/**<br>
     <font size=5>**day**</font>&nbsp;&nbsp;<font size=4>`n.日子`</font><br>
     例句：<br>
-    It's a fine day.（这是一个好天。）<br>
-    It's a bad day.（这是一个坏天。）<br>
+    ①：It's a fine day.（这是一个好天。）<br>
+    ②：It's a bad day.（这是一个坏天。）<br>
     <br>
     **/skaɪ/**<br>
     <font size=5>**sky**</font>&nbsp;&nbsp;<font size=4>`n.天空`</font><br>
@@ -39,8 +39,7 @@ It's a fine day today.（今天是一个好天气。 | 今日はいい天気だ�
     <br>
     **/ʃaɪn/**<br>
     <font size=5>**shine**</font>&nbsp;&nbsp;<font size=4>`v.照耀`</font><br>
-    例句：<br>
-    The sun is shining in the sky.（阳光在天空中照耀。）<br>
+    例句：The sun is shining in the sky.（阳光在天空中照耀。）<br>
     <br>
     **/wɪð/**<br>
     <font size=5>**with**</font>&nbsp;&nbsp;<font size=4>`prep.和...在一起`</font><br>

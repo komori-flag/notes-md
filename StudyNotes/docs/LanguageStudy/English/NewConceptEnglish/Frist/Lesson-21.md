@@ -56,7 +56,7 @@ give <font style="background-color: skyblue">me</font> <font style="background-c
 ??? note "单词"
     **/ɡɪv/**<br>
     <font size=5>**give**</font>&nbsp;&nbsp;<font size=4>`v.给`</font><br>
-    补充：<br>
+    例句：<br>
     ①：give me five.（我们击掌吧！[表示问好或庆祝] | ハイタッチしましょう！）<br>
     ②：give me a hug.（给我一个拥抱 | ハグして。）<br>
     <br>
@@ -76,8 +76,6 @@ give <font style="background-color: skyblue">me</font> <font style="background-c
     <br>
     <font size=5>**give me a hand.**</font>&nbsp;&nbsp;<font size=4>`帮把手`</font><br>
     <br>
-
-
 
 
 ??? note "语法练习"

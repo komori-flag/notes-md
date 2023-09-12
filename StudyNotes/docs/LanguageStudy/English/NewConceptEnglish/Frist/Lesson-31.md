@@ -27,28 +27,28 @@
 
 <font size=4>**结构：<font color=orange>主语</font> + <font color=blue>be动词[am/is/are]</font> + <font color=chocolate>doing[v.ing 现在分词]</font>**</font>
 
-> 例：<br>
-> 我现在正在上课。 | 今授業中です。<br>
-> She is reading a book.（她正在阅读书籍。 | 彼女は本を読んでいます。）<br>
-> They are running on the street.（他们在道路上奔跑。 | 彼らは路上を走っています。）<br>
+??? note "例子"
+  我现在正在上课。 | 今授業中です。<br>
+  She is reading a book.（她正在阅读书籍。 | 彼女は本を読んでいます。）<br>
+  They are running on the street.（他们在道路上奔跑。 | 彼らは路上を走っています。）<br>
 
 
 ### 语法：现在进行时的否定句
 
 <font size=4>**结构：<font color=orange>主语</font> + <font color=blue>be动词[am/is/are]</font> + <font color=red>not</font> + <font color=chocolate>doing[v.ing 现在分词]</font>**</font>
 
-> 例：<br>
-> She is not reading a book.（她没有在阅读书籍。 | 彼女は本を読んでいません。）<br>
-> They are not swimming.（他们还没有在游泳。 | 彼らはまだ泳いでいない。）<br>
+??? note "例子"
+  She is not reading a book.（她没有在阅读书籍。 | 彼女は本を読んでいません。）<br>
+  They are not swimming.（他们还没有在游泳。 | 彼らはまだ泳いでいない。）<br>
 
 
 ### 语法：现在进行时的一般疑问句
 
 <font size=4>**结构：<font color=blue>be动词[am/is/are]</font> + <font color=orange>主语</font> + <font color=chocolate>doing?[v.ing 现在分词]</font>**</font>
 
-> 例：<br>
-> Is she opening the door?（她有在开门吗？ | 彼女はドアを開けています。）<br>
-> Are thry sitting on the floor?（他们是坐在地板上吗？ | 彼らは床に座っていますか？）<br>
+??? note "例子"
+  Is she opening the door?（她有在开门吗？ | 彼女はドアを開けています。）<br>
+  Are thry sitting on the floor?（他们是坐在地板上吗？ | 彼らは床に座っていますか？）<br>
 
 
 ### 语法：现在进行时的特殊疑问句
@@ -57,9 +57,9 @@
 
 <font size=4>**结构：<font color=red>What</font> + <font color=blue>be动词[am/is/are]</font> + <font color=orange>主语</font> + <font color=chocolate>doing?[v.ing 现在分词]</font>**</font>
 
-> 例：<br>
-> What is she doing?（她正在做什么？ | 彼女は今何している？）<br>
-> What are they doing?（他们正在做什么？ | 彼らは今何している？）<br>
+??? note "例子"
+  What is she doing?（她正在做什么？ | 彼女は今何している？）<br>
+  What are they doing?（他们正在做什么？ | 彼らは今何している？）<br>
 
 
 ---
@@ -72,26 +72,26 @@
 
 #### 1. v. + ing（动词直接加ing）
 
-> 例：<br>
-> eat（吃） --> eat<font color=orange>ing</font>（正在吃）<br>
-> open（打开） --> open<font color=orange>ing</font>（正打开）<br>
-> read（阅读） --> read<font color=orange>ing</font>（正在阅读）<br>
+??? note "例子"
+  eat（吃） --> eat<font color=orange>ing</font>（正在吃）<br>
+  open（打开） --> open<font color=orange>ing</font>（正打开）<br>
+  read（阅读） --> read<font color=orange>ing</font>（正在阅读）<br>
 
 
 #### 2. v.(去掉最后的e) + ing
 
-> 例：<br>
-> com<font color=yellow>e</font>（来） --> com<font color=orange>ing</font>（正在来）<br>
-> mak<font color=yellow>e</font>（整理） --> mak<font color=orange>ing</font>（正在整理）<br>
-> danc<font color=yellow>e</font>（跳舞） --> danc<font color=orange>ing</font>（正在跳舞）<br>
+??? note "例子"
+  com<font color=yellow>e</font>（来） --> com<font color=orange>ing</font>（正在来）<br>
+  mak<font color=yellow>e</font>（整理） --> mak<font color=orange>ing</font>（正在整理）<br>
+  danc<font color=yellow>e</font>（跳舞） --> danc<font color=orange>ing</font>（正在跳舞）<br>
 
 
 #### 3. v.(最后的子母双写) + ing
 
-> 例：<br>
-> ru<font color=yellow>n</font>（跑步） --> ru<font color=orange>nning</font>（正在跑步）<br>
-> si<font color=yellow>e</font>（坐下） --> si<font color=orange>tting</font>（正在坐下）<br>
-> swi<font color=yellow>e</font>（游泳） --> swi<font color=orange>mming</font>（正在游泳）<br>
+??? note "例子"
+  ru<font color=yellow>n</font>（跑步） --> ru<font color=orange>nning</font>（正在跑步）<br>
+  si<font color=yellow>e</font>（坐下） --> si<font color=orange>tting</font>（正在坐下）<br>
+  swi<font color=yellow>e</font>（游泳） --> swi<font color=orange>mming</font>（正在游泳）<br>
 
 
 ---
@@ -101,9 +101,9 @@
 
 但当特殊疑问词<font color=red size=3>**直接对句子中的主语提问**</font>时，可以直接用特殊疑问词来替代主语。（Who 和 What 使用频率最高）
 
-> 例：<br>
-> <font color=orange>Tim</font>[提问的主语] is clibing the tree.（蒂姆正在爬树）<br>
-> <font color=orange>Who</font> is climbing the tree?（是谁在爬树？）<br>
+??? note "例子"
+  <font color=orange>Tim</font>[提问的主语] is clibing the tree.（蒂姆正在爬树）<br>
+  <font color=orange>Who</font> is climbing the tree?（是谁在爬树？）<br>
 
 
 ---

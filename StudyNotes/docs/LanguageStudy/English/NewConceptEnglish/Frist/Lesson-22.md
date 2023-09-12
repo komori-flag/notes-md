@@ -5,12 +5,15 @@
     1. empty / full<br>
     Give me an empty case. Please!（请给我一个空箱子。 | 空箱を一つください）<br>
     This box is so full.（这个盒子挺满的。 | この箱はけっこういっぱいです）<br>
+    <br>
     2. large / little <br>
     Give him a medium one. Please!（请给他一杯中等的。 | 彼に中くらいのカップでお願いします。）<br>
     This is a little girl.（这是一位小姑娘。 | これは女の子です）<br>
+    <br>
     3. sharp / blunt<br>
     Give her a sharp knife. Please!（请给她一把锋利的刀子。 | 彼女に鋭いナイフでお願いします。）<br>
     This is a blunt knife.（这是一把不锋利的刀子。 | これは鈍いナイフです。）<br>
+    <br>
     4. big / small<br>
     Is that a dog? It's so small.（这是一条狗？辣么小一条。 | これ犬ですか？こんな小さい？）<br>
     Is that a handbag? It's so big.（这是一个手提包？辣么大一个。 | これはハードバンクですか？こんな大きい？）<br>

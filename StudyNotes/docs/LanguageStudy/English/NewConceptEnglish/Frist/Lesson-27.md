@@ -5,9 +5,9 @@
 
 <font size=4 color=red>**特殊疑问句 = 特殊疑问词（如：what、how、whose、who、where、how many等） + 一般疑问句（去掉答案）**</font>
 
-> 例：<br>
-> There are three books on the desk.<br>
-> <font color=orange>Are</font> there three books on the desk?（一般疑问句）<br>
+??? note "例子"
+    ①：There are three books on the desk.<br>
+    ②：<font color=orange>Are</font> there three books on the desk?（一般疑问句）<br>
 
 ```text
 一般疑问句 --> 特殊疑问句

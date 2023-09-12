@@ -3,7 +3,7 @@
 
 ## 一：如何表达“展示某人某物”？
 
-<font color=red size=3>show sb. sth.[show sth. to sb.]（展示给某人某物）</font><br>
+<font color=red size=4>**show sb. sth.[show sth. to sb.]（展示给某人某物）**</font><br>
 
 ??? note "练习"
     ①：Show me your book.（给我看看你的书。 | 君の本を見せて）<br>
@@ -13,7 +13,7 @@
 ---
 ## 二：如何表达“寄送某人某物”？
 
-<font color=red size=3>send sb. sth.[send sth. to sb.]（寄送给某人某物）</font><br>
+<font color=red size=4>**send sb. sth.[send sth. to sb.]（寄送给某人某物）**</font><br>
 
 ??? note "练习"
     ①：Send me a postcard.（给我邮寄了一张明信片。 | ポストカードを送ってくれました。）<br>
@@ -24,7 +24,7 @@
 ---
 ## 三：如何表达“带给某人某物”？
 
-<font color=red size=3>take sb. sth.[send sth. to sb.]（带给某人某物）</font><br>
+<font color=red size=4>**take sb. sth.[send sth. to sb.]（带给某人某物）**</font><br>
 
 ??? note "练习"
     ①：Can you take me some clothes?（你能帮我拿些外套给我吗？ | コートを取ってくれませんか？）<br>
