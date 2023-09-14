@@ -9,6 +9,7 @@ so easy. = a pieck of cake.（小菜一碟）
 ---
 !!! note "练习"
     “be+doing”、“be going to do”、“can”<br>
+    <br>
     1. put on coat、wash dish、open window<br>
     ①：What is she doing?（那位女的在干什么呢？）<br>
     ②：She is washing her dishes.（她正在清洗她的盘子。）<br>

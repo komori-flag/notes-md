@@ -7,9 +7,9 @@
 
 简单来说，普通名词所表示的人或事物可按个数来进行计算的被称之为可数名词。
 
-> 例：<br>
-> There is a pen<br>
-> There are some pens<br>
+!!! note "例子"
+    There is a pen<br>
+    There are some pens<br>
 
 
 “[Lesson 15](./Lesson-15.md#_2)”此课当中所讲到的“单数/复数”是针对于可数名词而言。
@@ -19,15 +19,15 @@
 
 按照字面意思来理解，不可数的就是没法数出来的，这个汉语当中的说法在英语当中并不完全是。
 
-> 例：<br>
-> a piece of <font color=orange>cheese</font>（一块奶酪[在汉语当中可以说“一片奶酪”，但在英语当中不存在这个说法]）<br>
+!!! note "例子"
+    a piece of <font color=orange>cheese</font>（一块奶酪[在汉语当中可以说“一片奶酪”，但在英语当中不存在这个说法]）<br>
 
 
 不可数名词不存在复数这个概念。
 
-> 例：<br>
-> <del>There are some cheeses</del> (X)<br>
-> There is some cheese (√)（有一些奶酪）<br>
+!!! note "例子"
+    <del>There are some cheeses</del> (X)<br>
+    There is some cheese (√)（有一些奶酪）<br>
 
 
 ### 如何来判断名词的可数/不可数呢？
@@ -56,9 +56,9 @@
 
 有时同一个单词，其意思分为了很多种，而不同的意思也具有可数与不可数之分。
 
-
-> Please give me some <font color=orange>time</font>.（请给我一点时间）<br>`此处的“time”表“时间”，因其没有固定的量化单位，所以是不可数的`<br><br>
-> We have experienced a beautiful <font color=orange>time</font> together.（我们一起度过了一段美好的时光）<br>`在此语境中，“time”表示“时光”，“一段时光”所表示的具体时间长度可有长有短，所以是可数的`
+!!! note "例子"
+    Please give me some <font color=orange>time</font>.（请给我一点时间）<br>`此处的“time”表“时间”，因其没有固定的量化单位，所以是不可数的`<br><br>
+    We have experienced a beautiful <font color=orange>time</font> together.（我们一起度过了一段美好的时光）<br>`在此语境中，“time”表示“时光”，“一段时光”所表示的具体时间长度可有长有短，所以是可数的`
 
 遇到这种情况，我们能够做到的最好方法便是勤查字典。
 

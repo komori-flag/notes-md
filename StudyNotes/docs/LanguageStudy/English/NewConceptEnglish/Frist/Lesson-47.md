@@ -25,7 +25,7 @@
 
 <font size=4>**结构：<font color=orange>主语</font> + <font color=red>not</font> + <font color=blue>谓语动词</font> + <font color=chocolate>其它</font>**</font>
 
-**do not = don't*
+PS：**do not = don't*
 
 ??? note "例子"
     ①：I don't want this job.（我不想要这份工作。 | この仕事はやりたくないです。）<br>
