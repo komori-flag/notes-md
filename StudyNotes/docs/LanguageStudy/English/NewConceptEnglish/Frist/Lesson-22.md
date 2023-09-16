@@ -76,6 +76,26 @@
 
 
 ??? note "语法练习"
-
+    一：仿例句造句<br>
+    例：I want a ticket.  - Give me a ticket, please.<br>
+    ①：I want a coffee.  - Give me a coffee, please.<br>
+    ②：He wants a orange, too.  - Give him a orange, too, please.<br>
+    ③：We want two pens.  - Give us two pens, please.<br>
+    ④：Tom wants her book.  - Give him her book, please.<br>
+    五：They want their passports.  - Give them their passports, please.<br>
+    <br>
+    二：仿例句完成会话<br>
+    例子：dog/brown<br>
+    Look at those dogs! <br>
+    Which is your dog? This one?  - No, not that one. My dog is the brown one.<br>
+    ①：umbrella/green<br>
+    Look at those umbrella!<br>
+    Which is your umbrella? This one?  - No, not that one. My   umbrella is the green one.<br>
+    ②：hat/black and grey<br>
+    Look at those hat!<br>
+    Which is your hat? This one?  - No, not  that one. My hat is the black and grey one.<br>
+    ③：case/red<br>
+    Look at those car!<br>
+    Which is your case? This one?  - No, not that one. My car is the red one.<br>
 
 

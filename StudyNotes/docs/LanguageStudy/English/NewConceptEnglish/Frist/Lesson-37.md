@@ -138,4 +138,28 @@ Who's it for?（这是给谁准备的？）
 
 
 ??? note "语法练习"
-
+    一：通过仿照例句造句<br>
+    例1：Look at Jack.  - I'm looking at Jack.<br>
+    ①：Help the girl.  - I'm helping the girl.<br>
+    ②：Make your book.  - I'm making my book.<br>
+    ③：Do your homework.  - I'm doing my homework.<br>
+    例2：Put on your coats.  - We're putting on our coats.<br>
+    ①：Take off your shoes.  - We're taking off our shoes.<br>
+    ②：Come into the kitchen.  - We're coming into the kitchen.<br>
+    ③：Look at the boats.  - We're looking at the boats.<br>
+    <br>
+    二：仿例句用给的词回答问题<br>
+    例:<br>
+    ①：What are you going to do?（make a bookcase / paint it）<br>
+    I'm going to make a bookcase.  - Then I'm going to paint it.<br>
+    ②：What are you and Anna going to do?（cook a meal / eat it）<br>
+    We're going to cook a meal.  - Then we're going to eat it.<br>
+    <br>
+    ①：What are you going to do?（do my jomework / read a magazine）<br>
+    I'm going to do my homework.  - Then I'm going to read the magazine.<br>
+    ②：What are you and John going to do?（type some letters / empty the baskets）<br>
+    We're going to type some letters.  - Then we're going to empty the baskets.<br>
+    ③：What are you going to do?（sweep the floor / clean my father's car）<br>
+    I'm going to sweep the floor.  - Then I'm going to clean my father's car.<br>
+    ④：What are you and Marisa going to do?（read our books / write some letters）<br>
+    We're going to read our books.  - Then we're going to write some letters.<br>
