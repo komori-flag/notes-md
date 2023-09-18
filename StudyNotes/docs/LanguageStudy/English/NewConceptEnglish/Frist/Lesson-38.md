@@ -46,5 +46,44 @@
 
 
 ??? note "语法练习"
-
-
+    一：仿照例句用所给的词回答问题<br>
+    例：<br>
+    What are you doing to do?（I / drink water）<br>
+    - I'm going to drink water.<br>
+    <br>
+    ①：What are you doing to do?（we / wait for the bus）<br>
+    - We're goiing to wait for the bus.<br>
+    ②：What are you going to do?（I / read a magazine）<br>
+    - I'm going to read a magazine.<br>
+    ③：What are you going to do?（we / paint our doors）<br>
+    - We're going to paint our doors.<br>
+    ④：What are you going to do?（I / cook bread for my son）<br>
+    - I'm goinng to cook bread for my son.<br>
+    ⑤：What are you doing to do?（I / do mmy homework）<br>
+    - I'm going to do my homework.<br>
+    <br>
+    <br>
+    二：仿照例句回答问题<br>
+    例：<br>
+    ①：Are you working now?<br>
+    - No, I'm not, and I'm not going to work.<br>
+    ②：This window is dirrty.（I / clean）<br>
+    - I'm going to clean it now.<br>
+    <br>
+    ①：Are you doing your homework now?<br>
+    - No, I'm not, and I'm not going to do my homework.<br>
+    ②：Are you cleaning your shoes now?<br>
+    - No, I'm not, and I'm not going to clean my shoes.<br>
+    ③：Are you putting on your tie now?<br>
+    - No, I'm not, and I'm not going to put on my tie.<br>
+    ⑤：Are you cooking now?<br>
+    - No, I'm not, and I'm not going to cook.<br>
+    <br>
+    ①：The pencils are blunt.（I / sharpen）<br>
+    - I'm going to sharpen them pencils now.<br>
+    ②：Our books are closed.（we / open）<br>
+    - I'm going to open them books now.<br>
+    ③：I am cold.（I / put on my coat）<br>
+    - I'm going to put on my coat now.<br>
+    ④：We're thirsty.（we / drink water）<br>
+    - We're going to drink water now.<br>
