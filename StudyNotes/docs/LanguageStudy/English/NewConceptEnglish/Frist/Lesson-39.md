@@ -75,6 +75,49 @@ Don't cry.（别哭）
 
 
 ??? note "语法练习"
-
-
-
+    一：仿例句写出祈使句的肯定及否定形式<br>
+    例：<br>
+    ①：Use a pen, not a pencil.<br>
+    - Use a pen, please. Don't use a pencil.<br>
+    ②：dishes / on shelf / in cupboard<br>
+    - Don't put the dishes on the shelf.<br>
+    - Put them in the cupboard.<br>
+    <br>
+    ①：Open the window, not the door.<br>
+    - Open the window, please. Don't open the door.<br>
+    ②：Paint it green, not yellow.<br>
+    - Paint it green, please. Don't paint it yellow.<br>
+    ③：Sit on my right, not on my left.<br>
+    - Sit on my right, please. Don't sit on my left.<br>
+    ④：Speak English, not Chinese.<br>
+    - Speak English, please. Don't speak chinese.<br>
+    <br>
+    ①：your shoes / near bed / near door<br>
+    - Don't put your shoes near the bed.<br>
+    - Put them near the door.<br>
+    ②：your book / on dressing table / on desk<br>
+    - Don't put your book on dressing table.<br>
+    - Put it on the desk.<br>
+    ③：newspapers / on television / on shelf<br>
+    - Don't put newspapers on the television.<br>
+    - Put them on the shelf.<br>
+    ④：television / in the middle of the room / in corner<br>
+    - Don't put television in the middle of the room.<br>
+    - Put it in the corner.<br>
+    <br>
+    二：仿例句用所给的词造句<br>
+    例：<br>
+    he / put away / ties<br>
+    - He's putting away his ties.<br>
+    - He's putting his ties away.<br>
+    - He's putting them away.<br>
+    <br>
+    ①：my son / put on / his trousers<br>
+    - My son's putting on his trousers.<br>
+    - My son's putting his trousers on.<br>
+    - My son's putting them on.<br>
+    ②：we / write dowm / our names<br>
+    - We're writing down our names.<br>
+    - We're writing our names down.<br>
+    - We're writing them down.<br>
+    
