@@ -31,4 +31,40 @@
 
 
 ??? note "语法练习"
-
+    一：仿照例句用所给的信息提问并回答问题<br>
+    例：There is an orange in that basket.（not banana）<br>
+    - Is there an orange in that basket?<br>
+    - Yes, there is.<br>
+    - Is there a banana in that basket, too?<br>
+    - No, there isn't. There isn't a banana there.<br>
+    <br>
+    ①：There is a map in that book.（not picture）<br>
+    - Is there a map in that book?<br>
+    - Yes, there is.<br>
+    - Is there a picture in that book, too?<br>
+    - No, there isn't. There isn't a picture there.<br>
+    ②：There is a cake on that plate.（not sandwich）<br>
+    - Is there a cake on that plate?<br>
+    - Yes, there is.<br>
+    - Is there a sandwich on that plate, too?<br>
+    - No, there isn't. There isn't a sandwich there.<br>
+    ③：There is an egg in that tin.（not apple）<br>
+    - Is there an egg in that tin?<br>
+    - Yes, there is.<br>
+    - Is there an apple in that tin, too?<br>
+    - No, there isn't. There isn't an apple there.<br>
+    <br>
+    二：仿照例句用所给的信息提问并回答问题<br>
+    例：There is some sugar in that cup.（not tea）<br>
+    - Is there any tea in that cup?<br>
+    - No, there isn't. There is some sugar.<br>
+    <br>
+    ①：There is some milk in that glass.（not water）<br>
+    - Is there any water in that glass?<br>
+    - No, there isn't. There is some milk.<br>
+    ②：There is some tea in that cup.（not coffee）<br>
+    - Is there any coffee in that cup?<br>
+    - No, there isn't There is some tea.<br>
+    ③：There is some ink on that desk.（not paper）<br>
+    - Is there any paper on that desk?<br>
+    - No, there isn't. There is some ink.<br>
