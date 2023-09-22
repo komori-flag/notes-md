@@ -115,7 +115,69 @@
     <br>
 
 
-
 ??? note "语法练习"
-
+    一：仿照例句造句<br>
+    例：pens on the table<br>
+    - There are some pens on the table.<br>
+    ink in the bottle<br>
+    - There is some ink in the bottle.<br>
+    <br>
+    ①：pencils on the desk<br>
+    - There are some pencils on the desk.<br>
+    paper on the shelf<br>
+    - There is some paper on the shelf.<br>
+    ②：knives in the box<br>
+    - There are some knives in the box.<br>
+    cheese on the plate<br>
+    - There is some cheese on the plate.<br>
+    ③：books in the bookcase<br>
+    - There are some books in the bookcase.<br>
+    bread on the dishes<br>
+    - There is some bread onn the dishes.<br>
+    <br>
+    二：仿照例句提问并回答<br>
+    例：magazines on the shelf<br>
+    - Are there any magazines on the shelf?<br>
+    -- No, there aren't any magazines on the shelf.<br>
+    butter on the plate.<br>
+    - Is there any butter on the plate?<br>
+    -- No, there isn't any butter on the plate.<br>
+    <br>
+    ①：birds in the tree<br>
+    - Are there any birds in the tree?<br>
+    -- No, there aren't any birds in the tree.<br>
+    paper on the desk<br>
+    - Are there any paper on the desk?<br>
+    -- No, there isn't any paper on the desk.<br>
+    ②：shoes under the bed<br>
+    - Are there any shoes under the bed?<br>
+    -- No, there aren't any shoes under the bed.<br>
+    clothes on the bed<br>
+    - Is there any clothes on the bed?<br>
+    -- No, there isn't any clothes on the bed.<br>
+    ③：glasses on the table<br>
+    - Are there any glasses on the table?<br>
+    -- No, there aren't any glasses on the table.<br>
+    water in the glass<br>
+    - Is there any water in the glass?<br>
+    -- No, there isn't any water in the glass.<br>
+    <br>
+    三：仿照例句造句<br>
+    例：two spoons on the plate<br>
+    - There are two spoons on the plate.<br>
+    two cups of tea on the table<br>
+    - There are two cups of tea on the table.<br>
+    <br>
+    ①：three hundred pages in the book<br>
+    - There are three hundred pages in the book.<br>
+    two pieces of paper on the desk<br>
+    - There are two pieces of paper on the desk.<br>
+    ②：five knives in the cupboard<br>
+    - There are five knives in the cupboard.<br>
+    two loaves of bread in the bag<br>
+    - There are two loaves of bread in the bag.<br>
+    ③：six men in the office<br>
+    - There are six men in the office.<br>
+    twelve bars of chocolate on the table<br>
+    - There are twelve bars of chocolate on the table.<br>
 
