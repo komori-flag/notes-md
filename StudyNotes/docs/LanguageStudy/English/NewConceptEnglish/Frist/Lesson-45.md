@@ -41,5 +41,53 @@ wait a <font color=orange>minute</font>.（等一下）
 
 
 ??? note "语法练习"
-
+    一：仿照例句简短回答问题<br>
+    例：Can a dog swim?  - Yes, it can.<br>
+    <br>
+    ①：Can you bring me some books?  - Yes, I can.<br>
+    ②：Can she write English?  - Yes, she can.<br>
+    ③：Can he cook?  - Yes, he can.<br>
+    ④：Can Bob go to the United States?  - Yes, he can.<br>
+    ⑤：Can you see China on the map?  - Yes, we can.<br>
+    ⑥：Can I turn off the television?  - Yes, you can.<br>
+    <br>
+    例：Can a cat swim?  - No, it can't.<br>
+    ①：Can we eat grass?  - No, we can't.<br>
+    ②：Can birds swim under water?  - No, it can't.<br>
+    ③：Can you buy a car now?  - No, I can't.<br>
+    ④：Can he type?  - No, he can't<br>
+    ⑤：Can she dance?  - No, she can't.<br>
+    ⑥：Can your son cook?  - No, he can't.<br>
+    <br>
+    例：Who can cut my hair?（the hairdresser）<br>
+    - The hairdresser can.<br>
+    ①：Who can speak Korean?（I）<br>
+    - I can.<br>
+    ②：Who can lift this stereo?（my brother）<br>
+    - My brother can.<br>
+    ③：Who can translate this?（Marisa）<br>
+    - Marisa can.<br>
+    ④：Who can make biscuits?（her mother）<br>
+    - Her mother can.<br>
+    ⑤：Who can answer this question?（you）<br>
+    - You can.<br>
+    ⑥：Who can paint the walls for us?（the men）<br>
+    - The men can.<br>
+    <br>
+    二：仿照例句，用“Can you ...”的句型改写句子<br>
+    例：Shut the windows!<br>
+    - Can you shut the windows, please?<br>
+    <br>
+    ①：Open the door!<br>
+    - Can you open the door, please?<br>
+    ②：Type these letters!<br>
+    - Can you type these letters, please?<br>
+    ③：Turn off the light!<br>
+    - Can you turn off the light, please?<br>
+    ④：Give me the teapot!<br>
+    - Can you give me the teapot, please?<br>
+    ⑤：Turn on the tap!<br>
+    - Can you turn on the tap, please?<br>
+    ⑥：Wash the dishes!<br>
+    - Can you wash the dishes, please?<br>
 
