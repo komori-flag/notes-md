@@ -53,7 +53,28 @@ so easy. = a pieck of cake.（小菜一碟）
 
 
 ??? note "语法练习"
-
-
-
+    一：仿照例句造句<br>
+    例：I/speak English/not German<br>
+    - I can speak English but I can't speak German.<br>
+    ①：William/write English/not Chinese<br>
+    - William can write English but he can't write Chinese.<br>
+    ②：a dog/swim/not climb up a tree<br>
+    - A dog can swim but it can't climb up a tree.<br>
+    ③：she/play basketball/not football<br>
+    - She can play basketball but can't play football.<br>
+    ④：they/speak Japanese/not write it<br>
+    - They can speak Japanese but can't write it.<br>
+    <br>
+    二：仿照例句回答问题<br>
+    例：What language can you speak?（English）<br>
+    - I/We can speak Englsh.<br>
+    <br>
+    ①：What language can Ken speak?（French）<br>
+    - Ken can speak French.<br>
+    ②：What can you make, bread or cakes?（bread）<br>
+    - I can make bread.<br>
+    ③：Which book can you read, the thick one or the thin one?（the thick one）<br>
+    - I can read the thick one.<br>
+    ④：Where can he teach, in a school or in a university?（in a university）<br>
+    - He can teach in a university.<br>
 
