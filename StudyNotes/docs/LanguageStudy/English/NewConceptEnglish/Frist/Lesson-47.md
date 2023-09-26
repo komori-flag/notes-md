@@ -76,6 +76,53 @@ PS：**do not = don't*
 
 
 ??? note "语法练习"
-
-
+    一：仿照例句回答问题<br>
+    例：Do you want any apples?（a pound）<br>
+    - Yes, I do, Give me a pound of apples, please.<br>
+    ①：Do you want any pencils?（three）<br>
+    - Yes, I do. Give me three pencils, please.<br>
+    ②：Do you want any boxes?（two）<br>
+    - Yes, I do. Give me two boxes, please.<br>
+    ③：Do you want any chocolate?（a large bar）<br>
+    - Yes, I do. Give me a large bar of chocolate, please.<br>
+    <br>
+    例：Do you want any coffee?<br>
+    - No, I don't. I don't like coffee.<br>
+    ①：Do you want any whisky?<br>
+    - No, I don't. I don't like whisky.<br>
+    ②：Do you want any bread?<br>
+    - No, I don't. I don't like bread.<br>
+    ③：Do you want any honey?<br>
+    - No, I don't. I don't like honey.<br>
+    <br>
+    二：仿例句回答问题<br>
+    例：<br>
+    ①：Do you want a banana?（yes）<br>
+    - Yes, please. I like bananas.<br>
+    ②：Do you want any butter?（no/cheese）<br>
+    - No, thank you, but I want some cheese.<br>
+    <br>
+    ①：Do you want a cup of tea?（yes）<br>
+    - Yes, please. I like tea.<br>
+    ②：Do you want any biscuits?（yes）<br>
+    - Yes, please. I like biscuits.<br>
+    ③：Do you want a cup of black coffee?（yes）<br>
+    - Yes, please. I like black coffee.<br>
+    ④：Do you want any wine?（no/beer）<br>
+    - No, thank you, but I want some beer.<br>
+    ⑤：Do you want any sugar?（no/honey）<br>
+    - No, thank you, but I want some honey.<br>
+    ⑥：Do you want any fruit?（no/jam）<br>
+    - No, thank you, but I want some jam.<br>
+    <br>
+    三：仿照例句回答问题<br>
+    例：Do you like cheese on your bread?（butter）<br>
+    - No, I don't. But I like butter on my bread.<br>
+    <br>
+    ①：Do you like cream in your coffee?（milk）<br>
+    - No, I don't. But I like milk in my coffee.<br>
+    ②：Do you like ice in your whisky?（in beer）<br>
+    - No, I don't. But I like ice in my beer.<br>
+    ③：Do you like pure milk in an ice cream?（chocolate）<br>
+    - No, I don't. But I like chocolate in an ice cream.<br>
 
