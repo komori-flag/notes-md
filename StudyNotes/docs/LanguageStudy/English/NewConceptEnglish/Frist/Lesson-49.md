@@ -146,4 +146,53 @@ either（英：/ˈaɪðə/，美：/ˈiːðər/）
 
 
 ??? note "语法练习"
+    一：仿照例句回答问题<br>
+    例：Does he like steak?（some pieces）<br>
+    - Yes, he does, He wants some pieces of steak.<br>
+    <br>
+    ①：Does he like beef?（two pounds）<br>
+    - Yes, he does. He wants two pounds of beef.<br>
+    ②：Does your son like bread?（three loaves）<br>
+    - Yes, he does. He wants three loaves of bread.<br>
+    ③：Does Linda like wine?（a bottle）<br>
+    - Yes, she does. She wants a bottle of wine.<br>
+    <br>
+    例：Does he want any cabbages?<br>
+    - No, he doesn't. He doesn't like cabbages.<br>
+    <br>
+    ①：Does your wife want any lamb?<br>
+    - No, she doesn't. She doesn't like lamb.<br>
+    ②：Does Tom want any lettuces?<br>
+    - No, he doesn't. He doesn't like lettuces.<br>
+    ③：Does he want any coffee?<br>
+    - No, he doesn't. He doesn't like coffee.<br>
+    <br>
+    二：仿照例句根据答案提问，并做必要的修改<br>
+    例：<u>Does he like chicken?</u><br>
+    - No, he doesn't. He doesn't like chicken.<br>
+    <u>What about beef?</u><br>
+    - No, he doesn't like beef, either.<br>
+    <br>
+    ①：<u>Does she like garden beef?</u><br>
+    - No, she doesn't. She doesn't like garden beef.<br>
+    <u>Wat about cabbages?</u><br>
+    - No, she doesn't like cabbages, either.<br>
+    ②：<u>Does he like butter?</u><br>
+    - No, he doesn't. He doesn't like butter.<br>
+    <u>What about jam?</u><br>
+    - No, he doesn't like jam, either.<br>
+    ③：<u>Does he like eggs?</u><br>
+    - No, he doesn't. He doesn't like eggs.<br>
+    <u>What about grapes?</u><br>
+    - No, he doesn't like grapes, either.<br>
+    <br>
+    三：仿照例句用所给的词造句<br>
+    例：he/some oranges/some peaches<br>
+    - <u>He wants some oranges, and he wants some peaches, too.</u><br>
+    ①：that woman/a pound of sugar/a jar of honey<br>
+    - That woman wants a pound of sugar, and she wants a jar of honey, too.<br>
+    ②：the old man/two pounds of peas/six tomatoes<br>
+    - The old man wants two pounds of peas. and he wants six tomatoes, too.<br>
+    ③：Marisa/thirteen loaves of bread/a pound of cheese<br>
+    - Marisa wants thirteen loaves of bread. and she wants a pound of cheese, too.<br>
 
