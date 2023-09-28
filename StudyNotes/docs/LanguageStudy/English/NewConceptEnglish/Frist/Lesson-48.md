@@ -70,4 +70,36 @@
 
 
 ??? note "语法练习"
+    一：仿照例句写出各句的对应句<br>
+    例：<br>
+    ①：There's a small apple on the plate.（big）<br>
+    - I don't want a small on. I want a big one.<br>
+    ②：There are some red apples in the basket.（green）<br>
+    - I don't want any red one's. I want some green ones.<br>
+    <br>
+    ①：This ice cream is for you.（that）<br>
+    - I don't want this one. I want that one.<br>
+    ②：Here's a cup of coffee for you.（a cup of tea）<br>
+    - I don't want a cup of coffee. I want a cup of tea.<br>
+    ③：I'm going to buy you a bottle of beer.（wine）<br>
+    - I don't want a bottle of beer. I want a bottle of wine.<br>
+    ④：There are some short pencils in the box.（long）<br>
+    - I don't want any short ones. I want long ones.<br>
+    ⑤：Here are two blue hats.（red）<br>
+    - I don't want any blue ones. I want red ones.<br>
+    ⑥：There are some biscuits in the cupboard.（a cake）<br>
+    - I don't want any biscuits. I want a cake.<br>
+    <br>
+    二：仿照例句回答问题<br>
+    例：Do you like cheese and butter?<br>
+    - I like cheese, but I don't like butter.<br>
+    <br>
+    ①：Do you like green tea and black tea?<br>
+    - I like green tea, but I don't like black tea.<br>
+    ②：Do you like red wine and white wine?<br>
+    - I like red wine, but I don't like white wine.<br>
+    ③：Do you like honey and jam?<br>
+    - I like honey, but I don't like jam.<br>
+    ④：Do you like English and Japanese?<br>
+    - I like English, but I don't like Japanese.<br>
 
