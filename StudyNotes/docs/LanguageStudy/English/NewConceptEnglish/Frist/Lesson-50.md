@@ -51,6 +51,29 @@
 
 
 ??? note "语法练习"
-
-
+    一：仿照例句合并句子<br>
+    例：He wants some apples./He doesn't want any oranges.<br>
+    He wants some apples, but he doesn't want any oranges.<br>
+    <br>
+    ①：He likes butter./He doesn't like cheese.<br>
+    - He likes butter, but he doesn't like cheese.<br>
+    ②：John likes grapes./He doesn't like apples.<br>
+    - John likes grapes, but he doesn't like apples.<br>
+    ③：Mrs. Bird wants two fresh lettuces./She doesn't want any garden peas.<br>
+    - Mrs. Bird wants two fresh lettuces, but she doesn't want any garden peas.<br>
+    <br>
+    二：仿照例句用所给的词提问并回答问题<br>
+    例：you/pears/peaches/my son<br>
+    - Do you like pears or peaches?<br>
+    -- I like pears, but my son doesn't. He likes peaches.<br>
+    <br>
+    ①：he/jam/honey/his brother<br>
+    - Does he like jam or honey?<br>
+    -- He likes jam, but his brother doesn't. He likes honey.<br>
+    ②：she/grapes/bananas/her husband<br>
+    - Does she like grapes or bananas?<br>
+    -- She likes grapes, but her husband doesn't. He likes bananas.<br>
+    ③：you/tea/coffee/Jane<br>
+    - Do you like tea or coffee?<br>
+    -- I like tea, but Jane doesn't. She likes coffee.<br>
 
