@@ -18,7 +18,7 @@
 
 
 ### be + often/always
- 
+
 !!! note "例子"
     It's often windy in March.（三月的时候经常刮风。 | 3月は風が吹くことが多いです。）<br>
     It's always warm in April and May.（四月和五月的天气总是很温暖。 | 4月から5月までの天気はいつも暖かいです。）<br>
