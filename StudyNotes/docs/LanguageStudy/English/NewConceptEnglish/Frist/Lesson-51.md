@@ -128,4 +128,25 @@
 
 
 ??? note "语法练习"
+    一：仿照例句用所给的词回答下列问题<br>
+    例：When does the sun shine every day?（in July and August）<br>
+    - The sun shine every day in July and August.<br>
+    <br>
+    ①：When is it always windy?（in winter and early spring）<br>
+    - It's always windy in winter and early spring.<br>
+    ②：When does spring come?（in March）<br>
+    - Spring come in March.<br>
+    ③：When is it often sunny?（in autumn）<br>
+    - It's often sunny in autumn.<br>
+    <br>
+    二：用所给频率副词改写下列句子<br>
+    例：It's hot in August.（always）<br>
+    - It's always hot in August.<br>
+    <br>
+    ②：It's very pleasant here.（always）<br>
+    - It's always very pleasant here.<br>
+    ②：He's late for class.（sometimes）<br>
+    - He's sometimes late for class.<br>
+    ③：The policemen are very tired.（often）<br>
+    - The policemen are often very tired.<br>
 
