@@ -64,5 +64,25 @@
 
 
 ??? note "语法练习"
-
+    一：使用“speak, come”以及“be”的正确形式填空<br>
+    ①：Mr. Brown <u>is</u> English; he <u>comes</u> from England. He <u>speaks</u> English; his language <u>is</u> English<br>
+    ②：Mrs. Longhi <u>is</u> Italian; she <u>comes</u> from Italy. She <u>speaks</u> Italian; her language <u>is</u> Italian<br>
+    ③：<u>Are</u> you Italian?<br>
+    - No, I <u>am</u> not. I <u>am</u> Mexican; I <u>come</u> from Mexico. I <u>speak</u> Spanish; my language <u>is</u> spanish.<br>
+    ④：what about you, Inge and Anna?<br>
+    - We <u>Are</u>Danishi; we <u>come</u> from Denmark. We <u>speak</u> Danish; our language <u>is</u> Danish.<br>
+    ⑤：My friend, Hans <u>is</u> German; he <u>comes</u> from Germany. He <u>speaks</u> German; his language <u>is</u> German.<br>
+    ⑤：Kathy <u>is</u> American; she <u>comes</u> from the United States. She <u>speaks</u> English; her language <u>is</u> English.<br>
+    ⑥：Her brother <u>is</u> Norwegian; he <u>comes</u> from Norway. He <u>speaks</u> Norwegian; his language <u>is</u> Norwegian.<br>
+    <br>
+    二：将下列句子翻译为英文<br>
+    例：一年有四季 - 春、夏、秋、冬，每个季节是三个月。<br>
+    - There are four seasons in a year, spring, summer, autumn and winter. Each season is three months long.<br>
+    <br>
+    ①：春天经常很暖和，时而会下雨。<br>
+    - It's always very warm in spring, but it rains sometimes.<br>
+    ②：夏天特别热，天天都是大晴天。<br>
+    - It's very hot in summer. The sun shines every day.<br>
+    ③：秋天时常刮风，有时下雨。<br>
+    - It's often windy in autumn, and it rains sometimes.<br>
 
