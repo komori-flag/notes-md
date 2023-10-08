@@ -91,13 +91,36 @@
 
 
 ??? note "语法练习"
-
-
-
-
-
-
-
-
-
+    一：用所给的频率副词改写下列句子<br>
+    例：Mrs. Smith goes to the shops.（every day）<br>
+    - Mrs. Smith goes to the shops every day.<br>
+    <br>
+    ①：John cleans his teeth.（every day）<br>
+    - John cleans his teeth every day.<br>
+    ②：My son rides a bike to school, but he goes by bus.（often/sometimes）<br>
+    - My son often rides a bike to school, but he sometimes goes by bus.<br>
+    ③：It rains in spring, but it rains in autumn, too.（sometimes/often）<br>
+    - It sometimes rains in spring, but it often rains in autumn, too.<br>
+    <br>
+    二：仿照例句将下列肯定句改为否定句<br>
+    例：My children often eat lamb.<br>
+    - My children don't often eat lamb.<br>
+    <br>
+    ①：The sun shines every day in summer.<br>
+    - The sun doesn't shine every day in summer.<br>
+    ②：He always speaks English.<br>
+    - He doesn't always speak English.<br>
+    ③：It's always pleasant here in spring.<br>
+    - It's don't always pleasant here in spring.<br>
+    <br>
+    三：仿照例句用所给的词回答下列问题<br>
+    例：Which season do you like best?（spring）<br>
+    - I like spring best.<br>
+    <br>
+    ①：Which language does he like best?（Chinese）<br>
+    - He likes Chinese best.<br>
+    ②：Which book does Helen like best?（New Concept English）<br>
+    - She likes New Concept English best.<br>
+    ③：Which teacher do you like best?（our English teacher）<br>
+    - I like our English teacher best.<br>
 
