@@ -82,8 +82,27 @@ have lunch（吃午餐。 | 夕食を食べる。）
 
 
 ??? note "语法练习"
-
-
-
-
+    一：在必要的空白处填上“the”<br>
+    <br>
+    ①：Miss Tan goes to <u>　</u> work by car every day. She arrives at <u>the</u> office at eight in <u>the</u> morning, and she comes home late in <u>the</u> evening.<br>
+    ②：Mr. and Mrs. Smith usually stay at <u>　</u> home in <u>the</u> afternoon.<br>
+    ③：That new student is Austrian. He comes from <u>　</u> Austria.<br>
+    ④：They often come home late at <u>　</u> night.<br>
+    ⑤：What's <u>the</u> climate like in your country?<br>
+    - It's interesting. It's often cold in <u>the</u> Nroth and windy in <u>the</u> East.<br>
+    ⑥：Our cat drinks <u>　</u> milk, but it doesn't drink <u>　　</u> water.<br>
+    <br>
+    二：用所给的动词的正确形式填空<br>
+    <br>
+    <br>
+    三：仿照例句用所给的词回答下列问题<br>
+    例：Do you usually go to school by bus or by bike?（by bike）<br>
+    - I usually go to school by bike.<br>
+    <br>
+    ①：Do you classmates often ask questions in class or aften class?（after class）<br>
+    - They often ask questions aften class.<br>
+    ②：Are your teachers always busy or only sometimes?（always）<br>
+    - They are always busy.<br>
+    ③：Does your friend watch television or do his homework in the evening?（do his homework）<br>
+    - He does his homework in the evening.<br>
 
