@@ -13,7 +13,7 @@ have lunch（吃午餐。 | 夕食を食べる。）
 
 1. Do the Sawyers live at 87 King Street?（索耶一家住在国王街 87 号吗？ | ソーヤーの家族は87キングストリートに住んでいますか？）[一般疑问句]
 2. Where do the Sawyers live?（索耶一家住在哪里？ | ソーヤーの家族はどこに住んでいますか？）[特殊疑问句(where)]
-3. Who do live at 87 King Street?（谁住在国王街 87 号？ | 87キングストリートは今誰が住んでいますか？）[特殊疑问句[who]
+3. Who do live at 87 King Street?（谁住在国王街 87 号？ | 87キングストリートは今誰が住んでいますか？）[特殊疑问句[who]]
 
 
 二：Mr. Sawyer goes to work in the morning.<br>（索耶先生早上去上班。 | ソーヤー氏は朝仕事に行きます。）
@@ -93,7 +93,11 @@ have lunch（吃午餐。 | 夕食を食べる。）
     ⑥：Our cat drinks <u>　</u> milk, but it doesn't drink <u>　　</u> water.<br>
     <br>
     二：用所给的动词的正确形式填空<br>
-    <br>
+    **Tim's Day**<br>
+    Tim <u>wakes</u>（wake） up at eight o'clock in the morning, and <u>gets</u>（get） up at half past eight. He <u>washes</u>（wash） his face and hands and <u>cleans</u>（clean） his teeth. Then he <u>goes</u>（go） downstairs for breakfast. He <u>eats</u>（eat） two eggs and some bread and butter, and he <u>drinks</u>（drink） two or three cups of coffee.<br>
+    Aften breakfast he <u>walks</u>（walk） to Mr. Scott's house. He <u>is</u>（be） often late. He <u>shows</u>（show） Mr. Scott his homework, and there <u>are</u>（be） often mistakes in it.<br>
+    For lunch at noon, he usually <u>eats</u>（eat） three pieces of steak and tomatoes or beans. After lunch he always <u>drinks</u>（drink） a cup of tea with sugar in it. He sometimes <u>sits</u>（sit） in an armchair and <u>reads</u>（read） a newspaper, and sometimes, but not often, he <u>does</u>（do） some work for Mr. Scott.<br>
+    For supper in the evening, he <u>eats</u>（eat） some silces of bread, butter honey and cakes. Then he <u>watches</u>（watch） televison or <u>talks</u>（talk） to friends.<br>
     <br>
     三：仿照例句用所给的词回答下列问题<br>
     例：Do you usually go to school by bus or by bike?（by bike）<br>
