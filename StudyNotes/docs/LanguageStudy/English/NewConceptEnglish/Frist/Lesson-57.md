@@ -96,4 +96,56 @@
     <font size=5>**on foot**</font>&nbsp;&nbsp;<font size=4>`徒步`</font><br>
 
 ??? note "语法练习"
+    Lesson 57
+    一：仿照例句用所给的词造句<br>
+    例：John/often play football/basketball now<br>
+    - John often plays football, but he's playing basketball now.<br>
+    <br>
+    ①：the boys/often swim in the sea in summer/in the river today<br>
+    - The boys often swim in the sea in summer, but they swimming in the river today.<br>
+    ②：Mary/often buy sugar/some honey at the moment<br>
+    - Mary often buys sugar, buy she's some honey at the moment.<br>
+    ③：my sister/watch television every evening/listen to her stereo this evening<br>
+    - Our sister watch television every evening, but she's listening tothe stereo this evening.<br>
+    ④：we/often walk along the banks of the river/in the park today<br>
+    - We often walk along the banks of the river, but we are walking in the park today.<br>
+    ⑤：Ken and Ann/often speak English/French now<br>
+    - Ken and Ann often speak English, but They're speaking French now.<br>
+    ⑥：I/often drink coffee/tea at the moment<br>
+    - I often drink coffee, but I'm drinking tea at the moment.<br>
+    <br>
+    二：仿照例句用所给的词回答下列问题<br>
+    例①：Is your daughter reading at the moment?（sleep）<br>
+    - <u>No, she isn't. She's sleeping.</u><br>
+    Does she usually sleep in the afternoon?（at night）<br>
+    - <u>No, she doesn't. She usually sleeps at night.</u><br>
+    ①：Are the children playing in the garden this morning?（do their homework）<br>
+    - <u>No, they aren't. They're doing their homework.</u><br>
+    Do they often do their homework in the morning?（in the afternoon）<br>
+    - <u>No, they don't. They often homework in the afternoon.</u><br>
+    ②：Are you cooking now?（eat my lunch）<br>
+    - <u>No, I'm not. I'm eat my lunch.</u><br>
+    Do you usually eat your lunch at this time every day?（early in the afternoon）<br>
+    - <u>No, I don't. I'm usually eat my lunch early in the afternoon.</u><br>
+    ③：Is it raining now?（snow）<br>
+    - <u>No, it isn't. It's snowing.</u><br>
+    Does it usually snow in February?（January）<br>
+    - <u>No, it doesn't. It's snows in January.</u><br>
+    <br>
+    例②：Is Mrs. Smith going to the shops this afternoon?（talk to her friends）<br>
+    - <u>No, she isn't. She's talking to her friends.</u><br>
+    Does she usually see her friends in the afternoon?（read magazines at home）<br>
+    - <u>No, she doesn't. She usually reads magazines at home in the afternoon.</u><br>
+    ①：Are you watching television now?（play games）<br>
+    - <u>No, I'm not. I'm playing games.</u><br>
+    Do you often play games in the evening?（watch television）<br>
+    - <u>No, I don't. I often watching television in the evening. </u><br>
+    ②：Is Helen working at the moment?（drink tea）<br>
+    - <u>No, she isn't. She's drinking tea.</u><br>
+    Does she drink tea at this time every day?（drink coffee）<br>
+    - <u>No, she doesn't. She usually drink coffee at this time every day.</u><br>
+    ③：Is Sam eating his breakfast now?（shave）<br>
+    - <u>No, he isn't. He shaving.</u><br>
+    Does he usually shave at this time in the morning?（listen to the radio）<br>
+    - <u>No, he doesn't. He usually listens to the radio at this time in the morning.</u><br>
 
