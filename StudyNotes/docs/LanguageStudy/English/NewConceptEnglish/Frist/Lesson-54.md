@@ -71,8 +71,38 @@
 
 
 ??? note "语法练习"
-
-
-
-
+    一：仿照例句用所给的词回答问题，且做必要的改变<br>
+    例①：Are you Greek or Italian?<br>
+    - I'm Greek. I come from Greece.<br>
+    <br>
+    ①：Is Sophie English or French?（French）<br>
+    - She's French. She comes from France.<br>
+    ②：Are the tourists Russian or Dutch?（Russian）<br>
+    - They're Russia. They're comes from Russian.<br>
+    ③：Is your father Polish or Turkish?（Turkish）<br>
+    - He's Turkish. He's comes from Turkish.<br>
+    <br>
+    例②：Where do you comme from?（China）<br>
+    - I come from China.<br>
+    <br>
+    ①：Where does your friend come from?（Japan）<br>
+    - My friend comes from Japan.<br>
+    ②：Where do they come from?（Poland）<br>
+    - They come from Poland.<br>
+    ③：Where do these tourists come from?（Austria）<br>
+    - These tourists come from Austria.<br>
+    <br>
+    二：写出下列动词的第三人称单数形式<br>
+    例：teach - <u>teaches</u><br>
+    <br>
+    ①：give - <u>gives</u><br>
+    ②：play - <u>plays</u><br>
+    ③：live - <u>lives</u><br>
+    ④：shine - <u>shines</u><br>
+    ⑤：rise - <u>rases</u><br>
+    ⑥：come - <u></u><br>
+    ⑦：do - <u>does</u><br>
+    ⑧：want - <u>wats</u><br>
+    ⑨：take - <u>takes</u><br>
+    ⑩：snow - <u>snows</u><br>
 
