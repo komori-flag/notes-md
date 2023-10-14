@@ -19,6 +19,14 @@
 
 ---
 ??? note "语法练习"
-    
-
+    一：用所给的动词的正确形式填空<br>
+    ①：John <u>lives</u>（live） in a small city. He <u>is</u>（be） a student. He <u>gets</u>（get） up early in the morning every day, at seven o'clock, and <u>goes</u>（go） to school by bus. <u>He likes</u>（like） English best. He <u>plays</u>（play） football at school. He <u>gets</u>（get） home four o'clock in the afternoon. Then he <u>does</u>（do） his homework before dinner, and <u>watches</u>（watch） television after dinner in the evening. He usually <u>goes</u>（go） to bed at nine o'clock.<br>
+    ②：Mrs. Scott and her sister Emma <u>are</u>（be） teaches. They <u>teach</u>（teach） in the same school. They <u>go</u>（go） to work by car. They <u>leave</u>（leave） home at seven thirty in the morning, and <u>come</u>（come） back home at four in the afternoon. In the evening, they usually <u>read</u>（read） books, but sometimes they <u>listen</u>（listen） to the stereo. They <u>like</u>（like） their jobs.<br>
+    二：根据实际情况回答问题<br>
+    ①：Where do you come from?<br>
+    - I come from Japan.<br>
+    ②：Where do you live?<br>
+    - I live Tokyo.<br>
+    ③：Which season(s) do you like best?<br>
+    - I like spring and autumn.<br>
 
