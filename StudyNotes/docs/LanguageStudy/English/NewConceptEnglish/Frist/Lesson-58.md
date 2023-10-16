@@ -59,4 +59,53 @@
 
 ---
 ??? note "语法练习"
+    一：仿照例句用所给的词回答下列问题<br>
+    例①：What are you doing now?（read a newspaper）<br>
+    - I'm reading a newspaper.<br>
+    Do you read a newspaper every day?（often）<br>
+    - No, I don't read a newspaper every day, but I often read a newspaper.<br>
+    ①：What are you doing now?（write a letter to my mother）<br>
+    - I'm writing a letter to my mother.<br>
+    Do you write home every week?（sometimes）<br>
+    - No, I don't write home every week, but I sometimes write home.<br>
+    ②：What's she doing now?（clean her shoes）<br>
+    - She's cleaning her shoes.<br>
+    Does she clean her shoes every day?（every week）<br>
+    - No, she doesn't clean her shoes every day, buy she cleans her shoes every week.<br>
+    ③：What's your sister doing now?（sweep the floor）<br>
+    - She's sweeping the floor.<br>
+    Does she often sweep the floor?（sometimes）<br>
+    - No, she doesn't often sweep the floor, but she sometimes sweeps it.<br>
+    <br>
+    例②：What's the postman doing now?（deliver letters）<br>
+    - He's delivering letters.<br>
+    Does he often deliver letters at eight o'clock in the morining?（often at eight thirty）<br>
+    - No, he doesn't. He often delivers letters at eight thirty in the morning.<br>
+    ①：What's your husband doing now?（take our son to school）<br>
+    - He's taking our son to school.<br>
+    Does he take your son to school at this time every morning?（usually at seven）<br>
+    - No, he doesn't. He usually takes him to school at seven.<br>
+    ②：What are you doing now?（wait for a bus）<br>
+    - I'm waiting for a bus.<br>
+    Do you usually wait for a bus at eight o'clock?（usually at seven thirty）<br>
+    - No, I don't. I usually wait for a bus at seven thirty.<br>
+    ③：What are the children doing now?（do their homework）<br>
+    - They're doing their homework.<br>
+    Do they always do their homework in the afternoon?（usually in the evening）<br>
+    - No, they don't. They usually do their homework in tthe evening.<br>
+    <br>
+    二：仿照例句用所给的词回答下列问题<br>
+    例：six/our friends/come and see us<br>
+    What's the time?<Br>
+    - It's six o'clock. Our friends usually come and see us at six.<br>
+    <br>
+    ①：two/we/go to work<br>
+    What's the time?<br>
+    - It's two o'clock. We usually go to work at two.<br>
+    ②：four/the children/come home from school<br>
+    What's the time?<br>
+    - It's four o'clock. The children usually com home from school at four.<br>
+    ③：eleven/I/go to the shops<br>
+    What's the time?<br>
+    - It's eleven o'clock. I usually go to the shops at eleven.<br>
 
