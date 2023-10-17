@@ -56,4 +56,50 @@ What size（多大尺码的？）
 
 
 ??? note "语法练习"
+    一：仿照例句回答下列问题<br>
+    例①：Do you have a dog and a cat?<br>
+    - I have a dog, but I don't have a cat.<br>
+    ①：Do you have a pen and a pencil?<br>
+    - I have a pen, but I don't have a pencil.<br>
+    ②：Do you have an envelope and a pad of paper?<br>
+    - I have an envelope, but I don't have a pad of paper.<br>
+    ③：Do you have an apple and an orange?<br>
+    - I have an apple, but I don't have an orange.<br>
+    <br>
+    例②：Do they have any tables and chairs?<br>
+    - They have some tables, but they don't have any chairs.<br>
+    ①：Do they have any boxes and baskets?<br>
+    - They have some boxes, but they don't have any baskets.<br>
+    ②：Do they have any cups and saucers?<br>
+    - They have some cups, but they don't have any saucers.<br>
+    ③：Do they have any peaches and pears?<br>
+    - They have some peaches, but they don't have any pears.<br>
+    <br>
+    二：仿照例句回答下列问题<br>
+    例：Do you have any bread and butter?<br>
+    - We have some bread, but we don't have any butter.<br>
+    <br>
+    ①：Do you have any milk and sugar?<br>
+    - We have some milk, but we don't have any sugar.<br>
+    ②：Do you have any soap and water?<br>
+    - We have some soap, but we don't have any water.<br>
+    ③：Do you have any beef and lamb?<br>
+    - We have some beef, but we don't have any lamb.<br>
+    ④：Do you have any whisky and wine?<br>
+    - We have some whisky, but we don't have any wine.<br>
+    ⑤：Do you have any cheese and beer?<br>
+    - We have some cheese, but we don't have any beer.<br>
+    ⑥：Do you have any jam and honey？<br>
+    - We have some jam, but we don't have any honey.<br>
+    <br>
+    三：仿照例句简短回答下列问题<br>
+    例①：Do you have a bike? -- <u>Yes, I do.</u><br>
+    ①：Do they have a car? -- <u>Yes, they do.</u><br>
+    ②：Do we have any wine? -- <u>Yes, we do.</u><br>
+    ③：Do you have any steak? -- <u>Yes, I do.</u><br>
+    <br>
+    例②：Do you have an aeroplane? -- <u>No, I/we don't.</u><br>
+    ①：Do you have any eggs? -- <u>No, I don't.</u><br>
+    ②：Do we have any time? -- <u>No, we don't</u><br>
+    ③：Do you have a French friend? -- <u>No, I don't.</u><br>
 
