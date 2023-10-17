@@ -96,7 +96,6 @@
     <font size=5>**on foot**</font>&nbsp;&nbsp;<font size=4>`徒步`</font><br>
 
 ??? note "语法练习"
-    Lesson 57
     一：仿照例句用所给的词造句<br>
     例：John/often play football/basketball now<br>
     - John often plays football, but he's playing basketball now.<br>
