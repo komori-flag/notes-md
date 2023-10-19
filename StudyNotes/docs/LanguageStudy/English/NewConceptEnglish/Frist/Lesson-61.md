@@ -153,4 +153,77 @@ What's the matter with you?（你有毛病吗？ / 你怎么回事？）
 
 
 ??? note "语法练习" 
+    一：仿照例句用所给的词回答下列问题<br>
+    例①：Does he have a car?（small）<br>
+    - Yes, he does. He has a small car.<br>
+    ①：Does Dave have a glass?（clean）<br>
+    - Yes, he does. He has a clean glass.<br>
+    ②：Does she have a radio?（new）<br>
+    - Yes, she does. She has a new radio.<br>
+    ③：Does Helen have an orange?（big）<br>
+    - Yes, she does. She has an big orange.<br>
+    <br>
+    例②：Does she have a pen?（pencil）<br>
+    No, she doesn't. She only has a pencil.<br>
+    ①：Does John have a blue tie?（red tie）<br>
+    - No, he doesn't. He only has a red tie.<br>
+    ②：Does Mike have a spoon?（fork）<br>
+    - No, he doesn't. He only has a fork.<br>
+    ③：Does he have a television?（radio）<br>
+    - No, he doesn't. He only has a radio.<br>
+    <br>
+    二：仿照例句用所给的词提问并回答问题<br>
+    例①：he/cups/plates<br>
+    <u>Does he have any cups and plates?</u><br>
+    - <u>He has some cups, but he doesn't have any plates.</u><br>
+    ①：Linda/pencils/pens<br>
+    <u>Does Linda have any pencils and pens?</u><br>
+    - <u>She has some pencils, but she doesn't have any pens.</u><br>
+    ②：George/books/pads of paper<br>
+    <u>Does George have any books and pads of paper?</u><br>
+    - <u>He has some books, but he doesn't have any pads of paper.</u><br>
+    ③：the man/newspapers/magazines<br>
+    <u>Does the man have any newspapers and magazines?</u><br>
+    - <u>He has some newspapers, but he doesn't have any magazines.</u><br>
+    <br>
+    例②：our teacher/chalk/glue<br>
+    <u>Does our teacher have any chalk and glue?</u><br>
+    - <u>She has some chalk, but she doesn't have any glue.</u><br>
+    ①：he/paper/ink<br>
+    <u>Does he have any paper and ink?</u><br>
+    - <u>He has some paper, but he doesn't have any ink.</u><br>
+    ①：she/bread/jam<br>
+    <u>Does she has any bread and jam?</u><br>
+    - <u>She has some bread, but she doesn't have any jam.</u><br>
+    ①：Dave/tea/sugar<br>
+    <u>Does he has any tea and sugar?</u><br>
+    - <u>He has some tea, but he doesn't have any sugar.</u><br>
+    <br>
+    三：仿照例句用所给的词写出下列句子的对应句<br>
+    例：I have a bad handache.（take two aspirins）<br>
+    - You must take two aspirins.<br>
+    <br>
+    ①：She has measles.（stay at home）<br>
+    - She must stay at home.<br>
+    ②：she has toothache.（see a dentist）<br>
+    - She must see a dentist.<br>
+    ③：My sister has mumps.（you/take her to a doctor）<br>
+    - You must take her to a doctor.<br>
+    ④：I have a bad cold.（drink more water）<br>
+    - You must drink more water.<br>
+    ⑤：He has an earache.（see a doctor）<br>
+    - He must see a doctor.<br>
+    ⑥：I have a bad cough.（take some medicine）<br>
+    - You must take some medicine.<br>
+    <br>
+    四：仿照例句用所给的词回答下列问题<br>
+    例：Why is he late?（ill）<br>
+    - Because he's ill.<br>
+    <br>
+    ①：Why is she eating a big meal?（hungry）<br>
+    - Because she's hungry.<br>
+    ②：Why is she crying?（want an ice cream）<br>
+    - Because she's want an ice cream.<br>
+    ③：Why must she call the doctor?（have measles）<br>
+    - Because she's have measles.<br>
 
