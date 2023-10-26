@@ -104,4 +104,50 @@ take some medicine（吃一些药）
 
 
 ??? note "语法练习"
+    一：仿照例句造句<br>
+    例：you/tell the truth/lies<br>
+    - You must always tell the truch. You mustn't tell lies.<br>
+    <br>
+    ①：I/be early for school/late<br>
+    - I must always be early for school. I mustn't be late.<br>
+    ②：we/drink clean water/drity water<br>
+    - We must always drink clean water. We mustn't drink dirty water.<br>
+    ③：she/drink milk/beer<br>
+    - She must always drink milk. She mustn't drink beer.<br>
+    <br>
+    二：仿照例句简短回答下列问题<br>
+    例①：Must a woman have new clothes?（yes）<br>
+    - Yes, she must.<br>
+    ①：Must I finish this homework before the lesson?（yes）<br>
+    - Yes, you must.<br>
+    ②：Must he do all the work today?（yes）<br>
+    - Yes, he must.<br>
+    ③：Must I type the letter now?（yes）<br>
+    - Yes, you must.<br>
+    <br>
+    例②：Must she stay in bed?（no）<br>
+    - No, she mustn't.<br>
+    ①：Must they go to bed late?（no）<br>
+    - No, they mustn't.<br>
+    ②：Must we tell him the news?（no）<br>
+    - No, we mustn't.<br>
+    ③：Must he take an aspirin?（no）<br>
+    - No, he mustn't.<br>
+    <br>
+    三：仿照例句用所给的词回答下列问题<br>
+    例：What's the matter with Bob? He looks ill.（have a cold）<br>
+    - He has a cold.<br>
+    <br>
+    ①：What's the matter with you?（have a bad headache）<br>
+    - I have a bad headache.<br>
+    ②：What's the matter with our teacher?（feel ill）<br>
+    - He feels ill.<br>
+    ③：What's the matter with Susan?（have a bad toothache）<br>
+    - She has a bad toothache.<br>
+    ④：What's the matter with them?（have mumps）<br>
+    - They have mumps.<br>
+    ⑤：What's the matter with you?（have a stomachache）<br>
+    - I have a stomachache.<br>
+    ⑥：What's the matter with John?（have measles）<br>
+    - He has measles.<br>
 
