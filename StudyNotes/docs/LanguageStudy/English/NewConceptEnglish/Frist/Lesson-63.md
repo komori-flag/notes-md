@@ -118,4 +118,50 @@ certainly（/ˈsɜːtnli/，adv.当然、可以）
 
 
 ??? note "语法练习"
+    一：仿照例句提问<br>
+    例：park my car here<br>
+    - Can I park my car here?<br>
+    <br>
+    ①：use your pencil<br>
+    - Can I use your pencil?<br>
+    ②：sit here<br>
+    - Can I sit here?<br>
+    ③：borrow your bike<br>
+    - Can I borrow your bike?<br>
+    ④：come to your house<br>
+    - Can I come to your house?<br>
+    ⑤：stay in bed today<br>
+    - Can I stay in bed today?<br>
+    ⑥：look at your new dress<br>
+    - Can I look at your new dress?<br>
+    <br>
+    二：仿照例句用所给的词回答下列问题<br>
+    例①：How long must he stay in bed?（a week）<br>
+    - He must stay in bed for a week.<br>
+    ①：How long must I take the medicine?（three days）<br>
+    - You must take the medicine for three days.<br>
+    ②：How long must she work?（eight hours every day）<br>
+    - She must work for eight hours every day.<br>
+    ③：How long must you play the piano?（about an hour every day）<br>
+    - I must play the piano for about an hour every day.<br>
+    <br>
+    例②：How long can I use your bike?（two weeks）<br>
+    - You can use my bike for two weeks.<br>
+    ①：How long can you live here?（about three months）<br>
+    - I can live here for about three months.<br>
+    ②：How long can students keep books from the library?（two months）<br>
+    - Students can keep books from the library for two months.<br>
+    ③：How long can Mary play in the garden?（about two hours）<br>
+    - She can play in the garden for about two hours.<br>
+    <br>
+    三：仿照例句用所给的词回答下列问题<br>
+    例：Why mustn't he open the window?（have a bad cold）<br>
+    - Because he has a bad cold.<br>
+    <br>
+    ①：Why mustn't she go to school today?（have measles）<br>
+    - Because she has measles.<br>
+    ②：Why mustn't I swim in the river?（have an earache）<br>
+    - Because I have an earache.<br>
+    ③：Why mustn't he eat an ice cream?（have an toothache）<br>
+    - Because he has an toothache.<br>
 
