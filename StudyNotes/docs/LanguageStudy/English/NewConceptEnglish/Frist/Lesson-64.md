@@ -127,4 +127,37 @@ out of the window（探出窗外）
 
 
 ??? note "语法练习"
+    一：仿照例句改写下列句子<br>
+    例：Don't put the glasses on the refrigerator. Put them on the table.<br>
+    - You mustn't put the glasses on the refrigerator. You must put them on the table.<br>
+    <br>
+    ①：Don't put the dishes here. Put them on the shelf.<br>
+    - You mustn't put the dishes here. You must put them on the shelf.<br>
+    ②：Don't go to school by bike today. Go to school by bus.<br>
+    - You mustn't go to school by bike today. You must go to school by bus.<br>
+    ③：Don't eat meat. Eat fresh fruit.<br>
+    - You mustn't eat meat. You must eat fresh fruit.<br>
+    ⑤：Don't look at your books. Look at the blackboard, please.<br>
+    - You mustn't look at your books. You must look at the blackboard.<br>
+    ⑤：Don't watch television. Do your homework.<br>
+    - You mustn't watch television. You must do your homework.<br>
+    ⑥：Don't talk in the library. Read your books.<br>
+    - You mustn't talk in the library. You must read your books.<br>
+    <br>
+    二：仿照例句用所给的词写出下列句子的对应句<br>
+    例：I don't feel well.（stay at home/today）<br>
+    - I don't feel well, so I'm staying at home today.<br>
+    <br>
+    ①：My son has a temperature.（must/take him to the doctor's）<br>
+    - My son has a temperature, so I must take him to the doctor's.<br>
+    ②：It's raining very hard.（I/go to work by taxi）<br>
+    - It's raining very hard, so I'm going to work by taxi.<br>
+    ③：I must catch the train.（taxi driver/drive quickly）<br>
+    - I must catch the train, so the taxi driver must drive quickly.<br>
+    ④：It's always warm in Greece in autumn.（tourists/often go there then）<br>
+    - It's always warm in Greece in autumn, so tourists must often go there then.<br>
+    ⑤：The lettuces are not fresh today.（I/not want them）<br>
+    - The lettuces are not fresh today, so I do not want them.<br>
+    ⑥：His car is in the garage today.（go to work by bus）<br>
+    - His car is in the garage today, so he's going to work by bus.<br>
 
