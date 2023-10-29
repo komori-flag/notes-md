@@ -63,4 +63,46 @@ enjoy yourself（你自己玩得开心，玩得开心）
 
 
 ??? note "语法练习"
+    一：使用反身代词（myself、himself、herself、itself、yourself、yourselves、themselves、ourselves）来进行填空<br>
+    例：Jane and Jack are enjoying <u>themselves</u> at thee party.<br>
+    <br>
+    ①：Are you having a good time?<br>
+    - Yes I'm enjoying <u>myself</u>.<br>
+    ②：That knife is very sharp. Don't cut <u>yourself</u>!<br>
+    ③：Oh, look! He's going to cut <u>himself</u>!<br>
+    ④：The cat is washing <u>itself</u> in the garden.<br>
+    ⑤：Is mary enjoying <u>herself</u>?<br>
+    - Yes, she is.<br>
+    ⑥：What's he doing?<br>
+    - He's looking at <u>himself</u> in the mirror.<br>
+    <br>
+    二：仿照例句用所给的词造句<br>
+    例：I/do my homework/seven thirty/evening<br>
+    I usually do my homework at seven thirty in the evening, but this evening I'm not going to.<br>
+    <br>
+    ①：Linda/get up/six/morning<br>
+    <u>She usually get up at six in the morning, but this morning She isn't going to.</u><br>
+    ③：he/go to bed/ten/night<br>
+    <u>He usually goes to bed at ten in the night, but this night(tonight) he isn't going to.</u><br>
+    ③：they/walk along the beach/six thirty/morning<br>
+    <u>They usually walk along the beach at six thirty in the morning, but this morning they aren't going to.</u><br>
+    <br>
+    三：仿照例句用所给的词回答下列问题<br>
+    例：How old are you?（twelve）<br>
+    <u>I'm twelve years old.</u><br>
+    What can you do at twelve?（sweep the floor）<br>
+    <u>I can sweep the floor.</u><br>
+    <br>
+    ①：How old are you?（six）<br>
+    <u>I'm six years old.</u><br>
+    What can you do at six?（go to school）<br>
+    <u>I can go to school.</u><br>
+    ②：How old are you?（fifteen）<br>
+    <u>I'm fifteen years old.</u><br>
+    What can you do at fifteen?（wash my clothes）<br>
+    <u>I can wash my clothes.</u><br>
+    ③：How old are you?（seventeen）<br>
+    <u>I'm seventeen years old.</u><br>
+    What can you do at seventeen?（type）<br>
+    <u>I can type.</u><br>
 
