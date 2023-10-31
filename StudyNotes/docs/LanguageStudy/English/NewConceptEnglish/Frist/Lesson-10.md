@@ -61,26 +61,25 @@
 
 
 ??? note "语法练习"
-    ```text
-    1.仿照例句回答问题
-    例：
-    Are you cold?  -- *No, I'm not.*
-    Are you hot?  -- *Yes, I am.*
-
-    ①：
-    Is that pencil long?  -- *No, it isn't.*
-    Is it short?  -- *Yes, it is.*
-    ②：
-    Is that book new?  -- *No, it isn't.*
-    Is it old?  -- *Yes, it is.*
-    ③：
-    Are you French?  -- *No, I'm not.*
-    Are you German?  -- *Yes, I am.*
-
-
-    2.仿照例句用所给的词回答问题
-    例：Is that mechanic clean or dirty?(dirty)  -- He is't clean. He's dirty.
-
-    ①：
-    ```
+    一：仿照例句回答问题<br>
+    例：<br>
+    Are you cold?  -- <u>No, I'm not.</u><br>
+    Are you hot?  -- <u>Yes, I am.</u><br>
+    <br>
+    ①：Is that pencil long?  -- <u>No, it isn't.</u><br>
+    Is it short?  -- <u>Yes, it is.</u><br>
+    ②：Is that book new?  -- <u>No, it isn't.</u><br>
+    Is it old?  -- <u>Yes, it is.</u><br>
+    ③：Are you French?  -- <u>No, I'm not.</u><br>
+    Are you German?  -- <u>Yes, I am.</u><br>
+    <br>
+    二：仿照例句用所给的词回答问题<br>
+    例：Is that mechanic clean or dirty?（dirty）<br> <u>He is't clean. He's dirty.</u><br>
+    <br>
+    ①：Is that policewoman young or old?（young）<br>
+    <u>She isn't old. She's young.</u><br>
+    ②：Is your handbag new or old?（old）<br>
+    <u>It isn't new. It's old.</u><br>
+    ③：Is a Volvo French or Swedish?（Swedish）<br>
+    <u>It isn't French. It's Swedish.</u><br>
 
