@@ -104,4 +104,33 @@ Whose dress is this?（常用用法）
 
 
 ??? note "语法练习"
+    一：仿照例句用所给的词回答下列问题<br>
+    例①：Is this your tie?（yes）<br>
+    - <u>Yes, it is. It's my tie.</u><br>
+    例②：Is this your sister?（no/Tim's）<br>
+    - <u>No, she isn't. She isn't my sister. She's Tim's sister.</u><br>
+    <br>
+    ①：Is this your house?（no/my father's）<br>
+    - <u>No, it isn't. It isn't my house. It's my father's.</u><br>
+    ②：Is this her blouse?（yes）<br>
+    - <u>Yes, it is. It's her blouse.</u><br>
+    ③：Is this Tony's car?（no/her）<br>
+    - <u>No, it isn't. It isn't Tony's car. It's her car.</u><br>
+    <br>
+    二：仿写例句改写下列句子<br>
+    例：This is Emma's skirt.  -- <u>This skirt is Emma's.</u><br>
+    <br>
+    ①：This is my father's car.  -- <u>This car is my father's.</u><br>
+    ②：This is my mother's watch. -- <u>This watch is my mother's.</u><br>
+    ③：This is Dave's sister's room. -- <u>This room is Dave's sister's.</u><br>
+    <br>
+    三：在下列句中的<u>名词所有格</u>（表示名词之间的所有关系。主要有 of 和 ’s (') 两种表示方式）画上下划线<br>
+    例：Her <u>name's</u> very nice.<br>
+    <br>
+    ①：Is Mrs. Scott <u>Jean's</u> mother.<br>
+    ②：<u>Helen's</u> handbag's blue.<br>
+    ③：Mr. Scott is <u>Jean's</u> father.<br>
+    ④：That umbrella's my <u>sister's</u>.<br>
+    ⑤：It's the <u>boy's</u> bike.<br>
+    ⑥：Is this new tie <u>Robert's</u>?<br>
 
