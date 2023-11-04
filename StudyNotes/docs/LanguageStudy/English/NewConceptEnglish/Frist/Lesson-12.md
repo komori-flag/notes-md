@@ -89,4 +89,25 @@
 
 
 ??? note "语法练习"
+    一：仿照例句改写下列句子<br>
+    例：Whose shirt is that?  -- <u>Whose is that shirt?</u><br>
+    <br>
+    ①：Whose pencil is this?  -- <u>Whose is this pencil?</u><br>
+    ②：Whose coat is this?  -- <u>Whose is this coat?</u><br>
+    ③：Whose blouse is that?  -- <u>Whose is that blouse?</u><br>
+    ④：Whose car is this?  -- <u>Whose is this car?</u><br>
+    ⑤：Whose watch is this?  -- <u>Whose is this watch?</u><br>
+    ⑥：Whose handbag is that?  -- <u>Whose is that handbag?</u><br>
+    <br>
+    二：仿照例句用所给的词回答下列问题<br>
+    例：Whose is that blue shirt? Is it Tim's?（Steven）<br>
+    - <u>No, it isn't Tim's. It's Steven's.</u><br>
+    <br>
+    ①：Whose is this dirty coat? Is it Robert's?（Emma）<br>
+    - <u>No, it isn't Robert's. It's Emma's.</u><br>
+    ②：Whose is this small handbag? Is it Ruth's?（Diana）<br>
+    - <u>No, it isn't Ruth's. It's Diana's.</u><br>
+    ③：Whose is that long blouse? Is it your sister's?（my mother）<br>
+    - <u>No, it isn't my sister's. It's my mother's.</u><br>
+    <br>
 
