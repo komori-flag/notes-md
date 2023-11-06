@@ -102,5 +102,33 @@ different（/ˈdɪfrənt/，adj.不同的）<br>
 
 
 ??? note "语法练习"
+    一：使用“What”、“Whose”与“How”完成下列的特殊疑问句<br>
+    例：<u>Whose</u> is this white car?<br>
+    <br>
+    ①：<u>What</u> nationaliy is he?<br>
+    ②：<u>How</u> are you?<br>
+    ③：<u>Whose</u> is this nice watch?<br>
+    ④：<u>How</u> is Helen?<br>
+    ⑤：<u>What</u> is your father's job?<br>
+    ⑥：<u>What</u> colour is the policeman's coat?<br>
+    <br>
+    二：仿照例句进行造句<br>
+    例①：this/my coat/green<br>
+    - <u>This is my coat. It's green.</u><br>
+    例②：that/your shirt/white<br>
+    - <u>That is his shirt. It's white.</u><br>
+    <br>
+    ①：this/your chair/clean<br>
+    - <u>This is your chair. It's clean.</u><br>
+    ②：that/your son's pencil/yellow<br>
+    - <u>That is your son's pencil. It's yellow.</u><br>
+    ③：this/my book/new<br>
+    - This is my book. It's new.<br>
+    ④：that/her dress/smart<br>
+    - <u>That is her dress. It's smart.</u><br>
+    ⑤：this/his tie/blue<br>
+    - <u>This is his tie. It's blue.</u><br>
+    ⑥：that/his suit/black<br>
+    - <u>That is his suit. It's black.</u><br>
 
 
