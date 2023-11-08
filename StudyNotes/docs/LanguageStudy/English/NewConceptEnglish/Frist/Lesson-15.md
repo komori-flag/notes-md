@@ -85,5 +85,38 @@
 
 
 ??? note "语法练习"
-
+    一：写出下列单词的复数形式<br>
+    例：a girl -- two <u></u><br>
+    <br>
+    ①：a friend -- two <u>friends</u><br>
+    ②：a passport -- two <u>passports</u><br>
+    ③：a ticket -- two <u>tickets</u><br>
+    ④：a student -- two <u>students</u><br>
+    ⑤：a tourist -- two <u>tourists</u><br>
+    ⑥：a pencil -- two <u>pencils</u><br>
+    <br>
+    二：仿照例句用所给的信息回答下列问题<br>
+    例①：The books are new.<br>
+    Are the books new?<br>
+    - <u>Yes, they are.</u><br>
+    例②：The pencils are short.<br>
+    Are the pencils long?<br>
+    - <u>No, they aren't They are short.</u><br>
+    <br>
+    ①：Our doors are white.<br>
+    Are your doors red?<br>
+    - <u>No, they aren't. They are white.</u><br>
+    ②：These cars are drity.<br>
+    Are these cars clean?<br>
+    - <u>No, they aren't. They are drity.</u><br>
+    ③：Our friends are Norwegian.<br>
+    Are your friends Norwegian?<br>
+    - <u>Yes, they are.</u><br>
+    <br>
+    三：使用“am、is”或者“are”来进行填空<br>
+    例：<u>Is</u> your girl friend fat or thin?<br>
+    <br>
+    ①：Our house <u>is</u> big and clean.<br>
+    ②：<u>Are</u> you an engineer or a taxi driver?<br>
+    ③：<u>Are</u> these your pens? What make <u>are</u> they?<br>
 
