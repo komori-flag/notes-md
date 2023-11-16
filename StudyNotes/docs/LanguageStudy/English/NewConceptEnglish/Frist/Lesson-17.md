@@ -116,4 +116,47 @@ Come and meet ...（过来见见某人）<br>
 
 
 ??? note "语法练习"
+    一：写出下列单词的复数形式<br>
+    例：a watch  -- two <u>watches</u><br>
+    <br>
+    ①：a man  -- two <u>mans</u><br>
+    ②：an air hostess  -- two <u>air hostesses</u><br>
+    ③：a box  -- two <u>boxes</u><br>
+    ④：a housewife  -- two <u>housewives</u><br>
+    ⑤：a postman  -- two <u>postmen</u><br>
+    ⑥：a class  -- two <u>classes</u><br>
+    <br>
+    二：仿照例句用所给的词回答下列问题<br>
+    例：What are their jobs?（policeman）<br>
+    - <u>They're policemen.</u><br>
+    <br>
+    ①：What are these men's jobs?（milkman）<br>
+    - <u>They're milkmen.</u><br>
+    ②：What are these women's jobs?（housewife）<br>
+    - <u>They're housewives.</u><br>
+    ③：What are your jobs?（policewoman）<br>
+    - <u>We're policewomen.</u><br>
+    ④：What are their jobs?（office assistant）<br>
+    - <u>They're office assistants.</u><br>
+    ⑤：What are the girl's jobs?（air hostess）<br>
+    - <u>They're air hostesses.</u><br>
+    ⑥：What are your jobs?（postman）<br>
+    - <u>We're postmen.</u><br>
+    <br>
+    三：仿照例句将下列句子改为复数形式<br>
+    例：That office assistant is hard-working.<br>
+    - <u>Those office assistants are hard-working.</u><br>
+    <br>
+    ①：That policeman is tall.<br>
+    - <u>Those policemen are tall.</u><br>
+    ②：That teacher is very old.<br>
+    - <u>Those teachers are very old.</u><br>
+    ③：That air hostess is very thin.<br>
+    - <u>Those air hostesses are very thin.</u><br>
+    ④：That mechanic is busy.<br>
+    - <u>Those mechanics are busy.</u><br>
+    ⑤：That hat is lovely.<br>
+    - <u>Those hats are lovely.</u><br>
+    ⑥：The dog is black.<br>
+    - <u>The dogs are black.</u><br>
 
