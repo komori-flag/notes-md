@@ -16,6 +16,5 @@ name: Deploy StudyNotes to Github Pages
           with:
             key: ${{ github.ref }}
             path: .cache
-        - run: cd StudyNotes
         - run: pip install mkdocs-material
         - run: mkdocs gh-deploy --force
