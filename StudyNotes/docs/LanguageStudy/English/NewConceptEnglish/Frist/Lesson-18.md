@@ -31,34 +31,31 @@
 
 
 ??? note "语法练习"
-    
-    ```text
-    1.使用“所有格形容词（my, your, his, her, our, their）”进行填空
-    ①：Whose is this pen? It isn't *my* pen! My pen is blue.
-    ②：Excause me. What's *your* name.  -- My name's Sophie.
-    ③：Paul's son is a keyboard operator and *his* daughter is a teacher.
-    ③：She's a hard-working policewoman.  What's *her* name?
-    ⑤：We are Danish, and *our* friends are Danish, too.
-    ⑥：Michael Baker and Jeremy Short are sales reps, and here are *their* offices.
+    一：使用“所有格形容词（my, your, his, her, our, their）”进行填空<br>
+    ①：Whose is this pen? It isn't <u>my</u> pen! My pen is blue.<br>
+    ②：Excause me. What's <u>your</u> name.  -- My name's Sophie.<br>
+    ③：Paul's son is a keyboard operator and <u>his</u> daughter is a teacher.<br>
+    ③：She's a hard-working policewoman.  What's <u>her</u> name?<br>
+    ⑤：We are Danish, and <u>our</u> friends are Danish, too.<br>
+    ⑥：Michael Baker and Jeremy Short are sales reps, and here are <u>their</u> offices.<br>
+    <br>
+    二：仿照例句根据答案来进行提问<br>
+    例①：<u>Who are these men?</u><br>
+    -- (these men) They are my friends.<br>
+    -- <u>What are they jobs?</u><br>
+    -- They're Customs officers.<br>
+    例②：Who is this young man?<br>
+    -- (this young man) He is John.<br>
+    -- <u>What's his job?</u><br>
+    -- He's a keyboard operator.<br>
+    <br>
+    ①：<u>Who is that girl?</u><br>
+    -- (that girl) She's my sister.<br>
+    -- <u>What's her job?</u><br>
+    -- She's an air hostess.<br>
+    ②：<u>Who are these two men?</u><br>
+    -- (these two men) They're Dave and Jack. <br>
+    -- <u>Who are their jobs?</u><br>
+    -- They're sales reps.<br>
 
 
-    2.仿照例句根据答案来进行提问
-    例：
-    ①：*Who are these men?*  
-    -- (these men) They are my friends.
-    -- *What are they jobs?* 
-    -- They're Customs officers.
-    ②：Who is this young man?
-    -- (this young man) He is John.
-    -- *What's his job?*
-    -- He's a keyboard operator.
-
-    ①：*Who is that girl?*
-    -- (that girl) She's my sister.
-    -- *What's her job?*
-    -- She's an air hostess.
-    ②：*Who are these two men?*
-    -- (these two men) They're Dave and Jack. 
-    -- *Who are their jobs?*
-    -- They're sales reps.
-    ```
