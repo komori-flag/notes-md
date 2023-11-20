@@ -81,8 +81,51 @@
 
 
 ??? note "语法练习"
-
-
-
+    一：仿照例句用所给的词提问并回答<br>
+    例①：you/thirsty/no<br>
+    - <u>Are you thirsty?</u><br>
+    - <u>No, we aren't thirsty.</u><br>
+    例②：they/all right/yes<br>
+    - <u>Are they right?</u><br>
+    - <u>Yes, they are.</u><br>
+    <br>
+    ①：you/tired/yes<br>
+    - <u>Are you tired?</u><br>
+    - <u>Yes, we are.</u><br>
+    ②：you/busy/no<br>
+    - <u>Are you busy?</u><br>
+    - <u>No, we aren't busy.</u><br>
+    ③：you/Dutch/yes<br>
+    - <u>Are you Dutch?</u><br>
+    - <u>Yes, we are.</u><br>
+    ④：the teachers/young/no<br>
+    - <u>Are the teachers young?</u><br>
+    - <u>No, they aren't young.</u><br>
+    <br>
+    二：仿照例句使用“There is a/an ...”来进行造句<br>
+    例：postman  -- <u>Look. There's a postman.</u><br>
+    <br>
+    ①：air hostess  -- <u>Look. There's an air hostess.</u><br>
+    ②：American car  -- <u>Look. There's an American car.</u><br>
+    ③：new Mercedes  -- <u>Look. There's a new Mercedes.</u><br>
+    ④：open shop  -- <u>Look. There's an open shop.</u><br>
+    <br>
+    三：将下列句子翻译为英文<br>
+    例：请将我的大衣和帽子拿给我  -- <u>Give me my coat and hat(My coat and my hat), please.</u><br>
+    <br>
+    ①：请出示你们的护照  -- <u>Your passports, please.</u><br>
+    ②：请拿三份冰淇淋  -- <u>(Give me) three ice creams, please.</u><br>
+    ③：请坐下  -- <u>Sit down, please.</u><br>
+    ④：请看那张照片 -- <u>Look at that picture, please.</u><br>
+    <br>
+    四：模拟实际情况回答下列问题<br>
+    ①：What's your name?<br>
+    - <u>My name is Yugari.</u><br>
+    ②：Are you old or young?<br>
+    - <u>Is young.</u><br>
+    ③：Are they busy?<br>
+    - <u>Yes, they are.</u><br>
+    ④：Are your friends young or old?<br>
+    - <u>My friends are very young.</u><br>
 
 
