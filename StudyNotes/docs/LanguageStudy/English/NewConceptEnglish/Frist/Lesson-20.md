@@ -42,6 +42,28 @@
 
 
 ??? note "语法练习"
+    一：仿照例句用所给的词进行造句<br>
+    例：we/cold/hot<br>
+    - <u>We're cold. We aren't hot.</u><br>
+    <br>
+    ①：they/short/tall<br>
+    - <u>They're short. They aren't tall.</u><br>
+    ②：those doors/shut/open<br>
+    - <u>Those doors are shut. Those aren't open.</u><br>
+    ③：these boxes/heavy/light<br>
+    - <u>These boxes are heavy. These aren't light.</u><br>
+    ④：my skirts/long/short<br>
+    - <u>My skirts are long. They aren't short.</u><br>
+    <br>
+    二：仿照例句将下列句子改为复数形式<br>
+    例：My books is heavy.  -- <u>My books are heavy.</u><br>
+    <br>
+    ①：Your student is hard-working.  -- <u>Your students are hard-working.</u><br>
+    ②：This air hostess is busy.  -- <u>These air hostesses are busy.</u><br>
+    ③：That tourist is thirsty.  -- <u>Those tourists are thirsty.</u><br>
+    ④：His child's hand is clean.  -- <u>His children's hands are clean.</u><br>
+    ⑤：He's tall.  -- <u>They're tall.</u><br>
+    ⑥：This old housewife is tired.  -- <u>These old housewives are tired.</u><br>
 
 
 
