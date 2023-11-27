@@ -79,7 +79,26 @@ give <font style="background-color: skyblue">me</font> <font style="background-c
 
 
 ??? note "语法练习"
-
-
-
+    一：在必要的空白处填上“a、an、the”<br>
+    ①：Here is <u>a</u> cup and <u>a</u> glass. <u>The</u> cup is small and <u>the</u> glass is big.<br>
+    ②：Look! There's <u>a</u> policeman.<br>
+    - Yes, and there's <u>an</u> enginner. <u>The</u> policeman is young, but <u>the</u> enginner is old.<br>
+    ③：Sophie is <u>(x)</u> French and she is <u>an</u> air hostess.<br>
+    ④：What <u>(x)</u> make is your car?<br>
+    - It's <u>a</u> Mini.<br>
+    ⑤：Who is <u>the</u> man in <u>the</u> park?<br>
+    - <u>The</u> man in <u>the</u> park is <u>the</u> ice cream man.<br>
+    ⑥：Give me <u>a</u> cup, please, John.<br>
+    - Here you are.<br>
+    - Not <u>a</u> dirty one! <u>A</u> clean one, please!<br>
+    <br>
+    二：使用所给代词的正确格式填空<br>
+    ①：Give <u>me</u>（I） an ice cream, please.<br>
+    ②：What's <u>my</u>（you） job?<br>
+    ③：Are these the boy's books?<br>
+    - No, they aren't. <u>her</u>（they）<br>
+    ④：Are <u>you</u>（you） office assistants?<br>
+    - No, <u>we</u>（we） aren't. <u>We</u>（we） are sales reps.<br>
+    ⑤：Look at <u>your</u>（you） hands! Look at <u>them</u>（they）! They're very dirty.<br>
+    ⑥：<u>We</u>（we） are hot. Please give <u>us</u>（we） an ice cream.<br>
 
