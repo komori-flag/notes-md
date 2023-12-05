@@ -139,6 +139,32 @@
 
 
 ??? note "语法练习"
+    一：使用“some、one、ones”填空<br>
+    ①：Give me <u>some</u> knives and forks, please.<br>
+    - Whitch <u>ones</u>?<br>
+    - The <u>ones</u> on the table.<br>
+    ②：Give us our umbrellas, please.<br>
+    - Which <u>ones</u>? The big <u>ones</u> or the small <u>ones</u>?<br>
+    - The small <u>ones</u>.<br>
+    ③：Give me a tie, please.<br>
+    - Which <u>some</u>? A yellow <u>one</u> or a green <u>one</u>?<br>
+    - A green <u>one</u>, please.<br>
+    <br>
+    二：仿照例句完成下列句子<br>
+    例：Give me some knives, please.<br>
+    - Which ones? These or those?（blunt）<br>
+    - <u>These, please. Those are blunt.</u><br>
+    <br>
+    ①：Give me some glasses, please.<br>
+    - Which ones? These or those?（old）<br>
+    - <u>These, please. Those are old.</u><br>
+    ②：Give me some pens, please.<br>
+    - Which ones? These or those?（old）<br>
+    - <u>These, please. Those are old.</u><br>
+    ③：Give me some shirts, please.<br>
+    - Which ones? These or those?（white）<br>
+    - <u>These, please. Those are white.</u><br>
+    <br>
 
 
 
