@@ -84,6 +84,38 @@ on the left/right.（在 左边/右边）
 
 
 ??? note "语法练习"
+    一：使用“a、an、the”填空<br>
+    ①：There is <u>a</u> new table in our kitchen. It's in <u>the</u> middle of <u>the</u> kitchen.<br>
+    ②：Give me <u>a</u> knife, please.<br>
+    - Which one?<br>
+    - <u>The</u> sharp one, not <u>the</u> blunt one!<br>
+    ③：There is <u>a</u> refrigerator in Mrs. Smith's kitchen. <u>The</u> refrigerator is <u>a</u> white one.<br>
+    ④：Who is that man?<br>
+    - He's <u>an</u> American tourist.<br>
+    ⑤：Here are two coats, <u>a</u> black one and <u>a</u> blue one. Which one is your coat? <u>The</u> black one or <u>the</u> blue one?<br>
+    - My coat is <u>the</u> blue one.<br>
+    ⑥：Come and meet Molly, She's <u>a</u> keyboard operator.<br>
+    <br>
+    二：使用“in、on”填空<br>
+    ①：There is a picture <u>on</u> the wall.<br>
+    ②：There is water <u>in</u> the bottle.<br>
+    ③：There's a big box <u>on</u> the floor.<br>
+    ④：Where are my shoes?<br>
+    - They're <u>in</u> the cupboard.<br>
+    ⑤：Look at the new carpet <u>in</u> my room!<br>
+    ⑥：The table is <u>in</u> the middle of the room, and the cups and plates are <u>on</u> the table.<br>
+    <br>
+    三：仿照例句使用所给的词回答下列问题<br>
+    例：Is there a spoon in the cup?（on the plate/dirty）<br>
+    - <u>No, there isn't a spoon in the cup. There is one on the plate. It's dirty.</u><br>
+    <br>
+    ①：Is there a tin on the table?（in the refrigerator/big）<br>
+    - <u>No, there isn't a tin on the table. There is one in the refrigerator. It's big.</u><br>
+    ②：Is there a bottle on the cupboard?（in the cupboard/full）<br>
+    - <u>No, there isn't a bottle on the cupboard. There is one in the cupboard. It's full.</u><br>
+    ③：Is there an umbrella on the floor?（on the chair/red）<br>
+    - <u>No, there isn't an umbrella on the floor. There is one on the chair. It's red.</u><br>
+    <br>
 
 
 
