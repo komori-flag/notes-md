@@ -34,4 +34,29 @@
     <br>
 
 
+??? note "语法练习"
+    一：使用“a、an、the”填空<br>
+    ①：Is there <u>a</u> book on <u>the</u> table?<br>
+    - Yes, there is. There is <u>a</u> big red book.<br>
+    - Give me <u>the</u> book, please.<br>
+    - Here you are.<br>
+    ②：Look at John's new car.<br>
+    - What make is it?<br>
+    - It's <u>a</u> Fiat.<br>
+    ③：On <u>the</u> right there is <u>a</u> television and on <u>the</u> left there is <u>a</u> desk.<br>
+    <br>
+    二：仿照例句使用所给的词提问并回答问题<br>
+    例：my key/on the table<br>
+    - <u>Where is my key?</u><br>
+    - <u>It's on the table.</u><br>
+    <br>
+    ①：your pencil/on the book<br>
+    - <u>Where is your pencil?</u><br>
+    - <u>It's on the book.</u><br>
+    ②：your fork/on my plate<br>
+    - <u>Where is your fork?</u><br>
+    - <u>It's on my plate.</u><br>
+    ③：my watch/on the dressing table<br>
+    - <u>Where is my watch?</u><br>
+    - <u>It's on the dressing table.</u><br>
 
