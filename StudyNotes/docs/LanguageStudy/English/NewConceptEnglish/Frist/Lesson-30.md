@@ -75,5 +75,98 @@
 
 
 ??? note "语法练习"
+    一：选择两边恰当的搭配<br>
+    <table border="5">
+    <tr>
+		<td colspan="2">左项</td>
+		<td colspan="2">右项</td>
+		<td colspan="1">回答</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Air ...</td>
+		<td>a</td>
+		<td>... this magazine.</td>
+        <td title="f">鼠</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Sharpen ...</td>
+		<td>b</td>
+		<td>... your books.</td>
+        <td title="i">标</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Shut ...</td>
+		<td>c</td>
+		<td>... your shoes.</td>
+        <td title="j">浮</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Empty ...</td>
+		<td>d</td>
+		<td>... our new office assistant.</td>
+        <td title="g">动</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Turn on ...</td>
+		<td>e</td>
+		<td>... the light.</td>
+        <td title="e">至</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>Sweep ...</td>
+		<td>f</td>
+		<td>... this room.</td>
+        <td title="h">框</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Take off ...</td>
+		<td>g</td>
+		<td>... those boxes.</td>
+        <td title="c">中</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>Read ...</td>
+		<td>h</td>
+		<td>... the floor.</td>
+        <td title="a">显</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>Open ...</td>
+		<td>i</td>
+		<td>... that pencil.</td>
+        <td title="b">回</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>Come and meet ...</td>
+		<td>j</td>
+		<td>... the windows.</td>
+        <td title="d">答</td>
+	</tr>
+    </table>
+    <br>
+    二：仿照例句使用所给的词回答问题：“我应该做什么（What must I do?）”<br>
+    例：sweep/the floor<br>
+    What must I do?<br>
+    - <u>Sweep the floor, please.</u><br>
+    <br>
+    ①：empty/the box<br>
+    What must I do?<br>
+    - <u>Empty the box, please.</u><br>
+    ②：clean/the electric cooker<br>
+    What must I do?<br>
+    - <u>Clean the electric cooker, please.</u><br>
+    ③：close/your case<br>
+    What must I do?<br>
+    - <u>Close your case, please.</u><br>
 
 
