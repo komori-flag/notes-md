@@ -28,9 +28,9 @@
 <font size=4>**结构：<font color=orange>主语</font> + <font color=blue>be动词[am/is/are]</font> + <font color=chocolate>doing[v.ing 现在分词]</font>**</font>
 
 ??? note "例子"
-  我现在正在上课。 | 今授業中です。<br>
-  She is reading a book.（她正在阅读书籍。 | 彼女は本を読んでいます。）<br>
-  They are running on the street.（他们在道路上奔跑。 | 彼らは路上を走っています。）<br>
+    我现在正在上课。 | 今授業中です。<br>
+    She is reading a book.（她正在阅读书籍。 | 彼女は本を読んでいます。）<br>
+    They are running on the street.（他们在道路上奔跑。 | 彼らは路上を走っています。）<br>
 
 
 ### 语法：现在进行时的否定句
@@ -38,8 +38,8 @@
 <font size=4>**结构：<font color=orange>主语</font> + <font color=blue>be动词[am/is/are]</font> + <font color=red>not</font> + <font color=chocolate>doing[v.ing 现在分词]</font>**</font>
 
 ??? note "例子"
-  She is not reading a book.（她没有在阅读书籍。 | 彼女は本を読んでいません。）<br>
-  They are not swimming.（他们还没有在游泳。 | 彼らはまだ泳いでいない。）<br>
+    She is not reading a book.（她没有在阅读书籍。 | 彼女は本を読んでいません。）<br>
+    They are not swimming.（他们还没有在游泳。 | 彼らはまだ泳いでいない。）<br>
 
 
 ### 语法：现在进行时的一般疑问句
@@ -47,8 +47,8 @@
 <font size=4>**结构：<font color=blue>be动词[am/is/are]</font> + <font color=orange>主语</font> + <font color=chocolate>doing?[v.ing 现在分词]</font>**</font>
 
 ??? note "例子"
-  Is she opening the door?（她有在开门吗？ | 彼女はドアを開けています。）<br>
-  Are thry sitting on the floor?（他们是坐在地板上吗？ | 彼らは床に座っていますか？）<br>
+    Is she opening the door?（她有在开门吗？ | 彼女はドアを開けています。）<br>
+    Are thry sitting on the floor?（他们是坐在地板上吗？ | 彼らは床に座っていますか？）<br>
 
 
 ### 语法：现在进行时的特殊疑问句
@@ -58,8 +58,8 @@
 <font size=4>**结构：<font color=red>What</font> + <font color=blue>be动词[am/is/are]</font> + <font color=orange>主语</font> + <font color=chocolate>doing?[v.ing 现在分词]</font>**</font>
 
 ??? note "例子"
-  What is she doing?（她正在做什么？ | 彼女は今何している？）<br>
-  What are they doing?（他们正在做什么？ | 彼らは今何している？）<br>
+    What is she doing?（她正在做什么？ | 彼女は今何している？）<br>
+    What are they doing?（他们正在做什么？ | 彼らは今何している？）<br>
 
 
 ---
@@ -73,25 +73,25 @@
 #### 1. v. + ing（动词直接加ing）
 
 ??? note "例子"
-  eat（吃） --> eat<font color=orange>ing</font>（正在吃）<br>
-  open（打开） --> open<font color=orange>ing</font>（正打开）<br>
-  read（阅读） --> read<font color=orange>ing</font>（正在阅读）<br>
+    eat（吃） --> eat<font color=orange>ing</font>（正在吃）<br>
+    open（打开） --> open<font color=orange>ing</font>（正打开）<br>
+    read（阅读） --> read<font color=orange>ing</font>（正在阅读）<br>
 
 
 #### 2. v.(去掉最后的e) + ing
 
 ??? note "例子"
-  com<font color=yellow>e</font>（来） --> com<font color=orange>ing</font>（正在来）<br>
-  mak<font color=yellow>e</font>（整理） --> mak<font color=orange>ing</font>（正在整理）<br>
-  danc<font color=yellow>e</font>（跳舞） --> danc<font color=orange>ing</font>（正在跳舞）<br>
+    com<font color=yellow>e</font>（来） --> com<font color=orange>ing</font>（正在来）<br>
+    mak<font color=yellow>e</font>（整理） --> mak<font color=orange>ing</font>（正在整理）<br>
+    danc<font color=yellow>e</font>（跳舞） --> danc<font color=orange>ing</font>（正在跳舞）<br>
 
 
 #### 3. v.(最后的子母双写) + ing
 
 ??? note "例子"
-  ru<font color=yellow>n</font>（跑步） --> ru<font color=orange>nning</font>（正在跑步）<br>
-  si<font color=yellow>e</font>（坐下） --> si<font color=orange>tting</font>（正在坐下）<br>
-  swi<font color=yellow>e</font>（游泳） --> swi<font color=orange>mming</font>（正在游泳）<br>
+    ru<font color=yellow>n</font>（跑步） --> ru<font color=orange>nning</font>（正在跑步）<br>
+    si<font color=yellow>e</font>（坐下） --> si<font color=orange>tting</font>（正在坐下）<br>
+    swi<font color=yellow>e</font>（游泳） --> swi<font color=orange>mming</font>（正在游泳）<br>
 
 
 ---
@@ -102,8 +102,8 @@
 但当特殊疑问词<font color=red size=3>**直接对句子中的主语提问**</font>时，可以直接用特殊疑问词来替代主语。（Who 和 What 使用频率最高）
 
 ??? note "例子"
-  <font color=orange>Tim</font>[提问的主语] is clibing the tree.（蒂姆正在爬树）<br>
-  <font color=orange>Who</font> is climbing the tree?（是谁在爬树？）<br>
+    <font color=orange>Tim</font>[提问的主语] is clibing the tree.（蒂姆正在爬树）<br>
+    <font color=orange>Who</font> is climbing the tree?（是谁在爬树？）<br>
 
 
 ---
@@ -141,4 +141,41 @@
 
 
 ??? note "语法练习"
+    一：仿照历史使用所给的词完成下列对话<br>
+    例：Is the boy in bed?（no）<br>
+    - <u>No, he isn't.</u><br>
+    Where is he?（in the garden/hot）<br>
+    - <u>He's in the garden. He's hot.</u><br>
+    What's he doing?（run across the lawn）<br>
+    - <u>He's running across the lawn.</u><br>
+    <br>
+    ①：Is your mother in her chair?（no）<br>
+    - <u>No, she isn't.</u><br>
+    Where is she?（in the kitchen/busy）<br>
+    - <u>She's in the kitchen. She's busy.</u><br>
+    What's she doing?（cook a meal）<br>
+    - <u>She's cooking a meal.</u><br>
+    ②：Is Jack here?（no）<br>
+    - <u>No, he isn't.</u><br>
+    Where is he?（in the living room/tired）<br>
+    - <u>He's in the liviing room. He's tired.</u><br>
+    What's he doing?（read a magazine）<br>
+    - <u>He's reading a magazine.</u><br>
+    ③：Is the employee in the office?（no）<br>
+    - <u>No, he isn't.</u><br>
+    Where is he?（at home/lazy）<br>
+    - <u>He's at home. He's lazy.</u><br>
+    What's he doing?（watch television）<br>
+    - <u>He's watching television.</u><br>
+    <br>
+    二：仿照例句使用所给的单词造句<br>
+    例：My teacher is sitting at the desk.（write a letter）<br>
+    - <u>She's writing a letter.</u><br>
+    <br>
+    ①：Mike is opening the window.（look at the garden）<br>
+    - <u>He's looking at the garden.</u><br>
+    ②：A dog is running in the garden.（run after a cat）<br>
+    - <u>It's running after a cat.</u><br>
+    ③：Tom is near the bed.（put on his tie）<br>
+    - <u>He's putting on his tie.</u><br>
 
