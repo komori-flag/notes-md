@@ -72,6 +72,39 @@ It's a fine day today.（今天是一个好天气。 | 今日はいい天気だ�
 
 
 ??? note "语法练习"
+    一：使用所给的动词的正确形式填空<br>
+    There <u>are</u>（be） some people at the seaside.<br> 
+    It <u>is</u>（be） a fine day and the sun <u>is shining</u>（shine）.<br>
+    It <u>isn't raining</u>（not rain）.<br>
+    Soem men and womeen <u>are sitting</u>（sit） on the beach.<br>
+    They <u>are eating</u>（eat） ice creams or <u>drinking</u>（drink） tea or coffee.<br>
+    A man <u>is lookinng</u>（look） at the children.<br>
+    They <u>are playing</u>（play） on the sand near the sea.<br>
+    What <u>is</u> the dog <u>doing</u>（do）?<br>
+    It <u>is sleeping</u>（sleep） under a big umbrella.<br>
+    <br>
+    二：仿照例句使用所给的词编写对话<br>
+    例：boys/play football/girls/sing a song<br>
+    <u>Are the boys playing football?</u><br>
+    - <u>Yes, they are.</u><br>
+    <u>Are the girls playing football, too?</u><br>
+    - <u>No, they aren't. They're singing a song.</u><br>
+    <br>
+    ①：boys/sweep the floor/girls/clean the desks and chairs<br>
+    <u>Are the boys sweeping the floor?</u><br>
+    - <u>Yes, they are.</u><br>
+    <u>Are the girls playing  football, too?</u><br>
+    - <u>No, they aren't. They're cleaning the desks and chairs.</u><br>
+    ②：you/watch television/your friends/listen to the radio<br>
+    <u>Are you watching television?</u><br>
+    - <u>Yes, we are.</u><br>
+    <u>Are your friends watching television, too?</u><br>
+    - <u>No, they aren't. They're listening to the radio.</u><br>
+    ③：the children in this room/write/the children in that room/cry<br>
+    <u>Are the children in this room writing?</u><br>
+    - <u>Yes, they are.</u><br>
+    <u>Are the children in that room writing, too?</u><br>
+    - <u>Noo, they aren't. They're crying.</u><br>
 
 
 
