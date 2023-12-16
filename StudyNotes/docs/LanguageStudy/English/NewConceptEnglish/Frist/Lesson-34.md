@@ -40,6 +40,80 @@
 
 
 ??? note "语法练习"
+    一：仿照例句使用所给的单词回答问题<br>
+    例：What are you looking at?（we/the boats）<br>
+    <u>We're looking at the boats.</u><br>
+    Where are the boats?（on the river）<br>
+    <u>They are on the river.</u><br>
+    <br>
+    ①：What are Linda and her sister waiting for?（they/the bus）<br>
+    <u>They're waiting for the bus.</u><br>
+    Where are they waiting?（at the bus stop）<br>
+    <u>They're at the bus stop.</u><br>
+    ②：What are the dogs eating?（they/bones）<br>
+    <u>They're eating bones.</u><br>
+    Where are they ating the bones?（in the garden）<br>
+    <u>They're in the garden.</u><br>
+    ③：What are you doing?（we/wait for the next class）<br>
+    <u>We're waiting for the next class.</u><br>
+    Who is your teacher?（Miss Scott）<br>
+    <u>Miss Scott is our teacher.</u><br>
+    ④：What are the babies doing?（they/sleep）<br>
+    <u>They're sleeping.</u><br>
+    Where are they sleeping?（in their bedroom）<br>
+    <u>They're in their bedroom.</u><br>
+    <br>
+    二：写出下列动词的“-ing”形式<br>
+    <table border=4>
+        <tr>
+            <td>原型</td>
+            <td>-ing 形式</td>
+            <td>原型</td>
+            <td>-ing 形式</td>
+        </tr>
+        <tr>
+            <td>turn</td>
+            <td title="turning"></td>
+            <td>shine</td>
+            <td title="shining"></td>
+        </tr>
+        <tr>
+            <td>run</td>
+            <td title="running"></td>
+            <td>take</td>
+            <td title="taking"></td>
+        </tr>
+        <tr>
+            <td>make</td>
+            <td title="making"></td>
+            <td>walk</td>
+            <td title="walking"></td>
+        </tr>
+        <tr>
+            <td>type</td>
+            <td title="typing"></td>
+            <td>fly</td>
+            <td title="flying"></td>
+        </tr>
+        <tr>
+            <td>put</td>
+            <td title="putting"></td>
+            <td>empty</td>
+            <td title="emptying"></td>
+        </tr>
+        <tr>
+            <td>dust</td>
+            <td title="dusting"></td>
+            <td>cry</td>
+            <td title="crying"></td>
+        </tr>
+        <tr>
+            <td>shave</td>
+            <td title="shaving"></td>
+            <td>shut</td>
+            <td title="shuting"></td>
+        </tr>
+    </table>
 
 
 
