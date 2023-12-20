@@ -200,6 +200,67 @@ Give him <font color=orange>another</font> month.（再给我一个月 | もう�
 
 
 ??? note "语法练习"
+    一：选择正确的介词填空<br>
+    例：Look! That girl's swimming <u>across</u>（over, across） the river.<br>
+    <br>
+    ①：Look! That policeman's running <u>out of</u>（out of, between） the shop.<br>
+    ②：Look! The children are going <u>into</u>（off, into）the park.<br>
+    ③：Look! Mary's running <u>along</u>（beside, along） the wall.<br>
+    ④：Look! Mark's sitting <u>beside</u>（beside, between） his grandmother.<br>
+    ⑤：Look! Those people are waiting <u>for</u>（into, for） a bus.<br>
+    ⑥：Look! That dog's running <u>after</u>（out of, after） our cat!<br>
+    <br>
+    二：仿照例句使用所给的词回答问题<br>
+    例①：Is the young man coming out of the river?（go into）<br>
+    - <u>No, he isn't. He's going into the river.</u><br>
+    What's he doing?（swim）<br>
+    - <u>It's swimming.</u><br>
+    ①：Are you walking across the street?（along）<br>
+    - <u>No, I'm not. I'm walking along the street.</u><br>
+    What are you doing?（look at the shop windows）<br>
+    - <u>I'm looking at the shop windows.</u><br>
+    ②：Is the teacher going into the building?（come out of）<br>
+    - <u>No, she isn't. She's coming out of the building.</u><br>
+    What is she doing?（read a magazine）<br>
+    - <u>She's reading a magazine.</u><br>
+    ③：Are the boys climbing up the tree?（jump out of the tree）<br>
+    - <u>No, they aren't. They're jumping out of the tree.</u><br>
+    What are they doing now?（play under the tree）<br>
+    - <u>They're playing under the tree.</u><br>
+    <br>
+    例②：What's Ann doing?（read）<br>
+    - <u>She's reading.</u><br>
+    What's she reading?（a magazine）<br>
+    - <u>She's reading a magazine.</u><br>
+    ①：What's Tim doing?（study）<br>
+    - <u>He's studying.</u><br>
+    What's he studying?（English）<br>
+    - <u>He's studying English.</u><br>
+    ②：What are Kathy and her mother doing?（wash）<br>
+    - <u>They're washing.</u><br>
+    What are they washing?（the dishes）<br>
+    - <u>They're washing the dishes.</u><br>
+    ③：What's the dog doing?（eat）<br>
+    - <u>It's eating.</u><br>
+    What's it eating?（a bone）<br>
+    - <u>It's eating a bone.</u><br>
+    <br>
+    例③：What's Sam doing?（type a letter）<br>
+    - <u>He's typing a letter.</u><br>
+    Where's he typing the letter?（in his office）<br>
+    - <u>He's typing the letter in his office.</u><br>
+    ①：What are you and your wife dong?（run）<br>
+    - <u>We're running.</u><br>
+    Where are you running?（along the bank of a river）<br>
+    - <u>We're running along the bank of a river.</u><br>
+    ②：What are the girls doinng?（look at some photographs）<br>
+    - <u>They're looking at some photographs.</u><br>
+    Where are they looking at the photographs?（in the kitchen）<br>
+    - <u>They're looking at the photographs in the kitchen.</u><br>
+    ③：What's Helen doing?（clean her teeth）<br>
+    - <u>She's cleaning her teeth.</u><br>
+    Where's she cleaning her teeth?（in the bathroom）<br>
+    - <u>She's cleaning her teeth in the bathroom.</u><br>
 
 
 
