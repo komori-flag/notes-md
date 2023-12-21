@@ -44,6 +44,28 @@
     <br>
 
 ??? note "语法练习"
+    一：使用“some、any”来进行填空<br>
+    例：There are old men in the park. <u>Some</u> are standing under trees; <u>some</u> are sitting on chairs.<br>
+    <br>
+    ①：Do you know <u>any</u> people here?<br>
+    ②：English people speak English, but <u>some</u> speak French.<br>
+    ③：There isn't <u>any</u> cheese left in the fridge.<br>
+    ④：<u>Some</u> birds are flying over the bridge.<br>
+    ⑤：There aren't <u>any</u> villages in that valley.<br>
+    ⑥：Are there <u>any</u> children in the park?<br>
+    <br>
+    二：使用“beside、between、on、along、out of”来进行填空<br>
+    ①：Come and sit down <u>beside</u> me under the tree.<br>
+    ②：Our village is in a valley <u>between</u> two big hills.<br>
+    ③：His small house is <u>between</u> Mr. Smith's and Mrs. White's.<br>
+    ④：They're wwalking <u>along</u> the street in the village.<br>
+    ⑤：Mrs. Green is coming <u>out of</u> thhe shop with a loaf of bread.<br>
+    ⑥：Where's my blue pen?<br>
+    - It's <u>on</u> your desk <u>between</u> that red book and those letters.<br>
+    - And where's my red pencil?<br>
+    - It's <u>beside</u> your computer.<br>
+    - And where are those new photographs?<br>
+    - They're <u>on</u> your bed.<br>
 
 
 
