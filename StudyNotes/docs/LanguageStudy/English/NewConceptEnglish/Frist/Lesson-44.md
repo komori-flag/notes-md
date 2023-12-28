@@ -21,34 +21,34 @@
 ??? note "语法练习"
     一：仿照例句用所给的词编写对话<br>
     例：you/speak/English/French/German/Sam<br>
-    Can you speak English?<br>
-    - Yes, I am.<br>
-    Can you speak French?<br>
-    - No, I can't, but I can speak German.<br>
-    Who can speak French?<br>
-    - Sam can speak French.<br>
+    <u>Can you speak English?</u><br>
+    - <u>Yes, I am.</u><br>
+    <u>Can you speak French?</u><br>
+    - <u>No, I can't, but I can speak German.</u><br>
+    <u>Who can speak French?</u><br>
+    - <u>Sam can speak French.</u><br>
     <br>
     ①：Ann/make/tea/bread/coffee/Jonh<br>
-    Can Ann make tea?<br>
-    - Yes, she can.<br>
-    Can she make bread?<br>
-    - No, she can't, but she can make coffee.<br>
-    Who can make bread?<br>
-    - John can make bread.<br>
+    <u>Can Ann make tea?</u><br>
+    - <u>Yes, she can.</u><br>
+    <u>Can she make bread?</u><br>
+    - <u>No, she can't, but she can make coffee.</u><br>
+    <u>Who can make bread?</u><br>
+    - <u>John can make bread.</u><br>
     ②：Mike/ride a bike/drive a car/ride a horse/my father<br>
-    Can Mike ride a bike?<br>
-    - Yes, he can.<br>
-    Can he drive a car?<br>
-    - No, he can't, but he can ride a horse.<br>
-    Who can drive a car?<br>
-    - My father can drive a car.<br>
+    <u>Can Mike ride a bike?</u><br>
+    - <u>Yes, he can.</u><br>
+    <u>Can he drive a car?</u><br>
+    - <u>No, he can't, but he can ride a horse.</u><br>
+    <u>Who can drive a car?</u><br>
+    - <u>My father can drive a car.</u><br>
     ②：they/speak/Dutch/Japanese/Korean/Mary<br>
-    Can they speak Dutch?<br>
-    - Yes, they can.<br>
-    Can they speak Japanese?<br>
-    - No, they can't, but they can speak Korean.<br>
-    Who can speak Japanese?<br>
-    - Mary can speak Japanese.<br>
+    <u>Can they speak Dutch?</u><br>
+    - <u>Yes, they can.</u><br>
+    <u>Can they speak Japanese?</u><br>
+    - <u>No, they can't, but they can speak Korean.</u><br>
+    <u>Who can speak Japanese?</u><br>
+    - <u>Mary can speak Japanese.</u><br>
     <br>
     二：选择正确的介词填空<br>
     ①：A tall man is sitting <u>in front of</u>（between, in front of） me.<br>
