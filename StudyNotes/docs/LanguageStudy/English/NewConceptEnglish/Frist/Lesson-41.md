@@ -105,3 +105,149 @@
 
 
 ??? note "语法练习"
+    一：在 B 栏中寻找出可以与 A 栏中的短语搭配的词，有些词会存在重复使用<br>
+    <table border=5>
+        <tr>
+            <td>回答</td>
+            <td colspan="2">A 栏</td>
+            <td colspan="2">B 栏</td>
+        </tr>
+        <tr>
+            <td title="f,i,j,e"></td>
+            <td>1.</td>
+            <td>a piece of</td>
+            <td>a.</td>
+            <td>milk</td>
+        </tr>
+        <tr>
+            <td title="f,e"></td>
+            <td>2.</td>
+            <td>a slice of</td>
+            <td>b.</td>
+            <td>tobacco</td>
+        </tr>
+        <tr>
+            <td title="i"></td>
+            <td>3.</td>
+            <td>a bar of</td>
+            <td>c.</td>
+            <td>coffee</td>
+        </tr>
+        <tr>
+            <td title="h,a,g,k"></td>
+            <td>4.</td>
+            <td>a bottle of</td>
+            <td>d.</td>
+            <td>tea</td>
+        </tr>
+        <tr>
+            <td title="d,a,g,c"></td>
+            <td>5.</td>
+            <td>a cup of</td>
+            <td>e.</td>
+            <td>cake</td>
+        </tr>
+        <tr>
+            <td title="b"></td>
+            <td>6.</td>
+            <td>a tin of</td>
+            <td>f.</td>
+            <td>bread</td>
+        </tr>
+        <tr>
+            <td title="f"></td>
+            <td>7.</td>
+            <td>a loaf of</td>
+            <td>g.</td>
+            <td>water</td>
+        </tr>
+        <tr>
+            <td title="l"></td>
+            <td>8.</td>
+            <td>a pound of</td>
+            <td>h.</td>
+            <td>ink</td>
+        </tr>
+        <tr>
+            <td title="a,g,k"></td>
+            <td>9.</td>
+            <td>a glass of</td>
+            <td>i.</td>
+            <td>chocolate</td>
+        </tr>
+        <tr>
+            <td title="k,a"></td>
+            <td>10.</td>
+            <td>a pint of</td>
+            <td>j.</td>
+            <td>paper</td>
+        </tr>
+        <tr>
+            <td title=""></td>
+            <td></td>
+            <td></td>
+            <td>k.</td>
+            <td>beer</td>
+        </tr>
+        <tr>
+            <td title=""></td>
+            <td></td>
+            <td></td>
+            <td>l.</td>
+            <td>sugar</td>
+        </tr>
+    </table>
+    <br>
+    二：选择正确的短语完成以下的对话<br>
+    <table border=2>
+        <tr>
+            <td>a piece of paper</td>
+            <td>a bottle of ink</td>
+        </tr>
+        <tr>
+            <td>a tin of tobacoo</td>
+            <td>half a pound of sugar</td>
+        </tr>
+        <tr>
+            <td>a bar of chocolate</td>
+            <td>a a loaf of bread</td>
+        </tr>
+        <tr>
+            <td>a cup of tea</td>
+            <td>a bottle of milk</td>
+        </tr>
+    </table>
+    例：I'm going to write a letter. Is there any paper on the desk?<br>
+    - Yes, there is.<br>
+    Give me <u>a piece of paper</u>, please.<br>
+    <br>
+    ①：They're hungry. Is there any bread in the refrigerator?<br>
+    - Yes, there is.<br>
+    Give them <u>a loaf of bread</u>, please.<br>
+    ②：We are thirsty. Is there any milk in the kitchen?<br>
+    - Yes, there is.<br>
+    Give us <u>a bottle of milk</u>, please.<br>
+    ③：My son is going to do his homework. Is there any ink here?<br>
+    - Yes, there is.<br>
+    Give him <u>a bottle of ink</u>, please.<br>
+    ④：She's thirsty. Is there any tea here?<br>
+    - Yes, there is.<br>
+    Give her <u>a cup of tea</u>, please.<br>
+    ⑤：We're going to cook a meal. Is there any sugar?<br>
+    - Yes, there is.<br>
+    Give us <u>half a pound of sugar</u>, please.<br>
+    ⑥：The boy is crying. Is there any chocolate in the box?<br>
+    - Yes, there is.<br>
+    Give us <u>a bar of chocolate</u>, please.<br>
+    ⑦：We want to smoke. Is there any tobacco in the box?<br>
+    - Yes, there is.<br>
+    Give us <u>a tin of tobaacco</u>, please.<br>
+    <br>
+    三：使用“a、an、some、any”来进行填空<br>
+    ①：Here is <u>a</u> cup. There is <u>some</u> water in the cup.<br>
+    ②：There is <u>a</u> peencil on the desk, but there isn't <u>any</u> paper there.<br>
+    ③：There is <u>an</u> orange and <u>an</u> apple in my bag.<br>
+    ④：Give me <u>a</u> piece of paper, <u>a</u> pen and <u>some</u> ink, please.<br>
+    ⑤：There is <u>some</u> chalk in the box and <u>some</u> ink in the bottle, but there isn't <u>a</u> pen or <u>a</u> pencil.<br>
+    ⑥：I'm going to give her <u>some</u> flowers. She's not very well.<br>
+
