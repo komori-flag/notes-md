@@ -55,17 +55,17 @@
     - It's February 5th.<br>
     <br>
     ①：When's our National Day?（1 October）<br>
-    - <br>
+    - It's October 1st.<br>
     ②：When's New Year's Day?（1 January）<br>
-    - <br>
+    - It's January 1st.<br>
     ③：When's Women's Day?（8 March）<br>
-    - <br>
+    - It's March 8th.<br>
     ④：When's Christmas Day?（1 May）<br>
-    - <br>
+    - It's May 1st.<br>
     ⑤：When's your sister's birthday?（25 November）<br>
-    - <br>
+    - It's November 25th.<br>
     ⑥：When's Children's Day?（1 June）<br>
-    - <br>
+    - It's June 1st.<br>
     <br>
     二：仿照例句使用另一种方式来报时<br>
     例：What's the time?<br>
@@ -74,21 +74,21 @@
     <br>
     ①：What's the time?<br>
     - It's twenty to four.<br>
-    - <u></u><br>
+    - <u>It's three forty.</u><br>
     ②：What's the time?<br>
     - It's ten to twelve.<br>
-    - <u></u><br>
+    - <u>It's eleven fifty.</u><br>
     ③：What's the time?<br>
     - It's five to eleven.<br>
-    - <u></u><br>
+    - <u>It's ten fifty-five.</u><br>
     <br>
     三：通过使用“at”、“in”或“on”来进行填空<br>
     例：It's always warm here <u>in</u> spring and autumn.<br>
     <br>
-    ①：Our holiday starts <u></u> July 8th.<br>
-    ②：I'm going to buy a bike <u>at</u> July.<br>
-    ③：It often sonws in the North <u></u> December.<br>
-    ④：You must be at home <u></u> ten o'clock!<br>
-    ⑤：We're going to eat lunch <u></u> noon.<br>
-    ⑥：We go work <u></u> seven thirty <u></u> the morning, and arrive home <u></u> five <u></u> the afternoon.<br>
+    ①：Our holiday starts <u>on</u> July 8th.<br>
+    ②：I'm going to buy a bike <u>in</u> July.<br>
+    ③：It often sonws in the North <u>in</u> December.<br>
+    ④：You must be at home <u>at</u> ten o'clock!<br>
+    ⑤：We're going to eat lunch <u>at</u> noon.<br>
+    ⑥：We go work <u>at</u> seven thirty <u>in</u> the morning, and arrive home <u>at</u> five <u>in</u> the afternoon.<br>
 
