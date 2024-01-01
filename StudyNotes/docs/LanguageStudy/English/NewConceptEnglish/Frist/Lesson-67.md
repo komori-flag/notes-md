@@ -177,5 +177,68 @@ country music（乡村音乐）
 
 
 ??? note "语法练习"
+    一：使用“was、were”来进行填空<br>
+    例：It <u>was</u> cold on Monday.<br>
+    <br>
+    ①：I <u>was</u> at school on Friday.<br>
+    ②：John and Paul <u>were</u> very busy last week.<br>
+    ③：The woman <u>was</u> at the hairdresser's on Wednesday.<br>
+    ④：<u>Were</u> you at home on Saturday?<br>
+    ⑤：I <u>was</u> at my teacher's with my friend on Thursday.<br>
+    ⑥：Where <u>were</u> you at about two thirty on Monday?<br>
+    <br>
+    二：仿照例句简短回答下列问题<br>
+    例①：Was it May 16th on Saturday?<br>
+    - <u>Yes, it was.</u><br>
+    ①：Was it hot last week?<br>
+    - <u>Yes, she was.</u><br>
+    ②：Were you in bed at eleven on Saturday?<br>
+    - <u>Yes, I was.</u><br>
+    ③：Was John all right on Friday?<br>
+    - <u>Yes, he was.</u><br>
+    <br>
+    例②：Were you at the greengrocer's on Thursday?<br>
+    - <u>No, I wasn't.</u><br>
+    ①：Were you at school on Friday?<br>
+    - <u>No, I wasn't.</u><br>
+    ②：Was she at the dentist's on Thursday?<br>
+    - <u>No, she wasn't.</u><br>
+    ③：Was it July 25th on Tuesday?<br>
+    - <u>No, it wasn't.</u><br>
+    <br>
+    三：仿照例句使用所给的词来回答下列句子<br>
+    例①：Were you at school last week?<br>
+    - <u>Yes, I was.</u><br>
+    Was Mary at school last week, too?（at the office）<br>
+    - <u>No, she wasn't. She was at the office.</u><br>
+    ①：Was Jack absent from school on Tuesday?<br>
+    - <u>Yes, he was.</u><br>
+    Was Jill absent from school on Thusday, too?（at school）<br>
+    - <u>No, she wasn't. She was at school.</u><br>
+    ②：Was it fine on Thursday?<br>
+    - <u>No, it wasn't.</u><br>
+    Was it fine on Friday, too?（cloudy）<br>
+    - <u>No, it wasn't. It was cloudy.</u><br>
+    ③：Were you at your mother's on Monday?<br>
+    - Yes, I was.<br>
+    Was your sister at your mother's on Monday, too?（at the office）<br>
+    - <u>No, she wasn't. She was at the office.</u><br>
+    <br>
+    例②：Were you at the stationer's at twenty to ten?<br>
+    - <u>No, I wasn't.</u><br>
+    Was John there at that time?<br>
+    - <u>No, he wasn't there, either.</u><br>
+    ①：Was Ann at school on Friday?<br>
+    - <u>No, she wasn't.</u><br>
+    Was Lisa at school on that day?<br>
+    - <u>No, she wasn't there, either.</u><br>
+    ②：Were you at the doctor's at eigght forty on Tuesday?<br>
+    - <u>No, I wasn't.</u><br>
+    Were you at the dentist's at that time on that day?<br>
+    - <u>No, I wasn't at the dentist's, either.</u><br>
+    ③：Was John at home on Saturday?<br>
+    - <u>No, he wasn't.</u><br>
+    Was he at home on Saturday?<br>
+    - <u>No, he wasn't at home on Saturday, either.</u><br>
 
 
