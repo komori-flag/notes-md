@@ -76,107 +76,110 @@ theme:
 # 目录结构
 nav:
   - 主页: index.md
+  - 编程语言: 
+    - C:
+      - 主页: Programme-Language\C\index.md
   - 外国语: 
     - 英语: 
       - 音标:
-        - 主页: LanguageStudy\English\phonetic-symbol\index.md
-        - 元音音标: LanguageStudy\English\phonetic-symbol\Vowels.md
-        - 辅音音标: LanguageStudy\English\phonetic-symbol\Consonants.md
-        - 重音、音节、变音: LanguageStudy\English\phonetic-symbol\AccentMetaphoneSyllable.md
+        - 主页: Foreign-Language\English\phonetic-symbol\index.md
+        - 元音音标: Foreign-Language\English\phonetic-symbol\Vowels.md
+        - 辅音音标: Foreign-Language\English\phonetic-symbol\Consonants.md
+        - 重音、音节、变音: Foreign-Language\English\phonetic-symbol\AccentMetaphoneSyllable.md
 
       - 新概念英语: 
-        - 主页: LanguageStudy\English\NewConceptEnglish\index.md
+        - 主页: Foreign-Language\English\NewConceptEnglish\index.md
         - 第一册:
-          - 主页: LanguageStudy\English\NewConceptEnglish\Frist\index.md
-          - 目录: LanguageStudy\English\NewConceptEnglish\Frist\Contents.md
+          - 主页: Foreign-Language\English\NewConceptEnglish\Frist\index.md
+          - 目录: Foreign-Language\English\NewConceptEnglish\Frist\Contents.md
           - 1-10: 
-            - Lesson 1: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-1.md
-            - Lesson 2: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-2.md
-            - Lesson 3: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-3.md
-            - Lesson 4: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-4.md
-            - Lesson 5: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-5.md
-            - Lesson 6: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-6.md
-            - Lesson 7: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-7.md
-            - Lesson 8: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-8.md
-            - Lesson 9: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-9.md
-            - Lesson 10: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-10.md
+            - Lesson 1: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-1.md
+            - Lesson 2: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-2.md
+            - Lesson 3: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-3.md
+            - Lesson 4: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-4.md
+            - Lesson 5: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-5.md
+            - Lesson 6: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-6.md
+            - Lesson 7: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-7.md
+            - Lesson 8: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-8.md
+            - Lesson 9: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-9.md
+            - Lesson 10: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-10.md
           - 11-20: 
-            - Lesson 11: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-11.md
-            - Lesson 12: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-12.md
-            - Lesson 13: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-13.md
-            - Lesson 14: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-14.md
-            - Lesson 15: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-15.md
-            - Lesson 16: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-16.md
-            - Lesson 17: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-17.md
-            - Lesson 18: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-18.md
-            - Lesson 19: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-19.md
-            - Lesson 20: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-20.md
+            - Lesson 11: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-11.md
+            - Lesson 12: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-12.md
+            - Lesson 13: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-13.md
+            - Lesson 14: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-14.md
+            - Lesson 15: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-15.md
+            - Lesson 16: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-16.md
+            - Lesson 17: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-17.md
+            - Lesson 18: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-18.md
+            - Lesson 19: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-19.md
+            - Lesson 20: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-20.md
           - 21-30:
-            - Lesson 21: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-21.md
-            - Lesson 22: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-22.md
-            - Lesson 23: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-23.md
-            - Lesson 24: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-24.md
-            - Lesson 25: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-25.md
-            - Lesson 26: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-26.md
-            - Lesson 27: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-27.md
-            - Lesson 28: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-28.md
-            - Lesson 29: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-29.md
-            - Lesson 30: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-30.md
+            - Lesson 21: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-21.md
+            - Lesson 22: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-22.md
+            - Lesson 23: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-23.md
+            - Lesson 24: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-24.md
+            - Lesson 25: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-25.md
+            - Lesson 26: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-26.md
+            - Lesson 27: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-27.md
+            - Lesson 28: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-28.md
+            - Lesson 29: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-29.md
+            - Lesson 30: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-30.md
           - 31-40:
-            - Lesson 31: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-31.md
-            - Lesson 32: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-32.md
-            - Lesson 33: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-33.md
-            - Lesson 34: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-34.md
-            - Lesson 35: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-35.md
-            - Lesson 36: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-36.md
-            - Lesson 37: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-37.md
-            - Lesson 38: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-38.md
-            - Lesson 39: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-39.md
-            - Lesson 40: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-40.md
+            - Lesson 31: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-31.md
+            - Lesson 32: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-32.md
+            - Lesson 33: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-33.md
+            - Lesson 34: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-34.md
+            - Lesson 35: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-35.md
+            - Lesson 36: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-36.md
+            - Lesson 37: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-37.md
+            - Lesson 38: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-38.md
+            - Lesson 39: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-39.md
+            - Lesson 40: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-40.md
           - 41-50:  
-            - Lesson 41: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-41.md
-            - Lesson 42: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-42.md
-            - Lesson 43: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-43.md
-            - Lesson 44: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-44.md
-            - Lesson 45: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-45.md
-            - Lesson 46: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-46.md
-            - Lesson 47: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-47.md
-            - Lesson 48: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-48.md
-            - Lesson 49: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-49.md
-            - Lesson 50: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-50.md
+            - Lesson 41: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-41.md
+            - Lesson 42: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-42.md
+            - Lesson 43: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-43.md
+            - Lesson 44: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-44.md
+            - Lesson 45: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-45.md
+            - Lesson 46: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-46.md
+            - Lesson 47: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-47.md
+            - Lesson 48: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-48.md
+            - Lesson 49: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-49.md
+            - Lesson 50: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-50.md
           - 51-60: 
-            - Lesson 51: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-51.md
-            - Lesson 52: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-52.md
-            - Lesson 53: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-53.md
-            - Lesson 54: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-54.md
-            - Lesson 55: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-55.md
-            - Lesson 56: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-56.md
-            - Lesson 57: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-57.md
-            - Lesson 58: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-58.md
-            - Lesson 59: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-59.md
-            - Lesson 60: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-60.md
+            - Lesson 51: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-51.md
+            - Lesson 52: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-52.md
+            - Lesson 53: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-53.md
+            - Lesson 54: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-54.md
+            - Lesson 55: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-55.md
+            - Lesson 56: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-56.md
+            - Lesson 57: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-57.md
+            - Lesson 58: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-58.md
+            - Lesson 59: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-59.md
+            - Lesson 60: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-60.md
           - 61-70: 
-            - Lesson 61: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-61.md
-            - Lesson 62: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-62.md
-            - Lesson 63: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-63.md
-            - Lesson 64: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-64.md
-            - Lesson 65: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-65.md
-            - Lesson 66: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-66.md
-            - Lesson 67: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-67.md
-            - Lesson 68: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-68.md
-            - Lesson 69: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-69.md
-            - Lesson 70: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-70.md
+            - Lesson 61: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-61.md
+            - Lesson 62: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-62.md
+            - Lesson 63: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-63.md
+            - Lesson 64: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-64.md
+            - Lesson 65: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-65.md
+            - Lesson 66: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-66.md
+            - Lesson 67: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-67.md
+            - Lesson 68: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-68.md
+            - Lesson 69: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-69.md
+            - Lesson 70: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-70.md
           - 71-80:
-            - Lesson 71: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-71.md
-            - Lesson 72: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-72.md
-            - Lesson 73: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-73.md
-            - Lesson 74: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-74.md
-            - Lesson 75: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-75.md
-            - Lesson 76: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-76.md
-            - Lesson 77: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-77.md
-            - Lesson 78: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-78.md
-            - Lesson 79: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-79.md
-            - Lesson 80: LanguageStudy\English\NewConceptEnglish\Frist\Lesson-80.md
+            - Lesson 71: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-71.md
+            - Lesson 72: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-72.md
+            - Lesson 73: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-73.md
+            - Lesson 74: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-74.md
+            - Lesson 75: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-75.md
+            - Lesson 76: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-76.md
+            - Lesson 77: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-77.md
+            - Lesson 78: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-78.md
+            - Lesson 79: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-79.md
+            - Lesson 80: Foreign-Language\English\NewConceptEnglish\Frist\Lesson-80.md
 
         # - 第二册:
         
@@ -197,4 +200,4 @@ markdown_extensions:
 
 # 版权信息
 copyright:
-  <div>提示信息显示</div>
+  # <div>提示信息显示</div>
