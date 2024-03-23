@@ -1,0 +1,203 @@
+# 站点名称
+site_name: 小森的学习笔记
+# 站点网址
+site_url: https://notes.komoriwork.com
+# 作者名
+site_author: komori
+# 存储库的链接
+repo_url: https://github.com/komori-flag/notes-md
+# 存储库的链接的名称
+repo_name: notes-md
+
+extra: 
+  # 链接主页
+  homepage: https://notes.komoriwork.com
+
+  # 是否隐藏页脚显示“使用 MkDocs 制造”
+  generator: true
+  # 版本选择器
+  version: mike
+
+theme:
+  # 文档风格
+  name: material
+
+  # 文档语言类型
+  language: zh
+
+  # logo
+  # logo: {图片地址}
+
+  # 网站图标
+  # favicon: {icon文件地址}
+
+
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  
+  features: 
+    # 返回顶部按钮
+    - navigation.top
+
+    # 锚点跟随
+    - toc.follow
+    
+    # 导航集成
+    # - toc.integrate
+
+# 目录结构
+nav:
+  - 主页: index.md
+  - 编程语言: 
+    - C:
+      - 主页: StudyNotes\Programme-Language\C\index.md
+  - 外国语: 
+    - 英语: 
+      - 音标:
+        - 主页: StudyNotes\Foreign-Language\English\phonetic-symbol\index.md
+        - 元音音标: StudyNotes\Foreign-Language\English\phonetic-symbol\Vowels.md
+        - 辅音音标: StudyNotes\Foreign-Language\English\phonetic-symbol\Consonants.md
+        - 重音、音节、变音: StudyNotes\Foreign-Language\English\phonetic-symbol\AccentMetaphoneSyllable.md
+
+      - 新概念英语: 
+        - 主页: StudyNotes\Foreign-Language\English\NewConceptEnglish\index.md
+        - 第一册:
+          - 主页: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\index.md
+          - 目录: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Contents.md
+          - 1-10: 
+            - Lesson 1: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-1.md
+            - Lesson 2: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-2.md
+            - Lesson 3: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-3.md
+            - Lesson 4: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-4.md
+            - Lesson 5: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-5.md
+            - Lesson 6: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-6.md
+            - Lesson 7: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-7.md
+            - Lesson 8: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-8.md
+            - Lesson 9: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-9.md
+            - Lesson 10: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-10.md
+          - 11-20: 
+            - Lesson 11: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-11.md
+            - Lesson 12: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-12.md
+            - Lesson 13: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-13.md
+            - Lesson 14: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-14.md
+            - Lesson 15: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-15.md
+            - Lesson 16: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-16.md
+            - Lesson 17: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-17.md
+            - Lesson 18: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-18.md
+            - Lesson 19: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-19.md
+            - Lesson 20: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-20.md
+          - 21-30:
+            - Lesson 21: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-21.md
+            - Lesson 22: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-22.md
+            - Lesson 23: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-23.md
+            - Lesson 24: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-24.md
+            - Lesson 25: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-25.md
+            - Lesson 26: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-26.md
+            - Lesson 27: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-27.md
+            - Lesson 28: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-28.md
+            - Lesson 29: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-29.md
+            - Lesson 30: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-30.md
+          - 31-40:
+            - Lesson 31: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-31.md
+            - Lesson 32: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-32.md
+            - Lesson 33: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-33.md
+            - Lesson 34: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-34.md
+            - Lesson 35: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-35.md
+            - Lesson 36: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-36.md
+            - Lesson 37: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-37.md
+            - Lesson 38: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-38.md
+            - Lesson 39: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-39.md
+            - Lesson 40: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-40.md
+          - 41-50:  
+            - Lesson 41: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-41.md
+            - Lesson 42: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-42.md
+            - Lesson 43: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-43.md
+            - Lesson 44: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-44.md
+            - Lesson 45: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-45.md
+            - Lesson 46: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-46.md
+            - Lesson 47: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-47.md
+            - Lesson 48: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-48.md
+            - Lesson 49: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-49.md
+            - Lesson 50: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-50.md
+          - 51-60: 
+            - Lesson 51: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-51.md
+            - Lesson 52: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-52.md
+            - Lesson 53: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-53.md
+            - Lesson 54: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-54.md
+            - Lesson 55: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-55.md
+            - Lesson 56: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-56.md
+            - Lesson 57: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-57.md
+            - Lesson 58: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-58.md
+            - Lesson 59: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-59.md
+            - Lesson 60: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-60.md
+          - 61-70: 
+            - Lesson 61: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-61.md
+            - Lesson 62: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-62.md
+            - Lesson 63: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-63.md
+            - Lesson 64: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-64.md
+            - Lesson 65: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-65.md
+            - Lesson 66: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-66.md
+            - Lesson 67: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-67.md
+            - Lesson 68: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-68.md
+            - Lesson 69: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-69.md
+            - Lesson 70: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-70.md
+          - 71-80:
+            - Lesson 71: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-71.md
+            - Lesson 72: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-72.md
+            - Lesson 73: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-73.md
+            - Lesson 74: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-74.md
+            - Lesson 75: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-75.md
+            - Lesson 76: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-76.md
+            - Lesson 77: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-77.md
+            - Lesson 78: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-78.md
+            - Lesson 79: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-79.md
+            - Lesson 80: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-80.md
+
+        # - 第二册:
+        
+        # - 第三册:
+        
+        # - 第四册:
+  - 关于: about.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+
+
+# 版权信息
+copyright:
+  # <div>提示信息显示</div>

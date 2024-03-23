@@ -11,7 +11,7 @@ wait a <font color=orange>minute</font>.（等一下）
 
 “why can't”这种说法其实是“why can”的反义，意思为“为什么不能...?”。
 
-这样的用法在[新概念英语第二册](../Second/index)当中会较为普遍。
+这样的用法在[新概念英语第二册](../Second/index.md)当中会较为普遍。
 
 
 ---
