@@ -143,7 +143,7 @@
 
 [Lesson 60：What's the time?（几点钟？）](./Lesson-60.md)
 
-## 61 - 70
+### 61 - 70
 
 [Lesson 61：A bad cold（重感冒）](./Lesson-61.md)
 
@@ -165,7 +165,7 @@
 
 [Lesson 70：When were they there?（他们是什么时候在哪里的？）](./Lesson-70.md)
 
-## 71 - 80
+### 71 - 80
 
 [Lesson 71：He's awful!（他讨厌透了！）](./Lesson-71.md)
 
