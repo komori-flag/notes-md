@@ -186,6 +186,9 @@ nav:
         # - 第三册:
         
         # - 第四册:
+    - 日语:
+      - 记录:
+        - 量词: StudyNotes\Foreign-Language\Japanese\notes\quantifier.md
   - 关于: about.md
 
 markdown_extensions:
