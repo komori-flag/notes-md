@@ -79,6 +79,18 @@ nav:
   - 编程语言: 
     - C:
       - 主页: StudyNotes\Programme-Language\C\index.md
+    - C#: 
+      - 主页: StudyNotes\Programme-Language\C#\index.md
+      - 2.文件扩展名: StudyNotes\Programme-Language\C#\2-FileExtension.md
+      - 3.关于C#的运行环境: StudyNotes\Programme-Language\C#\3-About-C#-Run-Environment.md
+      - 4.Visual Studio: StudyNotes\Programme-Language\C#\4-VisualStudioClient.md
+      - 5.C#的代码结构: StudyNotes\Programme-Language\C#\5-CodeStructure.md
+    - Web:
+      - 主页: StudyNotes\Programme-Language\Web\index.md
+      - 组件:
+        - VueJs:
+          - Vue2:
+            - 1.初次认识 Vue: StudyNotes\Programme-Language\Web\Components\VueJs\Vue2\1-Introduction-to-Vue.md
   - 外国语: 
     - 英语: 
       - 音标:
