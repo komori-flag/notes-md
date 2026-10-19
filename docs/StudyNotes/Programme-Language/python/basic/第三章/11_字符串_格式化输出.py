@@ -1,0 +1,37 @@
+name = "张三"
+gender = "男"
+weight = 62.2
+age = 25
+
+# 1. 直接通过字符串拼接的方式输出
+"""
++ weight + "..."
+TypeError: can only concatenate str (not "float") to str
+
+age + "岁"
+TypeError: can only concatenate str (not "int") to str
+
+可以看到，直接通过字符串拼接的方式输出时，只能字符串类型之间进行，不能将其它类型和字符串类型进行拼接。
+"""
+# print("姓名：" + name + "，性别：" + gender + "，体重：" + weight + "kg，年龄：" + age + "岁")
+print("姓名：" + name + "，性别：" + gender + "，体重：" + str(weight) + "kg，年龄：" + str(age) + "岁")
+
+# 2. 使用占位符的方式输出
+print("姓名：%s，性别：%s，体重：%fkg，年龄：%d岁" % (name, gender, weight, age))
+
+# 通过占位符的方式输出时，会将不同类型的数据隐式转换为指定类型，然后进行拼接输出。
+info = "姓名：%d，性别：{1}，体重：{2}kg，年龄：%d岁" % (name, gender, weight, age)
+"""
+姓名：%d ... % (name, ...)
+TypeError: %d format: a real number is required, not str
+
+name 字符类型无法转换为 int 类型，所以会报错。
+"""
+info2 = "姓名：%s，性别：%s，体重：%ikg，年龄：%d岁" % (name, gender, weight, age)
+"""
+weight 为 float 类型，%i 格式输出整数，会进行隐式转换，结果为 62，不会进行四舍五入。
+"""
+print("姓名：{0}，性别：{1}，体重：{2}kg，年龄：{3}岁".format(name, gender, weight, age))
+
+# 3. 使用 f-string 方式（类似模板字符串）输出
+print(f"姓名：{name}，性别：{gender}，体重：{weight}kg，年龄：{age}岁")

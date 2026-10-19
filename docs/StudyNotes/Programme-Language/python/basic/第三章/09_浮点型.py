@@ -1,0 +1,31 @@
+# 浮点型指带有小数点的数值，如 3.14、2.718、1.61803398875。
+
+weight = 75.5
+balance = 99.99
+price = 1999.00
+out_temp = -36.5
+
+print("Weight:", weight, type(weight))
+print("Balance:", balance, type(balance))
+print("Price:", price, type(price))
+print("Out temperature:", out_temp, type(out_temp))
+
+# 浮点型的科学计数法表示法：
+speed_of_sound = 3.4e+2 # 3.4 乘以 10 的 2 次方，等于 340
+print("Speed of sound:", speed_of_sound, type(speed_of_sound))
+
+world_population = 7.8e9 # 7.8 乘以 10 的 9 次方，等于 7800000000
+print("World population:", world_population, type(world_population))
+
+distance_sun_earth = 1.496E8 # 1.496 乘以 10 的 8 次方，等于 1496000000
+print("Distance sun-earth:", distance_sun_earth, type(distance_sun_earth))
+
+speed_of_light = 2.998E+8 # 2.998 乘以 10 的 8 次方，等于 2998000000
+print("Speed of light:", speed_of_light, type(speed_of_light))
+
+# 也可以表示负数的浮点型
+one_ml = 1e-3 # 1 除以 10 的 3 次方，等于 0.001
+print("One milliliter:", one_ml, type(one_ml))
+
+one_mg = 1E-3 # 1 乘以 10 的 -3 次方，等于 0.001
+print("One milligram:", one_mg, type(one_mg))

@@ -1,0 +1,13 @@
+# 单引号 ' 与 " 同等，不允许换行
+message1 = "Hello, world!"
+message2 = 'Hello, world!'
+# message1_1 = "Hello, 
+# world!" # 错误：字符串文本未终止
+
+# 三引号可以跨行，且可以作为多行注释使用。三双引号还可以作为文档字符串进行使用。
+message3 = """Hello, world!"""
+message3_1 = '''Hello, 
+world!'''
+message4 = '''Hello, world!'''
+message4_1 = """Hello,  
+world!"""
