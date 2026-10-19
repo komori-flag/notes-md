@@ -1,3 +1,11 @@
+# @snippet example
+# name、age、weight都是标识符
+name = 张三'
+age = 20
+weight = 70
+# @end
+
+# @snippet rules
 # 能包含：字母、数字、下划线（_）
 name2 = "Tom"
 age_2 = 20
@@ -35,3 +43,4 @@ print("Tom")  # 错误：print不是一个可执行的函数
 userName = "Tom" # 小驼峰命名法（首字母小写，后续单词首字母大写）
 UserName = "Tom" # 大驼峰命名法（所有单词首字母小写）
 user_name = "Tom" # 蛇形命名法（所有单词用下划线连接，Python推荐使用）
+# @end
