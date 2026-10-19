@@ -1,10 +1,9 @@
 # 站点名称
 site_name: 小森的学习笔记
 # 站点网址
-site_url: https://notes.komoriwork.com
+site_url: https://notes.komoriwork.top
 # 作者名
 site_author: komori
-# 存储库的链接
 repo_url: https://github.com/komori-flag/notes-md
 # 存储库的链接的名称
 repo_name: notes-md
@@ -76,6 +75,21 @@ theme:
 # 目录结构
 nav:
   - 主页: index.md
+  - 数学:
+    - 1.主页（数学概论）: StudyNotes\Math\index.md
+    - 2.小数字的加法与减法: StudyNotes\Math\2-小数字的加法与减法.md
+    - 3.小数字的乘法与除法: StudyNotes\Math\3-小数字的乘法与除法.md
+    - 4.理解分数、假分数和带分数: StudyNotes\Math\4-理解分数、假分数和带分数.md
+    - 5.大整数的位值与估算: StudyNotes\Math\5-大整数的位值与估算.md
+    - 6.十进制：记法与运算: StudyNotes\Math\6-十进制：记法与运算.md
+    - 7.大数的加法与减法: StudyNotes\Math\7-大数的加法与减法.md
+    - 9.分数、小数和百分比之间的转换: StudyNotes\Math\9-分数、小数和百分比之间的转换.md
+    - 10.算术的分配律: StudyNotes\Math\10-算术的分配律.md
+    - 11.大数乘法: StudyNotes\Math\11-大数乘法.md
+    - 12.大数除法: StudyNotes\Math\12-大数除法.md
+    - 13.负数: StudyNotes\Math\13-负数.md
+    - 14.指数: StudyNotes\Math\14-指数.md
+    - 15.算术运算顺序: StudyNotes\Math\15-算术运算顺序.md
   - 编程语言: 
     - C:
       - 主页: StudyNotes\Programme-Language\C\index.md
@@ -85,12 +99,30 @@ nav:
       - 3.关于C#的运行环境: StudyNotes\Programme-Language\C#\3-About-C#-Run-Environment.md
       - 4.Visual Studio: StudyNotes\Programme-Language\C#\4-VisualStudioClient.md
       - 5.C#的代码结构: StudyNotes\Programme-Language\C#\5-CodeStructure.md
-    - Web:
-      - 主页: StudyNotes\Programme-Language\Web\index.md
-      - 组件:
-        - VueJs:
-          - Vue2:
-            - 1.初次认识 Vue: StudyNotes\Programme-Language\Web\Components\VueJs\Vue2\1-Introduction-to-Vue.md
+    - Python:
+      - 主页: StudyNotes\Programme-Language\python\index.md
+      - 基础语法:
+        - 第三章:
+          - 主页: StudyNotes\Programme-Language\python\basic\第三章\index.md
+          - 字面量: StudyNotes\Programme-Language\python\basic\第三章\01-字面量.md
+          - 变量: StudyNotes\Programme-Language\python\basic\第三章\02-变量.md
+          - 标识符: StudyNotes\Programme-Language\python\basic\第三章\03-标识符.md
+          - 常量: StudyNotes\Programme-Language\python\basic\第三章\04-常量.md
+          - 数据类型概述: StudyNotes\Programme-Language\python\basic\第三章\07-数据类型.md
+          - 整型类型: StudyNotes\Programme-Language\python\basic\第三章\08-整型类型.md
+          - 浮点型: StudyNotes\Programme-Language\python\basic\第三章\09-浮点型.md
+          - 字符串的四种定义方式: StudyNotes\Programme-Language\python\basic\第三章\10-字符串的四种定义方式.md
+          - 字符串的格式化输出: StudyNotes\Programme-Language\python\basic\第三章\11-字符串的格式化输出.md
+          - 字符串占位符的精度控制: StudyNotes\Programme-Language\python\basic\第三章\12-字符串占位符的精度控制.md
+          - 浮点型占位符的精度控制: StudyNotes\Programme-Language\python\basic\第三章\13-浮点型占位符的精度控制.md
+          - 整型占位符的精度控制: StudyNotes\Programme-Language\python\basic\第三章\14-整型占位符的精度控制.md
+        - 第四章:
+          - 四：嵌套分支: StudyNotes\Programme-Language\python\basic\第四章\04_嵌套分支.md
+          - 五：while循环: StudyNotes\Programme-Language\python\basic\第四章\05_while循环.md
+      # - 组件:
+      #   - VueJs:
+      #     - Vue2:
+      #       - 1.初次认识 Vue: StudyNotes\Programme-Language\Web\Components\VueJs\Vue2\1-Introduction-to-Vue.md
   - 外国语: 
     - 英语: 
       - 音标:
@@ -209,10 +241,22 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
+  - pymdownx.arithmatex:
+      generic: true
   - admonition
   - pymdownx.details
+
+# 数学公式渲染 (KaTeX)
+extra_css:
+  - https://unpkg.com/katex@0.16.11/dist/katex.min.css
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0.16.11/dist/katex.min.js
+  - https://unpkg.com/katex@0.16.11/dist/contrib/auto-render.min.js
 
 
 # 版权信息
 copyright:
-  # <div>提示信息显示</div>
+  ''
