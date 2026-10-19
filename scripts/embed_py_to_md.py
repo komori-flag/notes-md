@@ -1,11 +1,28 @@
-"""将 Python 源码嵌入到对应的 Markdown 文档中"""
+"""将 scripts/py_src/ 下的 Python 源码嵌入到 docs 中对应的 Markdown 文档
+
+源码刻意放在 docs/ 之外：docs/ 下的任何文件都会被 mkdocs 原样复制到站点，
+.py 放进去就会被公开访问。
+
+用法（在仓库根目录执行）：
+    python scripts/embed_py_to_md.py
+"""
 import pathlib
 
-py_dir = pathlib.Path("docs/StudyNotes/Programme-Language/python/basic/第三章")
+ROOT = pathlib.Path(__file__).resolve().parent.parent
 
+# 源码目录（不参与站点构建）
+SRC_ROOT = ROOT / "scripts/py_src"
+# 对应文档目录
+MD_ROOT = ROOT / "docs/StudyNotes/Programme-Language/python/basic"
+
+CHAPTER = "第三章"
+py_dir = SRC_ROOT / CHAPTER
+md_dir = MD_ROOT / CHAPTER
+
+# (源码文件名, 文档文件名, 文档标题)
 pairs = [
-    ("07_数据类型.py", "07-数据类型.md", "数据类型概述"),
-    ("08_整型类型.py", "08-整型类型.md", "整型类型"),
+    ("07-数据类型.py", "07-数据类型.md", "数据类型概述"),
+    ("08-整型类型.py", "08-整型类型.md", "整型类型"),
     ("09_浮点型.py", "09-浮点型.md", "浮点型"),
     ("10_字符串_四种定义方式.py", "10-字符串的四种定义方式.md", "字符串的四种定义方式"),
     ("11_字符串_格式化输出.py", "11-字符串的格式化输出.md", "字符串的格式化输出"),
@@ -27,9 +44,9 @@ descriptions = {
 
 for py_file, md_file, title_text in pairs:
     py_path = py_dir / py_file
-    md_path = py_dir / md_file
+    md_path = md_dir / md_file
 
-    py_content = py_path.read_text(encoding="utf-8")
+    py_content = py_path.read_text(encoding="utf-8").strip("\n")
 
     desc = descriptions[md_file]
 
