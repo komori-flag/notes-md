@@ -62,13 +62,22 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
   
-  features: 
+  features:
     # 返回顶部按钮
     - navigation.top
 
     # 锚点跟随
     - toc.follow
-    
+
+    # 代码块右下角「复制」按钮
+    - content.code.copy
+
+    # 代码块行号注解（在注释里写 # (1)，下方接有序列表即可）
+    # 例：
+    #   print("张三")  # (1)
+    #   1. 也可以写中文说明
+    - content.code.annotate
+
     # 导航集成
     # - toc.integrate
 
@@ -236,6 +245,8 @@ nav:
   - 关于: about.md
 
 markdown_extensions:
+  # 脚注：正文写 [^1]，文末写 [^1]: 解释，渲染成带上标编号的尾注
+  - footnotes
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
