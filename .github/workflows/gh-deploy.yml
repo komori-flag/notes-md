@@ -1,0 +1,47 @@
+name: Deploy StudyNotes to GitHub Pages
+
+on:
+  push:
+    branches:
+      - master
+  # 允许在 Actions 页面手动触发一次，便于排查
+  workflow_dispatch:
+
+# gh-deploy 需要向 gh-pages 分支推送，故申请写权限
+permissions:
+  contents: write
+
+# 同一时刻只跑一个部署，后到的排队；不取消进行中的，避免 gh-pages 推到一半被打断
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ghp-import 生成的提交需要作者信息，runner 上默认没有配置
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      # 先单独构建一次：构建失败会停在 build 日志里，能直接看出是哪篇文档出错
+      - name: Build site
+        run: mkdocs build
+
+      - name: Deploy to gh-pages
+        run: mkdocs gh-deploy --force
