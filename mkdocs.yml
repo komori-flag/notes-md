@@ -85,154 +85,154 @@ theme:
 nav:
   - 主页: index.md
   - 数学:
-    - 1.主页（数学概论）: StudyNotes\Math\index.md
-    - 2.小数字的加法与减法: StudyNotes\Math\2-小数字的加法与减法.md
-    - 3.小数字的乘法与除法: StudyNotes\Math\3-小数字的乘法与除法.md
-    - 4.理解分数、假分数和带分数: StudyNotes\Math\4-理解分数、假分数和带分数.md
-    - 5.大整数的位值与估算: StudyNotes\Math\5-大整数的位值与估算.md
-    - 6.十进制：记法与运算: StudyNotes\Math\6-十进制：记法与运算.md
-    - 7.大数的加法与减法: StudyNotes\Math\7-大数的加法与减法.md
-    - 9.分数、小数和百分比之间的转换: StudyNotes\Math\9-分数、小数和百分比之间的转换.md
-    - 10.算术的分配律: StudyNotes\Math\10-算术的分配律.md
-    - 11.大数乘法: StudyNotes\Math\11-大数乘法.md
-    - 12.大数除法: StudyNotes\Math\12-大数除法.md
-    - 13.负数: StudyNotes\Math\13-负数.md
-    - 14.指数: StudyNotes\Math\14-指数.md
-    - 15.算术运算顺序: StudyNotes\Math\15-算术运算顺序.md
+    - 1.主页（数学概论）: StudyNotes/Math/index.md
+    - 2.小数字的加法与减法: StudyNotes/Math/2-小数字的加法与减法.md
+    - 3.小数字的乘法与除法: StudyNotes/Math/3-小数字的乘法与除法.md
+    - 4.理解分数、假分数和带分数: StudyNotes/Math/4-理解分数、假分数和带分数.md
+    - 5.大整数的位值与估算: StudyNotes/Math/5-大整数的位值与估算.md
+    - 6.十进制：记法与运算: StudyNotes/Math/6-十进制：记法与运算.md
+    - 7.大数的加法与减法: StudyNotes/Math/7-大数的加法与减法.md
+    - 9.分数、小数和百分比之间的转换: StudyNotes/Math/9-分数、小数和百分比之间的转换.md
+    - 10.算术的分配律: StudyNotes/Math/10-算术的分配律.md
+    - 11.大数乘法: StudyNotes/Math/11-大数乘法.md
+    - 12.大数除法: StudyNotes/Math/12-大数除法.md
+    - 13.负数: StudyNotes/Math/13-负数.md
+    - 14.指数: StudyNotes/Math/14-指数.md
+    - 15.算术运算顺序: StudyNotes/Math/15-算术运算顺序.md
   - 编程语言: 
     - C:
-      - 主页: StudyNotes\Programme-Language\C\index.md
+      - 主页: StudyNotes/Programme-Language/C/index.md
     - C#: 
-      - 主页: StudyNotes\Programme-Language\C#\index.md
-      - 2.文件扩展名: StudyNotes\Programme-Language\C#\2-FileExtension.md
-      - 3.关于C#的运行环境: StudyNotes\Programme-Language\C#\3-About-C#-Run-Environment.md
-      - 4.Visual Studio: StudyNotes\Programme-Language\C#\4-VisualStudioClient.md
-      - 5.C#的代码结构: StudyNotes\Programme-Language\C#\5-CodeStructure.md
+      - 主页: StudyNotes/Programme-Language/C#/index.md
+      - 2.文件扩展名: StudyNotes/Programme-Language/C#/2-FileExtension.md
+      - 3.关于C#的运行环境: StudyNotes/Programme-Language/C#/3-About-C#-Run-Environment.md
+      - 4.Visual Studio: StudyNotes/Programme-Language/C#/4-VisualStudioClient.md
+      - 5.C#的代码结构: StudyNotes/Programme-Language/C#/5-CodeStructure.md
     - Python:
-      - 主页: StudyNotes\Programme-Language\python\index.md
+      - 主页: StudyNotes/Programme-Language/python/index.md
       - 基础语法:
         - 第三章:
-          - 主页: StudyNotes\Programme-Language\python\basic\第三章\index.md
-          - 字面量: StudyNotes\Programme-Language\python\basic\第三章\01-字面量.md
-          - 变量: StudyNotes\Programme-Language\python\basic\第三章\02-变量.md
-          - 标识符: StudyNotes\Programme-Language\python\basic\第三章\03-标识符.md
-          - 常量: StudyNotes\Programme-Language\python\basic\第三章\04-常量.md
-          - 数据类型概述: StudyNotes\Programme-Language\python\basic\第三章\07-数据类型.md
-          - 整型类型: StudyNotes\Programme-Language\python\basic\第三章\08-整型类型.md
-          - 浮点型: StudyNotes\Programme-Language\python\basic\第三章\09-浮点型.md
-          - 字符串的四种定义方式: StudyNotes\Programme-Language\python\basic\第三章\10-字符串的四种定义方式.md
-          - 字符串的格式化输出: StudyNotes\Programme-Language\python\basic\第三章\11-字符串的格式化输出.md
-          - 字符串占位符的精度控制: StudyNotes\Programme-Language\python\basic\第三章\12-字符串占位符的精度控制.md
-          - 浮点型占位符的精度控制: StudyNotes\Programme-Language\python\basic\第三章\13-浮点型占位符的精度控制.md
-          - 整型占位符的精度控制: StudyNotes\Programme-Language\python\basic\第三章\14-整型占位符的精度控制.md
+          - 主页: StudyNotes/Programme-Language/python/basic/第三章/index.md
+          - 字面量: StudyNotes/Programme-Language/python/basic/第三章/01-字面量.md
+          - 变量: StudyNotes/Programme-Language/python/basic/第三章/02-变量.md
+          - 标识符: StudyNotes/Programme-Language/python/basic/第三章/03-标识符.md
+          - 常量: StudyNotes/Programme-Language/python/basic/第三章/04-常量.md
+          - 数据类型概述: StudyNotes/Programme-Language/python/basic/第三章/07-数据类型.md
+          - 整型类型: StudyNotes/Programme-Language/python/basic/第三章/08-整型类型.md
+          - 浮点型: StudyNotes/Programme-Language/python/basic/第三章/09-浮点型.md
+          - 字符串的四种定义方式: StudyNotes/Programme-Language/python/basic/第三章/10-字符串的四种定义方式.md
+          - 字符串的格式化输出: StudyNotes/Programme-Language/python/basic/第三章/11-字符串的格式化输出.md
+          - 字符串占位符的精度控制: StudyNotes/Programme-Language/python/basic/第三章/12-字符串占位符的精度控制.md
+          - 浮点型占位符的精度控制: StudyNotes/Programme-Language/python/basic/第三章/13-浮点型占位符的精度控制.md
+          - 整型占位符的精度控制: StudyNotes/Programme-Language/python/basic/第三章/14-整型占位符的精度控制.md
         - 第四章:
-          - 四：嵌套分支: StudyNotes\Programme-Language\python\basic\第四章\04_嵌套分支.md
-          - 五：while循环: StudyNotes\Programme-Language\python\basic\第四章\05_while循环.md
+          - 四：嵌套分支: StudyNotes/Programme-Language/python/basic/第四章/04_嵌套分支.md
+          - 五：while循环: StudyNotes/Programme-Language/python/basic/第四章/05_while循环.md
       # - 组件:
       #   - VueJs:
       #     - Vue2:
-      #       - 1.初次认识 Vue: StudyNotes\Programme-Language\Web\Components\VueJs\Vue2\1-Introduction-to-Vue.md
+      #       - 1.初次认识 Vue: StudyNotes/Programme-Language/Web/Components/VueJs/Vue2/1-Introduction-to-Vue.md
   - 外国语: 
     - 英语: 
       - 音标:
-        - 主页: StudyNotes\Foreign-Language\English\phonetic-symbol\index.md
-        - 元音音标: StudyNotes\Foreign-Language\English\phonetic-symbol\Vowels.md
-        - 辅音音标: StudyNotes\Foreign-Language\English\phonetic-symbol\Consonants.md
-        - 重音、音节、变音: StudyNotes\Foreign-Language\English\phonetic-symbol\AccentMetaphoneSyllable.md
+        - 主页: StudyNotes/Foreign-Language/English/phonetic-symbol/index.md
+        - 元音音标: StudyNotes/Foreign-Language/English/phonetic-symbol/Vowels.md
+        - 辅音音标: StudyNotes/Foreign-Language/English/phonetic-symbol/Consonants.md
+        - 重音、音节、变音: StudyNotes/Foreign-Language/English/phonetic-symbol/AccentMetaphoneSyllable.md
 
       - 新概念英语: 
-        - 主页: StudyNotes\Foreign-Language\English\NewConceptEnglish\index.md
+        - 主页: StudyNotes/Foreign-Language/English/NewConceptEnglish/index.md
         - 第一册:
-          - 主页: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\index.md
-          - 目录: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Contents.md
+          - 主页: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/index.md
+          - 目录: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Contents.md
           - 1-10: 
-            - Lesson 1: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-1.md
-            - Lesson 2: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-2.md
-            - Lesson 3: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-3.md
-            - Lesson 4: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-4.md
-            - Lesson 5: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-5.md
-            - Lesson 6: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-6.md
-            - Lesson 7: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-7.md
-            - Lesson 8: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-8.md
-            - Lesson 9: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-9.md
-            - Lesson 10: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-10.md
+            - Lesson 1: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-1.md
+            - Lesson 2: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-2.md
+            - Lesson 3: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-3.md
+            - Lesson 4: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-4.md
+            - Lesson 5: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-5.md
+            - Lesson 6: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-6.md
+            - Lesson 7: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-7.md
+            - Lesson 8: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-8.md
+            - Lesson 9: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-9.md
+            - Lesson 10: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-10.md
           - 11-20: 
-            - Lesson 11: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-11.md
-            - Lesson 12: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-12.md
-            - Lesson 13: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-13.md
-            - Lesson 14: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-14.md
-            - Lesson 15: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-15.md
-            - Lesson 16: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-16.md
-            - Lesson 17: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-17.md
-            - Lesson 18: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-18.md
-            - Lesson 19: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-19.md
-            - Lesson 20: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-20.md
+            - Lesson 11: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-11.md
+            - Lesson 12: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-12.md
+            - Lesson 13: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-13.md
+            - Lesson 14: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-14.md
+            - Lesson 15: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-15.md
+            - Lesson 16: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-16.md
+            - Lesson 17: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-17.md
+            - Lesson 18: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-18.md
+            - Lesson 19: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-19.md
+            - Lesson 20: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-20.md
           - 21-30:
-            - Lesson 21: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-21.md
-            - Lesson 22: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-22.md
-            - Lesson 23: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-23.md
-            - Lesson 24: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-24.md
-            - Lesson 25: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-25.md
-            - Lesson 26: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-26.md
-            - Lesson 27: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-27.md
-            - Lesson 28: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-28.md
-            - Lesson 29: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-29.md
-            - Lesson 30: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-30.md
+            - Lesson 21: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-21.md
+            - Lesson 22: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-22.md
+            - Lesson 23: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-23.md
+            - Lesson 24: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-24.md
+            - Lesson 25: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-25.md
+            - Lesson 26: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-26.md
+            - Lesson 27: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-27.md
+            - Lesson 28: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-28.md
+            - Lesson 29: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-29.md
+            - Lesson 30: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-30.md
           - 31-40:
-            - Lesson 31: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-31.md
-            - Lesson 32: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-32.md
-            - Lesson 33: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-33.md
-            - Lesson 34: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-34.md
-            - Lesson 35: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-35.md
-            - Lesson 36: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-36.md
-            - Lesson 37: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-37.md
-            - Lesson 38: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-38.md
-            - Lesson 39: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-39.md
-            - Lesson 40: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-40.md
+            - Lesson 31: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-31.md
+            - Lesson 32: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-32.md
+            - Lesson 33: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-33.md
+            - Lesson 34: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-34.md
+            - Lesson 35: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-35.md
+            - Lesson 36: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-36.md
+            - Lesson 37: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-37.md
+            - Lesson 38: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-38.md
+            - Lesson 39: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-39.md
+            - Lesson 40: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-40.md
           - 41-50:  
-            - Lesson 41: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-41.md
-            - Lesson 42: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-42.md
-            - Lesson 43: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-43.md
-            - Lesson 44: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-44.md
-            - Lesson 45: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-45.md
-            - Lesson 46: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-46.md
-            - Lesson 47: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-47.md
-            - Lesson 48: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-48.md
-            - Lesson 49: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-49.md
-            - Lesson 50: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-50.md
+            - Lesson 41: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-41.md
+            - Lesson 42: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-42.md
+            - Lesson 43: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-43.md
+            - Lesson 44: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-44.md
+            - Lesson 45: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-45.md
+            - Lesson 46: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-46.md
+            - Lesson 47: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-47.md
+            - Lesson 48: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-48.md
+            - Lesson 49: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-49.md
+            - Lesson 50: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-50.md
           - 51-60: 
-            - Lesson 51: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-51.md
-            - Lesson 52: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-52.md
-            - Lesson 53: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-53.md
-            - Lesson 54: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-54.md
-            - Lesson 55: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-55.md
-            - Lesson 56: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-56.md
-            - Lesson 57: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-57.md
-            - Lesson 58: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-58.md
-            - Lesson 59: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-59.md
-            - Lesson 60: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-60.md
+            - Lesson 51: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-51.md
+            - Lesson 52: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-52.md
+            - Lesson 53: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-53.md
+            - Lesson 54: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-54.md
+            - Lesson 55: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-55.md
+            - Lesson 56: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-56.md
+            - Lesson 57: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-57.md
+            - Lesson 58: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-58.md
+            - Lesson 59: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-59.md
+            - Lesson 60: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-60.md
           - 61-70: 
-            - Lesson 61: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-61.md
-            - Lesson 62: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-62.md
-            - Lesson 63: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-63.md
-            - Lesson 64: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-64.md
-            - Lesson 65: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-65.md
-            - Lesson 66: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-66.md
-            - Lesson 67: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-67.md
-            - Lesson 68: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-68.md
-            - Lesson 69: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-69.md
-            - Lesson 70: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-70.md
+            - Lesson 61: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-61.md
+            - Lesson 62: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-62.md
+            - Lesson 63: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-63.md
+            - Lesson 64: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-64.md
+            - Lesson 65: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-65.md
+            - Lesson 66: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-66.md
+            - Lesson 67: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-67.md
+            - Lesson 68: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-68.md
+            - Lesson 69: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-69.md
+            - Lesson 70: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-70.md
           - 71-80:
-            - Lesson 71: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-71.md
-            - Lesson 72: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-72.md
-            - Lesson 73: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-73.md
-            - Lesson 74: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-74.md
-            - Lesson 75: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-75.md
-            - Lesson 76: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-76.md
-            - Lesson 77: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-77.md
-            - Lesson 78: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-78.md
-            - Lesson 79: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-79.md
-            - Lesson 80: StudyNotes\Foreign-Language\English\NewConceptEnglish\Frist\Lesson-80.md
+            - Lesson 71: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-71.md
+            - Lesson 72: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-72.md
+            - Lesson 73: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-73.md
+            - Lesson 74: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-74.md
+            - Lesson 75: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-75.md
+            - Lesson 76: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-76.md
+            - Lesson 77: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-77.md
+            - Lesson 78: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-78.md
+            - Lesson 79: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-79.md
+            - Lesson 80: StudyNotes/Foreign-Language/English/NewConceptEnglish/Frist/Lesson-80.md
 
         # - 第二册:
         
@@ -241,7 +241,7 @@ nav:
         # - 第四册:
     - 日语:
       - 记录:
-        - 量词: StudyNotes\Foreign-Language\Japanese\notes\quantifier.md
+        - 量词: StudyNotes/Foreign-Language/Japanese/notes/quantifier.md
   - 关于: about.md
 
 markdown_extensions:
