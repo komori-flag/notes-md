@@ -1,8 +1,8 @@
 # 数学概论
 
-> 来源：[Professor Dave Explains - Introduction to Mathematics](https://www.youtube.com/watch?v=JbhBdOfMEPs)
+> 来源：[Professor Dave Explains - Introduction to Mathematics](https://www.youtube.com/watch?v=JbhBdOfMEPs&list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK&index=1)
 >
-> 所属系列：[Mathematics (All Of It)](https://www.youtube.com/watch?v=JbhBdOfMEPs&list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK)
+> 所属系列：[Mathematics (All Of It)](https://www.youtube.com/playlist?list=PLybg94GvOJ9FoGQeUMFZ4SWZsr30jlUYK)
 
 ## 一、为什么要学数学？
 

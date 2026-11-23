@@ -99,7 +99,19 @@ nav:
     - 13.负数: StudyNotes/Math/13-负数.md
     - 14.指数: StudyNotes/Math/14-指数.md
     - 15.算术运算顺序: StudyNotes/Math/15-算术运算顺序.md
-  - 编程语言: 
+    - 16.最小公倍数: StudyNotes/Math/16-最小公倍数.md
+    - 17.最大公因数: StudyNotes/Math/17-最大公因数.md
+    - 18.分数的加法与减法: StudyNotes/Math/18-分数的加法与减法.md
+    - 19.分数的乘法与除法: StudyNotes/Math/19-分数的乘法与除法.md
+    - 20.极差、平均数、中位数与众数: StudyNotes/Math/20-极差、平均数、中位数与众数.md
+    - 21.代数入门：使用变量: StudyNotes/Math/21-代数入门：使用变量.md
+    - 22.代数中的基本运算性质: StudyNotes/Math/22-代数中的基本运算性质.md
+    - 23.代数方程及其解: StudyNotes/Math/23-代数方程及其解.md
+    - 24.两边都有变量的方程: StudyNotes/Math/24-两边都有变量的方程.md
+    - 25.代数应用题: StudyNotes/Math/25-代数应用题.md
+    - 26.解代数不等式: StudyNotes/Math/26-解代数不等式.md
+    - 27.平方根、立方根和其他根: StudyNotes/Math/27-平方根、立方根和其他根.md
+  - 编程语言:
     - C:
       - 主页: StudyNotes/Programme-Language/C/index.md
     - C#: 

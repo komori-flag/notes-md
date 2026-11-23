@@ -43,7 +43,8 @@
 .step-p,
 .step-e,
 .step-md,
-.step-as {
+.step-as,
+.lcm-hl {
   border-radius: 4px;
   padding: 0.05em 0.4em;
   /* 底色始终是浅色，所以文字固定用深色，亮色/暗色主题下都清晰 */
@@ -54,6 +55,9 @@
 .step-e  { background-color: #ded4ff; }
 .step-md { background-color: #b3e0c0; }
 .step-as { background-color: #ffe0a3; }
+
+/* 公倍数标记色：和公式里的 \colorbox{#ffc9c9} 一致，两处改颜色要同步 */
+.lcm-hl  { background-color: #ffc9c9; }
 
 /* ------------------------------------------------------------------
    代码字号
