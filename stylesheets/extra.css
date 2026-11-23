@@ -1,0 +1,95 @@
+/* 块级数学公式底色（KaTeX 显示模式） */
+
+.katex-display {
+  background-color: #f4f6fa;          /* 亮色主题背景 */
+  border-radius: 8px;
+  padding: 0.9em 1.2em;
+  margin: 1.2em 0;
+  overflow-x: auto;                   /* 长公式横向滚动，避免溢出 */
+}
+
+[data-md-color-scheme="slate"] .katex-display {
+  background-color: rgba(255, 255, 255, 0.05);  /* 暗色主题背景 */
+}
+
+/* 暗色主题：\colorbox 的文字改深色
+   KaTeX 把 \colorbox 拆成「背景层」和「文字层」两个兄弟元素：
+     <span class="vlist">
+       <span><span class="pstrut"></span><span class="stretchy colorbox" style="background-color:…"></span></span>   ← 只有底色，没有文字
+       <span><span class="pstrut"></span><span class="mord boxpad"><span>5×3</span></span></span>                    ← 真正显示文字
+     </span>
+   所以直接给 .colorbox 设 color 是没用的（它内部没有文字），必须改同级的 .boxpad。
+   选择器限定「同一行里存在 colorbox 的 boxpad」，行内公式和块级公式都适用，
+   也不会波及 \boxed{} 和普通公式。 */
+[data-md-color-scheme="slate"] .katex .vlist > span:has(> .colorbox) ~ span > .boxpad {
+  color: #1f2328 !important;
+}
+
+/* ------------------------------------------------------------------
+   运算步骤配色（PEMDAS 四步）
+   ------------------------------------------------------------------
+   同一步骤在「公式」和「文字」里用同一个底色，方便对照：
+
+     公式： {\colorbox{#b3e0c0}{$5 \times 3$}}   —— 括号里是十六进制色值
+     文字： <span class="step-md">第三步 · 乘法</span>
+
+   改颜色时两边要一起改，表里是同一组值：
+     step-p   括号    #c0d8ff
+     step-e   指数    #ded4ff
+     step-md  乘除    #b3e0c0
+     step-as  加减    #ffe0a3
+   ------------------------------------------------------------------ */
+
+.step-p,
+.step-e,
+.step-md,
+.step-as,
+.lcm-hl {
+  border-radius: 4px;
+  padding: 0.05em 0.4em;
+  /* 底色始终是浅色，所以文字固定用深色，亮色/暗色主题下都清晰 */
+  color: #1f2328;
+}
+
+.step-p  { background-color: #c0d8ff; }
+.step-e  { background-color: #ded4ff; }
+.step-md { background-color: #b3e0c0; }
+.step-as { background-color: #ffe0a3; }
+
+/* 公倍数标记色：和公式里的 \colorbox{#ffc9c9} 一致，两处改颜色要同步 */
+.lcm-hl  { background-color: #ffc9c9; }
+
+/* ------------------------------------------------------------------
+   代码字号
+   ------------------------------------------------------------------
+   主题默认写的是：
+
+     .md-typeset code { font-size: .85em }
+
+   em 是「相对父容器」的，所以代码会被两重缩小：
+
+     正文          容器 .8rem(16px)  × 代码 .85em → 13.6px
+     ??? 折叠框    容器 .64rem(12.8px) × 代码 .85em → 10.9px   ← 例子块里的代码
+     表格          容器 .64rem(12.8px) × 代码 .85em → 10.9px
+
+   第 2、3 行就是「代码放进例子当中就变小」的原因：容器先缩到 .64rem，
+   代码再在缩过的容器里乘 .85em，两次缩水叠在一起。
+
+   改成 rem 绝对字号后，代码在任何容器里都是同一个大小，只缩一次（不缩）。
+   换成 px 换算（根字号 html{font-size:125%} → 1rem = 20px）：
+
+     .72rem = 14.4px，比正文 16px 略小，但比原来的 13.6px 更耐看
+
+   想整体调大调小只改下面这一个数即可。行内代码与代码块共用这条规则
+   （代码块是 pre > code，pre 自身不设 font-size，会继承这条）。
+   ------------------------------------------------------------------ */
+
+.md-typeset code {
+  font-size: .72rem;
+}
+
+/* 标题里的行内代码例外：继续用 em，跟着标题字号一起缩放
+   （否则 h1 里的 `code` 会和 h1 正文一样大，反而失衡） */
+.md-typeset :is(h1, h2, h3, h4, h5, h6) code {
+  font-size: .85em;
+}
